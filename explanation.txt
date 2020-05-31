@@ -1,0 +1,63 @@
+If you're not familiar with any Stack Exchange website, take the time to explore one of them. Try to answer a few of these questions in a markdown cell:
+What kind of questions are welcome on this site?
+What, other than questions, does the site's home subdivide into?
+Does any of them look useful towards our goal?
+What information is available in each post?
+Explore some of the questions that were asked.
+Try asking a couple of questions on any of Stack Exchange sites to get a better feel for how the sites operate.
+.......
+Explore Data Science Stack Exchange's data model.
+Investigate a few of the tables, especially those whose names sound more promising;
+Write a few queries to get a feel for the data;
+In a markdown cell, write about what tables look more promising towards finding the most popular content.
+......
+The posts table has a lot of columns. We'll be focusing our attention on those that seem relevant towards our goal:
+
+Id: An identification number for the post.
+PostTypeId: An identification number for the type of post.
+
+posttypes
+
+CreationDate: The date and time of creation of the post.
+
+Score: The post's score.
+ViewCount: How many times the post was viewed.
+Tags: What tags were used.
+AnswerCount: How many answers the question got (only applicable to question posts).
+FavoriteCount: How many times the question was favored (only applicable to question posts).
+Note that with the exception of the tags column, the last few columns contain information about how popular the post is — the kind of information we're after.
+
+There are eight different types of post. Before we try to figure out which of them are relevant to us, let's check how many of them there are:
+.....
+Run a query against the SEDE DSSE database that extracts the columns listed above for all the questions in 2019.
+....
+Read in the file into a dataframe.
+Explore the data. Try to answer a few of these questions in a markdown cell:
+How many missing values are there in each column?
+Can we fix the missing values somehow?
+Are the types of each column adequate?
+What can we do about the Tags column?
+.....
+Fill in the missing values with 0.
+Set the types of each column in accordance to what was illustrated above.
+Clean the Tags column and assign it back to itself:
+Use the process illustrated above.
+Assign the result to questions["Tags"].
+....
+Count how many times each tag was used.
+Count how many times each tag was viewed.
+Create visualizations for the top tags of each of the above results.
+.....
+The goal of this exercise is to make you think about technical solutions to determining how tags are related. We haven't covered any techniques to deal with this yet, so don't worry if nothing comes to mind.
+
+Brainstorm some ways in which you could find relationships between pair of tags.
+Brainstorm some ways in which you could find relationships between multiple tags.
+.....
+Read the file all_questions.csv into a dataframe.
+Transform the tags column in a similar manner to what was previously done.
+Think about what questions should be classified as deep learning questions and the implement that definition.
+Decide on an adequate timeframe and track interest in deep learning across that timeframe:
+Count how many deep learning questions are asked per time period.
+The total amount of questions per time period.
+How many deep learning questions there are relative to the total amount of questions per time period;
+Write your observations and final recommendation in a markdown cell.
