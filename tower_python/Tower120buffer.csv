@@ -1,0 +1,2137 @@
+No,Site_Name,Lon,Lat,Village,Cell,Sector,District,Province,Tower_Heig,RASTERVALU,obst_hgt,BUFF_DIST,ORIG_FID,Name,descriptio,second,third
+"1",S008_ISAR-Rubona,29.77222000000,-2.48966000000,Rubona,Kiruhura,Rusatira,Huye,South,"36","1737","1773",120.00000000000,"0",obstacles - tower - 150 - 20,"Site Name: S008_ISAR-Rubona
+SRTM_Hgt: 1737
+Tower_Hgt: 36
+","1737","36"
+"2",S010_Gikonko,29.85661000000,-2.48425000000,Rugarama,Gikonko,Gikonko,Gisagara,South,"36","1604","1640",120.00000000000,"1",obstacles - tower - 150 - 20,"Site Name: S010_Gikonko
+SRTM_Hgt: 1604
+Tower_Hgt: 36
+","1604","36"
+"3",S017_Kanyaru,29.67658000000,-2.78622000000,Nteko,Fugi,Ngoma,Nyaruguru,South,"54","1756","1810",120.00000000000,"2",obstacles - tower - 150 - 20,"Site Name: S017_Kanyaru
+SRTM_Hgt: 1756
+Tower_Hgt: 54
+","1756","54"
+"4",S019_Gasarenda,29.49073000000,-2.50714000000,Muse,Gasarenda,Tare,Nyamagabe,South,"36","2210","2246",120.00000000000,"3",obstacles - tower - 150 - 20,"Site Name: S019_Gasarenda
+SRTM_Hgt: 2210
+Tower_Hgt: 36
+","2210","36"
+"5",S021_Mushubi,29.42106000000,-2.41905000000,Nyamaberi,Gifurwe,Buruhukiro,Nyamagabe,South,"36","2500","2536",120.00000000000,"4",obstacles - tower - 150 - 20,"Site Name: S021_Mushubi
+SRTM_Hgt: 2500
+Tower_Hgt: 36
+","2500","36"
+"6",S022_Tumba MTN,29.73850000000,-2.62922000000,Rebero,Gitwa,Tumba,Huye,South,"36","1764","1800",120.00000000000,"5",obstacles - tower - 150 - 20,"Site Name: S022_Tumba MTN
+SRTM_Hgt: 1764
+Tower_Hgt: 36
+","1764","36"
+"7",S023_Butare Mrkt,29.74047000000,-2.60369000000,Bukinanyana,Butare,Ngoma,Huye,South,"36","1746","1782",120.00000000000,"6",obstacles - tower - 150 - 20,"Site Name: S023_Butare Mrkt
+SRTM_Hgt: 1746
+Tower_Hgt: 36
+","1746","36"
+"8",S025_Gikongoro MTN,29.57392000000,-2.46689000000,Nyarusange,Nyamugari,Gasaka,Nyamagabe,South,"36","1937","1973",120.00000000000,"7",obstacles - tower - 150 - 20,"Site Name: S025_Gikongoro MTN
+SRTM_Hgt: 1937
+Tower_Hgt: 36
+","1937","36"
+"9",S026_Kaduha,29.52967000000,-2.25841000000,Kabuhoro,Gitwa,Mugano,Nyamagabe,South,"36","2196","2232",120.00000000000,"8",obstacles - tower - 150 - 20,"Site Name: S026_Kaduha
+SRTM_Hgt: 2196
+Tower_Hgt: 36
+","2196","36"
+"10",S066_Kibeho II,29.55340000000,-2.64230000000,Agateko,Kibeho,Kibeho,Nyaruguru,South,"36","1931","1967",120.00000000000,"9",obstacles - tower - 150 - 20,"Site Name: S066_Kibeho II
+SRTM_Hgt: 1931
+Tower_Hgt: 36
+","1931","36"
+"11",S030_Mata-Nyaruguru,29.50689000000,-2.57984000000,Kabari,Giseke,Ruramba,Nyaruguru,South,"36","2286","2322",120.00000000000,"10",obstacles - tower - 150 - 20,"Site Name: S030_Mata-Nyaruguru
+SRTM_Hgt: 2286
+Tower_Hgt: 36
+","2286","36"
+"12",S032_Nyamagabe,29.60603000000,-2.44298000000,Nyanza,Karama,Cyanika,Nyamagabe,South,"36","1975","2011",120.00000000000,"11",obstacles - tower - 150 - 20,"Site Name: S032_Nyamagabe
+SRTM_Hgt: 1975
+Tower_Hgt: 36
+","1975","36"
+"13",S031_Kansi,29.76778000000,-2.71278000000,Akakijugujugu,Impinga,Kigembe,Gisagara,South,"36","1737","1773",120.00000000000,"12",obstacles - tower - 150 - 20,"Site Name: S031_Kansi
+SRTM_Hgt: 1737
+Tower_Hgt: 36
+","1737","36"
+"14",S033_Kibeho,29.52153000000,-2.70942000000,Ntwari,Ntwali,Munini,Nyaruguru,South,"54","2126","2180",120.00000000000,"13",obstacles - tower - 150 - 20,"Site Name: S033_Kibeho
+SRTM_Hgt: 2126
+Tower_Hgt: 54
+","2126","54"
+"15",S034_Mpare,29.72220000000,-2.59950000000,Ngoma  V,Ngoma,Ngoma,Huye,South,"36","1766","1802",120.00000000000,"14",obstacles - tower - 150 - 20,"Site Name: S034_Mpare
+SRTM_Hgt: 1766
+Tower_Hgt: 36
+","1766","36"
+"16",S037_Taba,29.74900000000,-2.59553000000,Taba,Butare,Ngoma,Huye,South,"22","1719","1741",120.00000000000,"15",obstacles - tower - 150 - 20,"Site Name: S037_Taba
+SRTM_Hgt: 1719
+Tower_Hgt: 22
+","1719","22"
+"17",S040_Nshiri,29.43686000000,-2.73306000000,Mishungero,Mishungero,Nyabimata,Nyaruguru,South,"36","2442","2478",120.00000000000,"16",obstacles - tower - 150 - 20,"Site Name: S040_Nshiri
+SRTM_Hgt: 2442
+Tower_Hgt: 36
+","2442","36"
+"18",S042_Nkanda,29.49099000000,-2.78453000000,Nkanda,Nkanda,Busanze,Nyaruguru,South,"36","2307","2343",120.00000000000,"17",obstacles - tower - 150 - 20,"Site Name: S042_Nkanda
+SRTM_Hgt: 2307
+Tower_Hgt: 36
+","2307","36"
+"19",S044_Gatare II,29.38256000000,-2.37258000000,Gashasha,Gatare,Gatare,Nyamagabe,South,"36","2526","2562",120.00000000000,"18",obstacles - tower - 150 - 20,"Site Name: S044_Gatare II
+SRTM_Hgt: 2526
+Tower_Hgt: 36
+","2526","36"
+"20",S047_Rwabuye,29.75322000000,-2.57681000000,Agasharu,Gatobotobo,Mbazi,Huye,South,"36","1721","1757",120.00000000000,"19",obstacles - tower - 150 - 20,"Site Name: S047_Rwabuye
+SRTM_Hgt: 1721
+Tower_Hgt: 36
+","1721","36"
+"21",S050_Kigeme,29.53025000000,-2.48608000000,Munombe,Kigeme,Gasaka,Nyamagabe,South,"36","2123","2159",120.00000000000,"20",obstacles - tower - 150 - 20,"Site Name: S050_Kigeme
+SRTM_Hgt: 2123
+Tower_Hgt: 36
+","2123","36"
+"22",S051_Cyarwa,29.75400000000,-2.62694000000,Kigarama,Cyarwa,Tumba,Huye,South,"36","1720","1756",120.00000000000,"21",obstacles - tower - 150 - 20,"Site Name: S051_Cyarwa
+SRTM_Hgt: 1720
+Tower_Hgt: 36
+","1720","36"
+"23",S054_Mbazi,29.60320000000,-2.43917000000,Nyanza,Karama,Cyanika,Nyamagabe,South,"36","1991","2027",120.00000000000,"22",obstacles - tower - 150 - 20,"Site Name: S054_Mbazi
+SRTM_Hgt: 1991
+Tower_Hgt: 36
+","1991","36"
+"24",S056_Mukindo,29.86339000000,-2.73200000000,Makwaza,Nyabisagara,Mukindo,Gisagara,South,"36","1708","1744",120.00000000000,"23",obstacles - tower - 150 - 20,"Site Name: S056_Mukindo
+SRTM_Hgt: 1708
+Tower_Hgt: 36
+","1708","36"
+"25",S057_Ngera,29.69522000000,-2.72489000000,Nyarugano,Murama,Ngera,Nyaruguru,South,"36","1832","1868",120.00000000000,"24",obstacles - tower - 150 - 20,"Site Name: S057_Ngera
+SRTM_Hgt: 1832
+Tower_Hgt: 36
+","1832","36"
+"26",S058_Kibirizi,29.78634000000,-2.62981000000,Zihare,Muyira,Kibirizi,Gisagara,South,"36","1740","1776",120.00000000000,"25",obstacles - tower - 150 - 20,"Site Name: S058_Kibirizi
+SRTM_Hgt: 1740
+Tower_Hgt: 36
+","1740","36"
+"27",S059_Muganza,29.85300000000,-2.65092000000,Taba,Remera,Muganza,Gisagara,South,"36","1796","1832",120.00000000000,"26",obstacles - tower - 150 - 20,"Site Name: S059_Muganza
+SRTM_Hgt: 1796
+Tower_Hgt: 36
+","1796","36"
+"28",S060_Matyazo,29.72410000000,-2.60020000000,Ngoma III,Ngoma,Ngoma,Huye,South,"35","1790","1825",120.00000000000,"27",obstacles - tower - 150 - 20,"Site Name: S060_Matyazo
+SRTM_Hgt: 1790
+Tower_Hgt: 35
+","1790","35"
+"29",S064_Nyamirama,29.72510000000,-2.68540000000,Nyamirama,Nyamirama,Ngera,Nyaruguru,South,"36","1852","1888",120.00000000000,"28",obstacles - tower - 150 - 20,"Site Name: S064_Nyamirama
+SRTM_Hgt: 1852
+Tower_Hgt: 36
+","1852","36"
+"30",S065_Maraba,29.60870000000,-2.51680000000,Taba,Gasumba,Maraba,Huye,South,"36","1728","1764",120.00000000000,"29",obstacles - tower - 150 - 20,"Site Name: S065_Maraba
+SRTM_Hgt: 1728
+Tower_Hgt: 36
+","1728","36"
+"31",S077_Gikonko II,29.79300000000,-2.48760000000,Murambi,Kimuna,Rusatira,Huye,South,"36","1681","1717",120.00000000000,"30",obstacles - tower - 150 - 20,"Site Name: S077_Gikonko II
+SRTM_Hgt: 1681
+Tower_Hgt: 36
+","1681","36"
+"32",S078_Ndora,29.83684000000,-2.60086000000,Gisagara,Gisagara,Ndora,Gisagara,South,"36","1697","1733",120.00000000000,"31",obstacles - tower - 150 - 20,"Site Name: S078_Ndora
+SRTM_Hgt: 1697
+Tower_Hgt: 36
+","1697","36"
+"33",S083_Kitabi,29.42942000000,-2.51972000000,Bususuruke,Kagano,Kitabi,Nyamagabe,South,"55","2356","2411",120.00000000000,"32",obstacles - tower - 150 - 20,"Site Name: S083_Kitabi
+SRTM_Hgt: 2356
+Tower_Hgt: 55
+","2356","55"
+"34",S084_Ruhashya,29.73836000000,-2.47653000000,Rugarama,Ruhashya,Ruhashya,Huye,South,"36","1705","1741",120.00000000000,"33",obstacles - tower - 150 - 20,"Site Name: S084_Ruhashya
+SRTM_Hgt: 1705
+Tower_Hgt: 36
+","1705","36"
+"35",S086_Nyaruteja,29.73228000000,-2.76928000000,Agatare,Higiro,Nyanza,Gisagara,South,"36","1702","1738",120.00000000000,"34",obstacles - tower - 150 - 20,"Site Name: S086_Nyaruteja
+SRTM_Hgt: 1702
+Tower_Hgt: 36
+","1702","36"
+"36",S088_Cyahinda,29.60634000000,-2.74350000000,Kinyaga,Cyahinda,Cyahinda,Nyaruguru,South,"36","1858","1894",120.00000000000,"35",obstacles - tower - 150 - 20,"Site Name: S088_Cyahinda
+SRTM_Hgt: 1858
+Tower_Hgt: 36
+","1858","36"
+"37",S089_Nyabimata,29.46841000000,-2.70017000000,Bihembe,Gihemvu,Nyabimata,Nyaruguru,South,"36","2175","2211",120.00000000000,"36",obstacles - tower - 150 - 20,"Site Name: S089_Nyabimata
+SRTM_Hgt: 2175
+Tower_Hgt: 36
+","2175","36"
+"38",S093_Nyagane,29.49967000000,-2.35643000000,Biziguro,Kavumu,Kaduha,Nyamagabe,South,"36","2448","2484",120.00000000000,"37",obstacles - tower - 150 - 20,"Site Name: S093_Nyagane
+SRTM_Hgt: 2448
+Tower_Hgt: 36
+","2448","36"
+"39",S094_Nyarurama,29.90040000000,-2.60089000000,Rusasa,Nyakibungo,Gishubi,Gisagara,South,"36","1528","1564",120.00000000000,"38",obstacles - tower - 150 - 20,"Site Name: S094_Nyarurama
+SRTM_Hgt: 1528
+Tower_Hgt: 36
+","1528","36"
+"40",S095_Cyumba,29.86645000000,-2.63782000000,Agasharu,Muganza,Muganza,Gisagara,South,"36","1618","1654",120.00000000000,"39",obstacles - tower - 150 - 20,"Site Name: S095_Cyumba
+SRTM_Hgt: 1618
+Tower_Hgt: 36
+","1618","36"
+"41",S097_Nkakwa,29.61133000000,-2.77228000000,Nyarubuye,Nkakwa,Nyagisozi,Nyaruguru,South,"36","1857","1893",120.00000000000,"40",obstacles - tower - 150 - 20,"Site Name: S097_Nkakwa
+SRTM_Hgt: 1857
+Tower_Hgt: 36
+","1857","36"
+"42",S101_Gasaka,29.55630000000,-2.46050000000,Muriro,Remera,Gasaka,Nyamagabe,South,"36","2042","2078",120.00000000000,"41",obstacles - tower - 150 - 20,"Site Name: S101_Gasaka
+SRTM_Hgt: 2042
+Tower_Hgt: 36
+","2042","36"
+"43",S107_Mugombwa,29.85315000000,-2.67824000000,Impinga,Mugombwa,Mugombwa,Gisagara,South,"36","1719","1755",120.00000000000,"42",obstacles - tower - 150 - 20,"Site Name: S107_Mugombwa
+SRTM_Hgt: 1719
+Tower_Hgt: 36
+","1719","36"
+"44",S108_Ndago,29.56520000000,-2.68375000000,Mubuga,Mubuga,Kibeho,Nyaruguru,South,"22","1880","1902",120.00000000000,"43",obstacles - tower - 150 - 20,"Site Name: S108_Ndago
+SRTM_Hgt: 1880
+Tower_Hgt: 22
+","1880","22"
+"45",S116_Musha,29.86770000000,-2.52406000000,Rugarama,Bukinanyana,Musha,Gisagara,South,"55","1523","1578",120.00000000000,"44",obstacles - tower - 150 - 20,"Site Name: S116_Musha
+SRTM_Hgt: 1523
+Tower_Hgt: 55
+","1523","55"
+"46",S118_Nkomane,29.40413000000,-2.31166000000,Mugari,Nkomane,Nkomane,Nyamagabe,South,"56","2347","2403",120.00000000000,"45",obstacles - tower - 150 - 20,"Site Name: S118_Nkomane
+SRTM_Hgt: 2347
+Tower_Hgt: 56
+","2347","56"
+"47",S018_NUR,29.73461000000,-2.61134000000,Mamba,Butare,Ngoma,Huye,South,"36","1755","1791",120.00000000000,"46",obstacles - tower - 150 - 20,"Site Name: S018_NUR
+SRTM_Hgt: 1755
+Tower_Hgt: 36
+","1755","36"
+"48",S012_Nyakibanda,29.69725000000,-2.64786000000,Kamabuye,Nyakibanda,Gishamvu,Huye,South,"54","1791","1845",120.00000000000,"47",obstacles - tower - 150 - 20,"Site Name: S012_Nyakibanda
+SRTM_Hgt: 1791
+Tower_Hgt: 54
+","1791","54"
+"49",S015_Save,29.77264000000,-2.55472000000,Nyarigina,Gatoki,Save,Gisagara,South,"55","1753","1808",120.00000000000,"48",obstacles - tower - 150 - 20,"Site Name: S015_Save
+SRTM_Hgt: 1753
+Tower_Hgt: 55
+","1753","55"
+"50",S003_Nyanza I,29.74956000000,-2.35566000000,Nyanza,Nyanza,Busasamana,Nyanza,South,"54","1794","1848",120.00000000000,"49",obstacles - tower - 150 - 20,"Site Name: S003_Nyanza I
+SRTM_Hgt: 1794
+Tower_Hgt: 54
+","1794","54"
+"51",S007_Ruhango,29.78772000000,-2.23911000000,Ruhango,Nyamagana,Ruhango,Ruhango,South,"36","1723","1759",120.00000000000,"50",obstacles - tower - 150 - 20,"Site Name: S007_Ruhango
+SRTM_Hgt: 1723
+Tower_Hgt: 36
+","1723","36"
+"52",S009_Byimana,29.74756000000,-2.15311000000,Kirengeri,Kirengeri,Byimana,Ruhango,South,"36","1848","1884",120.00000000000,"51",obstacles - tower - 150 - 20,"Site Name: S009_Byimana
+SRTM_Hgt: 1848
+Tower_Hgt: 36
+","1848","36"
+"53",S011_Gitwe,29.68914000000,-2.24098000000,Karambo,Murama,Bweramana,Ruhango,South,"54","1693","1747",120.00000000000,"52",obstacles - tower - 150 - 20,"Site Name: S011_Gitwe
+SRTM_Hgt: 1693
+Tower_Hgt: 54
+","1693","54"
+"54",S013_Kamonyi,29.90530000000,-2.01066000000,Kamonyi,Nkingo,Gacurabwenge,Kamonyi,South,"54","1777","1831",120.00000000000,"53",obstacles - tower - 150 - 20,"Site Name: S013_Kamonyi
+SRTM_Hgt: 1777
+Tower_Hgt: 54
+","1777","54"
+"55",S014_Gitarama II,29.75910000000,-2.08880000000,Nyarucyamu Ii,Gahogo,Nyamabuye,Muhanga,South,"54","1888","1942",120.00000000000,"54",obstacles - tower - 150 - 20,"Site Name: S014_Gitarama II
+SRTM_Hgt: 1888
+Tower_Hgt: 54
+","1888","54"
+"56",S020_Muhanga,29.75158000000,-2.08781000000,Rutenga,Gahogo,Nyamabuye,Muhanga,South,"36","1883","1919",120.00000000000,"55",obstacles - tower - 150 - 20,"Site Name: S020_Muhanga
+SRTM_Hgt: 1883
+Tower_Hgt: 36
+","1883","36"
+"57",S024_Muyira,29.87680000000,-2.38670000000,Nyarurama,Rwotso,Kibilizi,Nyanza,South,"54","1698","1752",120.00000000000,"56",obstacles - tower - 150 - 20,"Site Name: S024_Muyira
+SRTM_Hgt: 1698
+Tower_Hgt: 54
+","1698","54"
+"58",S027_Cyakabiri,29.79250000000,-2.06722000000,Munyinya,Ruli,Shyogwe,Muhanga,South,"54","1931","1985",120.00000000000,"57",obstacles - tower - 150 - 20,"Site Name: S027_Cyakabiri
+SRTM_Hgt: 1931
+Tower_Hgt: 54
+","1931","54"
+"59",S028_Ruhango II,29.78736000000,-2.22639000000,Kanazi,Munini,Ruhango,Ruhango,South,"36","1743","1779",120.00000000000,"58",obstacles - tower - 150 - 20,"Site Name: S028_Ruhango II
+SRTM_Hgt: 1743
+Tower_Hgt: 36
+","1743","36"
+"60",S029_Nyanza II,29.76614000000,-2.34961000000,Bigega,Gahondo,Busasamana,Nyanza,South,"55","1811","1866",120.00000000000,"59",obstacles - tower - 150 - 20,"Site Name: S029_Nyanza II
+SRTM_Hgt: 1811
+Tower_Hgt: 55
+","1811","55"
+"61",S035_Mugina,29.93445000000,-2.11003000000,Mikamba,Mbati,Mugina,Kamonyi,South,"36","1581","1617",120.00000000000,"60",obstacles - tower - 150 - 20,"Site Name: S035_Mugina
+SRTM_Hgt: 1581
+Tower_Hgt: 36
+","1581","36"
+"62",S038_Rutobwe,29.79358000000,-1.94536000000,Gasharu,Giko,Kayumbu,Kamonyi,South,"36","1945","1981",120.00000000000,"61",obstacles - tower - 150 - 20,"Site Name: S038_Rutobwe
+SRTM_Hgt: 1945
+Tower_Hgt: 36
+","1945","36"
+"63",S039_Mpanga,29.72439000000,-2.30122000000,Birembo,Mpanga,Mukingo,Nyanza,South,"36","1927","1963",120.00000000000,"62",obstacles - tower - 150 - 20,"Site Name: S039_Mpanga
+SRTM_Hgt: 1927
+Tower_Hgt: 36
+","1927","36"
+"64",S041_Remera_Rukoma,29.90205000000,-1.94607000000,Kabande,Remera,Rukoma,Kamonyi,South,"36","1871","1907",120.00000000000,"63",obstacles - tower - 150 - 20,"Site Name: S041_Remera_Rukoma
+SRTM_Hgt: 1871
+Tower_Hgt: 36
+","1871","36"
+"65",S043_Ndiza MTN,29.71675000000,-1.88447000000,Kagahina,Remera,Kiyumba,Muhanga,South,"36","2282","2318",120.00000000000,"64",obstacles - tower - 150 - 20,"Site Name: S043_Ndiza MTN
+SRTM_Hgt: 2282
+Tower_Hgt: 36
+","2282","36"
+"66",S045_ISAR Songa,29.77922000000,-2.41189000000,Rwambariro,Kabona,Kinazi,Huye,South,"36","1619","1655",120.00000000000,"65",obstacles - tower - 150 - 20,"Site Name: S045_ISAR Songa
+SRTM_Hgt: 1619
+Tower_Hgt: 36
+","1619","36"
+"67",S048_Gatagara,29.76258000000,-2.30739000000,Karuhwanya,Gatagara,Mukingo,Nyanza,South,"36","1811","1847",120.00000000000,"66",obstacles - tower - 150 - 20,"Site Name: S048_Gatagara
+SRTM_Hgt: 1811
+Tower_Hgt: 36
+","1811","36"
+"68",S049_Ntongwe,29.82389000000,-2.24355000000,Nangurugomo,Gikoma,Ruhango,Ruhango,South,"36","1658","1694",120.00000000000,"67",obstacles - tower - 150 - 20,"Site Name: S049_Ntongwe
+SRTM_Hgt: 1658
+Tower_Hgt: 36
+","1658","36"
+"69",S055_Musambira,29.84541000000,-2.03455000000,Nyarutovu,Karengera,Musambira,Kamonyi,South,"36","1745","1781",120.00000000000,"68",obstacles - tower - 150 - 20,"Site Name: S055_Musambira
+SRTM_Hgt: 1745
+Tower_Hgt: 36
+","1745","36"
+"70",S061_Busoro,29.93141000000,-2.28961000000,Bweramana,Masangano,Busoro,Nyanza,South,"36","1458","1494",120.00000000000,"69",obstacles - tower - 150 - 20,"Site Name: S061_Busoro
+SRTM_Hgt: 1458
+Tower_Hgt: 36
+","1458","36"
+"71",S062_Mugandamure,29.76620000000,-2.33730000000,Akirabo,Kavumu,Busasamana,Nyanza,South,"36","1805","1841",120.00000000000,"70",obstacles - tower - 150 - 20,"Site Name: S062_Mugandamure
+SRTM_Hgt: 1805
+Tower_Hgt: 36
+","1805","36"
+"72",S063_Buhoro,29.77600000000,-2.19010000000,Muhororo Ii,Buhoro,Ruhango,Ruhango,South,"36","1802","1838",120.00000000000,"71",obstacles - tower - 150 - 20,"Site Name: S063_Buhoro
+SRTM_Hgt: 1802
+Tower_Hgt: 36
+","1802","36"
+"73",S067_Rurangazi,29.67210000000,-2.34230000000,Kamushi,Nyarusange,Rwabicuma,Nyanza,South,"36","1715","1751",120.00000000000,"72",obstacles - tower - 150 - 20,"Site Name: S067_Rurangazi
+SRTM_Hgt: 1715
+Tower_Hgt: 36
+","1715","36"
+"74",S068_Shyogwe,29.77200000000,-2.11120000000,Kabungo,Kinini,Shyogwe,Muhanga,South,"36","1884","1920",120.00000000000,"73",obstacles - tower - 150 - 20,"Site Name: S068_Shyogwe
+SRTM_Hgt: 1884
+Tower_Hgt: 36
+","1884","36"
+"75",S069_Mashenyi,29.92750000000,-2.46220000000,Mashenyi,Mamba,Mamba,Gisagara,South,"36","1540","1576",120.00000000000,"74",obstacles - tower - 150 - 20,"Site Name: S069_Mashenyi
+SRTM_Hgt: 1540
+Tower_Hgt: 36
+","1540","36"
+"76",S071_Rwabicuma,29.70470000000,-2.32510000000,Bisambu,Gacu,Rwabicuma,Nyanza,South,"36","1860","1896",120.00000000000,"75",obstacles - tower - 150 - 20,"Site Name: S071_Rwabicuma
+SRTM_Hgt: 1860
+Tower_Hgt: 36
+","1860","36"
+"77",S075_Mbuye,29.85031000000,-2.14220000000,Kinyambo,Mbuye,Mbuye,Ruhango,South,"36","1707","1743",120.00000000000,"76",obstacles - tower - 150 - 20,"Site Name: S075_Mbuye
+SRTM_Hgt: 1707
+Tower_Hgt: 36
+","1707","36"
+"78",S076_Nzuki,29.70560000000,-2.28540000000,Nzuki,Nkomero,Mukingo,Nyanza,South,"36","1859","1895",120.00000000000,"77",obstacles - tower - 150 - 20,"Site Name: S076_Nzuki
+SRTM_Hgt: 1859
+Tower_Hgt: 36
+","1859","36"
+"79",S079_Buhanda,29.66228000000,-2.22227000000,Bweramana,Nyakogo,Kinihira,Ruhango,South,"36","1848","1884",120.00000000000,"78",obstacles - tower - 150 - 20,"Site Name: S079_Buhanda
+SRTM_Hgt: 1848
+Tower_Hgt: 36
+","1848","36"
+"80",S080_Kinazi,29.90984000000,-2.20189000000,Nyarugenge,Burima,Kinazi,Ruhango,South,"36","1531","1567",120.00000000000,"79",obstacles - tower - 150 - 20,"Site Name: S080_Kinazi
+SRTM_Hgt: 1531
+Tower_Hgt: 36
+","1531","36"
+"81",S081_Rongi,29.76189000000,-1.83527000000,Nyabikenke,Karambo,Rongi,Muhanga,South,"36","1723","1759",120.00000000000,"80",obstacles - tower - 150 - 20,"Site Name: S081_Rongi
+SRTM_Hgt: 1723
+Tower_Hgt: 36
+","1723","36"
+"82",S082_Byimana II,29.71755000000,-2.16445000000,Gahama,Kamusenyi,Byimana,Ruhango,South,"36","2005","2041",120.00000000000,"81",obstacles - tower - 150 - 20,"Site Name: S082_Byimana II
+SRTM_Hgt: 2005
+Tower_Hgt: 36
+","2005","36"
+"83",S090_Kigarama,29.74994000000,-2.35147000000,Kigarama,Nyanza,Busasamana,Nyanza,South,"36","1791","1827",120.00000000000,"82",obstacles - tower - 150 - 20,"Site Name: S090_Kigarama
+SRTM_Hgt: 1791
+Tower_Hgt: 36
+","1791","36"
+"84",S091_Kigoma,29.78797000000,-2.26964000000,Muyange,Rwoga,Ruhango,Ruhango,South,"36","1742","1778",120.00000000000,"83",obstacles - tower - 150 - 20,"Site Name: S091_Kigoma
+SRTM_Hgt: 1742
+Tower_Hgt: 36
+","1742","36"
+"85",S092_Bitare,29.86584000000,-1.96124000000,Kokobe,Bitare,Karama,Kamonyi,South,"36","1773","1809",120.00000000000,"84",obstacles - tower - 150 - 20,"Site Name: S092_Bitare
+SRTM_Hgt: 1773
+Tower_Hgt: 36
+","1773","36"
+"86",S096_Rukina,29.66435000000,-2.19022000000,Munini,Rukina,Kinihira,Ruhango,South,"36","1856","1892",120.00000000000,"85",obstacles - tower - 150 - 20,"Site Name: S096_Rukina
+SRTM_Hgt: 1856
+Tower_Hgt: 36
+","1856","36"
+"87",S098_Rukondo,29.66640000000,-2.40960000000,Bweru,Kirambi,Nyagisozi,Nyanza,South,"36","1715","1751",120.00000000000,"86",obstacles - tower - 150 - 20,"Site Name: S098_Rukondo
+SRTM_Hgt: 1715
+Tower_Hgt: 36
+","1715","36"
+"88",S099_Nyamiyaga,29.90237000000,-2.06226000000,Nkoto,Kabashumba,Nyamiyaga,Kamonyi,South,"36","1686","1722",120.00000000000,"87",obstacles - tower - 150 - 20,"Site Name: S099_Nyamiyaga
+SRTM_Hgt: 1686
+Tower_Hgt: 36
+","1686","36"
+"89",S100_Kimigenge,29.94057000000,-1.89546000000,Cyimigenge,Kabuga,Ngamba,Kamonyi,South,"36","1577","1613",120.00000000000,"88",obstacles - tower - 150 - 20,"Site Name: S100_Kimigenge
+SRTM_Hgt: 1577
+Tower_Hgt: 36
+","1577","36"
+"90",S102_Cubi,29.83300000000,-1.87540000000,Gitwa,Cubi,Kayenzi,Kamonyi,South,"36","1951","1987",120.00000000000,"89",obstacles - tower - 150 - 20,"Site Name: S102_Cubi
+SRTM_Hgt: 1951
+Tower_Hgt: 36
+","1951","36"
+"91",S103_Nyabitare,29.85178000000,-2.21335000000,Nyabitare,Kebero,Ntongwe,Ruhango,South,"36","1652","1688",120.00000000000,"90",obstacles - tower - 150 - 20,"Site Name: S103_Nyabitare
+SRTM_Hgt: 1652
+Tower_Hgt: 36
+","1652","36"
+"92",S104_Nteko,29.97434000000,-2.09659000000,Nyagisozi,Nteko,Mugina,Kamonyi,South,"36","1563","1599",120.00000000000,"91",obstacles - tower - 150 - 20,"Site Name: S104_Nteko
+SRTM_Hgt: 1563
+Tower_Hgt: 36
+","1563","36"
+"93",S105_Gashinge,29.73433000000,-1.78105000000,Karama,Gasharu,Rongi,Muhanga,South,"22","1899","1921",120.00000000000,"92",obstacles - tower - 150 - 20,"Site Name: S105_Gashinge
+SRTM_Hgt: 1899
+Tower_Hgt: 22
+","1899","22"
+"94",W054_Ngororero,29.63109000000,-1.83867000000,Rususa,Rususa,NGORORERO,Ngororero,West,"36","1862","1898",120.00000000000,"93",obstacles - tower - 150 - 20,"Site Name: W054_Ngororero
+SRTM_Hgt: 1862
+Tower_Hgt: 36
+","1862","36"
+"95",W056_Gatumba,29.65089000000,-1.89775000000,Ryabadanga,Rusororo,MUHORORO,Ngororero,West,"36","1878","1914",120.00000000000,"94",obstacles - tower - 150 - 20,"Site Name: W056_Gatumba
+SRTM_Hgt: 1878
+Tower_Hgt: 36
+","1878","36"
+"96",W060_Ramba,29.52540000000,-1.88810000000,Rurambo,Muramba,KAGEYO,Ngororero,West,"36","2447","2483",120.00000000000,"95",obstacles - tower - 150 - 20,"Site Name: W060_Ramba
+SRTM_Hgt: 2447
+Tower_Hgt: 36
+","2447","36"
+"97",W087_Kirengo,29.63324000000,-1.95962000000,Jimbu,Ruhanga,GATUMBA,Ngororero,West,"55","1923","1978",120.00000000000,"96",obstacles - tower - 150 - 20,"Site Name: W087_Kirengo
+SRTM_Hgt: 1923
+Tower_Hgt: 55
+","1923","55"
+"98",W005_Umuganda,29.26319000000,-1.67656000000,Ihuriro,Umuganda,Gisenyi,Rubavu,West,"45","1556","1601",120.00000000000,"97",obstacles - tower - 150 - 20,"Site Name: W005_Umuganda
+SRTM_Hgt: 1556
+Tower_Hgt: 45
+","1556","45"
+"99",W006_Rwaza,29.26841000000,-1.69975000000,Rwaza,Rwaza,Rugerero,Rubavu,West,"54","1643","1697",120.00000000000,"98",obstacles - tower - 150 - 20,"Site Name: W006_Rwaza
+SRTM_Hgt: 1643
+Tower_Hgt: 54
+","1643","54"
+"100",W010_Nkamira,29.37747000000,-1.63911000000,Kirerema,Kirerema,Kanzenze,Rubavu,West,"55","2301","2356",120.00000000000,"99",obstacles - tower - 150 - 20,"Site Name: W010_Nkamira
+SRTM_Hgt: 2301
+Tower_Hgt: 55
+","2301","55"
+"101",W013_Kabaya,29.53722000000,-1.75539000000,Migongo,Kabaya,KABAYA,Ngororero,West,"54","2317","2371",120.00000000000,"100",obstacles - tower - 150 - 20,"Site Name: W013_Kabaya
+SRTM_Hgt: 2317
+Tower_Hgt: 54
+","2317","54"
+"102",W017_Rubavu,29.25875000000,-1.69455000000,Gacuba,Nengo,Gisenyi,Rubavu,West,"36","1494","1530",120.00000000000,"101",obstacles - tower - 150 - 20,"Site Name: W017_Rubavu
+SRTM_Hgt: 1494
+Tower_Hgt: 36
+","1494","36"
+"103",W023_Mutura,29.41847000000,-1.55291000000,Kamuhe,Batikoti,Kabatwa,Nyabihu,West,"54","2734","2788",120.00000000000,"102",obstacles - tower - 150 - 20,"Site Name: W023_Mutura
+SRTM_Hgt: 2734
+Tower_Hgt: 54
+","2734","54"
+"104",W037_Rambura,29.52689000000,-1.66647000000,Nyanguragura,Guriro,Rambura,Nyabihu,West,"36","2579","2615",120.00000000000,"103",obstacles - tower - 150 - 20,"Site Name: W037_Rambura
+SRTM_Hgt: 2579
+Tower_Hgt: 36
+","2579","36"
+"105",W046_Bralirwa II,29.27706000000,-1.72756000000,Burima,Rubona,Nyamyumba,Rubavu,West,"36","1646","1682",120.00000000000,"104",obstacles - tower - 150 - 20,"Site Name: W046_Bralirwa II
+SRTM_Hgt: 1646
+Tower_Hgt: 36
+","1646","36"
+"106",W055_Kora,29.45859000000,-1.60675000000,Gakarara,Rega,Jenda,Nyabihu,West,"36","2694","2730",120.00000000000,"105",obstacles - tower - 150 - 20,"Site Name: W055_Kora
+SRTM_Hgt: 2694
+Tower_Hgt: 36
+","2694","36"
+"107",W059_Kivumu,29.32114000000,-1.77611000000,Karungu,Bunyunju,Kivumu,Rutsiro,West,"36","2012","2048",120.00000000000,"106",obstacles - tower - 150 - 20,"Site Name: W059_Kivumu
+SRTM_Hgt: 2012
+Tower_Hgt: 36
+","2012","36"
+"108",W062_Mukamira,29.50239000000,-1.61444000000,Kazibake,Rugeshi,Mukamira,Nyabihu,West,"36","2323","2359",120.00000000000,"107",obstacles - tower - 150 - 20,"Site Name: W062_Mukamira
+SRTM_Hgt: 2323
+Tower_Hgt: 36
+","2323","36"
+"109",W063_Mahoko,29.34767000000,-1.70228000000,Nyamugari,Mahoko,Kanama,Rubavu,West,"36","1881","1917",120.00000000000,"108",obstacles - tower - 150 - 20,"Site Name: W063_Mahoko
+SRTM_Hgt: 1881
+Tower_Hgt: 36
+","1881","36"
+"110",W065_Nkamira II,29.39860000000,-1.63940000000,Mareru,Nyamirango,Kanzenze,Rubavu,West,"36","2333","2369",120.00000000000,"109",obstacles - tower - 150 - 20,"Site Name: W065_Nkamira II
+SRTM_Hgt: 2333
+Tower_Hgt: 36
+","2333","36"
+"111",W066_Petite Barriere,29.25619000000,-1.68503000000,Kivumu,Kivumu,Gisenyi,Rubavu,West,"36","1526","1562",120.00000000000,"110",obstacles - tower - 150 - 20,"Site Name: W066_Petite Barriere
+SRTM_Hgt: 1526
+Tower_Hgt: 36
+","1526","36"
+"112",W067_Bigogwe,29.42580000000,-1.62200000000,Kazuba,Kijote,Bigogwe,Nyabihu,West,"36","2376","2412",120.00000000000,"111",obstacles - tower - 150 - 20,"Site Name: W067_Bigogwe
+SRTM_Hgt: 2376
+Tower_Hgt: 36
+","2376","36"
+"113",W068_Rubavu Airport,29.24740000000,-1.68190000000,Gasutamo,Mbugangari,Gisenyi,Rubavu,West,"36","1522","1558",120.00000000000,"112",obstacles - tower - 150 - 20,"Site Name: W068_Rubavu Airport
+SRTM_Hgt: 1522
+Tower_Hgt: 36
+","1522","36"
+"114",W071_Busasamana,29.35300000000,-1.60460000000,Marumba,Gihonga,Busasamana,Rubavu,West,"36","2162","2198",120.00000000000,"113",obstacles - tower - 150 - 20,"Site Name: W071_Busasamana
+SRTM_Hgt: 2162
+Tower_Hgt: 36
+","2162","36"
+"115",W072_Kabaya II,29.52570000000,-1.77570000000,Rukorati,Ngoma,KABAYA,Ngororero,West,"36","2509","2545",120.00000000000,"114",obstacles - tower - 150 - 20,"Site Name: W072_Kabaya II
+SRTM_Hgt: 2509
+Tower_Hgt: 36
+","2509","36"
+"116",W074_Kasonga,29.34800000000,-1.76800000000,Kasonga,Terimbere,Nyabirasi,Rutsiro,West,"36","2277","2313",120.00000000000,"115",obstacles - tower - 150 - 20,"Site Name: W074_Kasonga
+SRTM_Hgt: 2277
+Tower_Hgt: 36
+","2277","36"
+"117",W076_Mpuzamahanga,29.35500000000,-1.54694000000,Kabuhanga,Mutovu,Bugeshi,Rubavu,West,"36","2202","2238",120.00000000000,"116",obstacles - tower - 150 - 20,"Site Name: W076_Mpuzamahanga
+SRTM_Hgt: 2202
+Tower_Hgt: 36
+","2202","36"
+"118",W078_Rugerero,29.30025000000,-1.69094000000,Nyarurembo,Rugerero,Rugerero,Rubavu,West,"36","1646","1682",120.00000000000,"117",obstacles - tower - 150 - 20,"Site Name: W078_Rugerero
+SRTM_Hgt: 1646
+Tower_Hgt: 36
+","1646","36"
+"119",W080_Gisenyi Boarder,29.24490000000,-1.69690000000,Kivu,Nengo,Gisenyi,Rubavu,West,"36","1470","1506",120.00000000000,"118",obstacles - tower - 150 - 20,"Site Name: W080_Gisenyi Boarder
+SRTM_Hgt: 1470
+Tower_Hgt: 36
+","1470","36"
+"120",W081_Rubavu II,29.27573000000,-1.67486000000,Gahinga,Murara,Rubavu,Rubavu,West,"36","1916","1952",120.00000000000,"119",obstacles - tower - 150 - 20,"Site Name: W081_Rubavu II
+SRTM_Hgt: 1916
+Tower_Hgt: 36
+","1916","36"
+"121",W084_Gisenyi Parish,29.25700000000,-1.69810000000,Nyaburanga,Nengo,Gisenyi,Rubavu,West,"36","1474","1510",120.00000000000,"120",obstacles - tower - 150 - 20,"Site Name: W084_Gisenyi Parish
+SRTM_Hgt: 1474
+Tower_Hgt: 36
+","1474","36"
+"122",W088_Rubaya II,29.50524000000,-1.79267000000,Kazuba,Mashya,MUHANDA,Ngororero,West,"55","2475","2530",120.00000000000,"121",obstacles - tower - 150 - 20,"Site Name: W088_Rubaya II
+SRTM_Hgt: 2475
+Tower_Hgt: 55
+","2475","55"
+"123",W090_Nyundo,29.32359000000,-1.70796000000,Hanika,Terimbere,Nyundo,Rubavu,West,"36","1884","1920",120.00000000000,"122",obstacles - tower - 150 - 20,"Site Name: W090_Nyundo
+SRTM_Hgt: 1884
+Tower_Hgt: 36
+","1884","36"
+"124",W095_Gishwati,29.43702000000,-1.68253000000,Nyabishunguru,Arusha,Bigogwe,Nyabihu,West,"36","2980","3016",120.00000000000,"123",obstacles - tower - 150 - 20,"Site Name: W095_Gishwati
+SRTM_Hgt: 2980
+Tower_Hgt: 36
+","2980","36"
+"125",W096_Bugeshi,29.37916000000,-1.54260000000,Bugeshi,Mutovu,Bugeshi,Rubavu,West,"36","2459","2495",120.00000000000,"124",obstacles - tower - 150 - 20,"Site Name: W096_Bugeshi
+SRTM_Hgt: 2459
+Tower_Hgt: 36
+","2459","36"
+"126",W106_Ryamurari,29.60819000000,-1.65664000000,Gitega,Gitega,Rurembo,Nyabihu,West,"36","2215","2251",120.00000000000,"125",obstacles - tower - 150 - 20,"Site Name: W106_Ryamurari
+SRTM_Hgt: 2215
+Tower_Hgt: 36
+","2215","36"
+"127",W112_Gasiza,29.34405000000,-1.58891000000,Munanira,Gasiza,Busasamana,Rubavu,West,"54","2162","2216",120.00000000000,"126",obstacles - tower - 150 - 20,"Site Name: W112_Gasiza
+SRTM_Hgt: 2162
+Tower_Hgt: 54
+","2162","54"
+"128",W111_Ryabizige,29.32300000000,-1.63253000000,Burere,Ryabizige,Cyanzarwe,Rubavu,West,"36","2000","2036",120.00000000000,"127",obstacles - tower - 150 - 20,"Site Name: W111_Ryabizige
+SRTM_Hgt: 2000
+Tower_Hgt: 36
+","2000","36"
+"129",W127_Rubavu 3,29.24753000000,-1.68893000000,Amataba,Bugoyi,Gisenyi,Rubavu,West,"60","1504","1564",120.00000000000,"128",obstacles - tower - 150 - 20,"Site Name: W127_Rubavu 3
+SRTM_Hgt: 1504
+Tower_Hgt: 60
+","1504","60"
+"130",W128_Byahi,29.24603000000,-1.66756000000,Rurembo,Byahi,Rubavu,Rubavu,West,"45","1551","1596",120.00000000000,"129",obstacles - tower - 150 - 20,"Site Name: W128_Byahi
+SRTM_Hgt: 1551
+Tower_Hgt: 45
+","1551","45"
+"131",W073_Nkora,29.29650000000,-1.85640000000,Kabere,Kaguriro,Mushonyi,Rutsiro,West,"36","1692","1728",120.00000000000,"130",obstacles - tower - 150 - 20,"Site Name: W073_Nkora
+SRTM_Hgt: 1692
+Tower_Hgt: 36
+","1692","36"
+"132",W094_Kigeyo,29.29985000000,-1.81302000000,Nturo,Buhindure,Kigeyo,Rutsiro,West,"36","1841","1877",120.00000000000,"131",obstacles - tower - 150 - 20,"Site Name: W094_Kigeyo
+SRTM_Hgt: 1841
+Tower_Hgt: 36
+","1841","36"
+"133",S036_Bulinga,29.69469000000,-2.00700000000,Rwinkindi,Munazi,Mushishiro,Muhanga,South,"36","1930","1966",120.00000000000,"132",obstacles - tower - 150 - 20,"Site Name: S036_Bulinga
+SRTM_Hgt: 1930
+Tower_Hgt: 36
+","1930","36"
+"134",S046_Muhanga Hill,29.72680000000,-2.02350000000,Kiyoro,Remera,Muhanga,Muhanga,South,"36","2183","2219",120.00000000000,"133",obstacles - tower - 150 - 20,"Site Name: S046_Muhanga Hill
+SRTM_Hgt: 2183
+Tower_Hgt: 36
+","2183","36"
+"135",S052_Gasharu,29.73811000000,-2.07045000000,Gasharu,Remera,Nyamabuye,Muhanga,South,"36","1928","1964",120.00000000000,"134",obstacles - tower - 150 - 20,"Site Name: S052_Gasharu
+SRTM_Hgt: 1928
+Tower_Hgt: 36
+","1928","36"
+"136",S053_Nyarusange,29.68375000000,-2.08947000000,Rwambariro,Rusovu,Nyarusange,Muhanga,South,"36","1792","1828",120.00000000000,"135",obstacles - tower - 150 - 20,"Site Name: S053_Nyarusange
+SRTM_Hgt: 1792
+Tower_Hgt: 36
+","1792","36"
+"137",S072_Gasave,29.69850000000,-1.96800000000,Twabumbogo,Nsanga,Rugendabari,Muhanga,South,"36","2035","2071",120.00000000000,"136",obstacles - tower - 150 - 20,"Site Name: S072_Gasave
+SRTM_Hgt: 2035
+Tower_Hgt: 36
+","2035","36"
+"138",W002_Kibuye,29.35020000000,-2.06739000000,Gatwaro,Kibuye,Bwishyura,Karongi,West,"54","1560","1614",120.00000000000,"137",obstacles - tower - 150 - 20,"Site Name: W002_Kibuye
+SRTM_Hgt: 1560
+Tower_Hgt: 54
+","1560","54"
+"139",W009_Karongi,29.37503000000,-2.14842000000,Bucyurabuhoro,Rubazo,Rwankuba,Karongi,West,"54","2570","2624",120.00000000000,"138",obstacles - tower - 150 - 20,"Site Name: W009_Karongi
+SRTM_Hgt: 2570
+Tower_Hgt: 54
+","2570","54"
+"140",W019_Birambo,29.55516000000,-2.12923000000,Nyamabuye,Nzaratsi,Murundi,Karongi,West,"36","2184","2220",120.00000000000,"139",obstacles - tower - 150 - 20,"Site Name: W019_Birambo
+SRTM_Hgt: 2184
+Tower_Hgt: 36
+","2184","36"
+"141",W024_CongoNil,29.39742000000,-1.96211000000,Kindoyi,Congo-nil,Gihango,Rutsiro,West,"55","2346","2401",120.00000000000,"140",obstacles - tower - 150 - 20,"Site Name: W024_CongoNil
+SRTM_Hgt: 2346
+Tower_Hgt: 55
+","2346","55"
+"142",W029_Kayove,29.33178000000,-1.88928000000,Nkomero,Magaba,Mushonyi,Rutsiro,West,"54","2120","2174",120.00000000000,"141",obstacles - tower - 150 - 20,"Site Name: W029_Kayove
+SRTM_Hgt: 2120
+Tower_Hgt: 54
+","2120","54"
+"143",W030_Kirinda,29.57750000000,-2.18525000000,Nyaruhanga,Shyembe,Murambi,Karongi,West,"36","1693","1729",120.00000000000,"142",obstacles - tower - 150 - 20,"Site Name: W030_Kirinda
+SRTM_Hgt: 1693
+Tower_Hgt: 36
+","1693","36"
+"144",W031_Birambo II,29.52461000000,-2.15155000000,Nyarusange,Birambo,Gashari,Karongi,West,"36","1770","1806",120.00000000000,"143",obstacles - tower - 150 - 20,"Site Name: W031_Birambo II
+SRTM_Hgt: 1770
+Tower_Hgt: 36
+","1770","36"
+"145",W032_Kibuye II,29.33298000000,-2.05952000000,Gatwaro,Kibuye,Bwishyura,Karongi,West,"36","1486","1522",120.00000000000,"144",obstacles - tower - 150 - 20,"Site Name: W032_Kibuye II
+SRTM_Hgt: 1486
+Tower_Hgt: 36
+","1486","36"
+"146",W041_Nyange,29.58547000000,-2.05406000000,Nyarusange,Nsibo,NYANGE,Ngororero,West,"36","1873","1909",120.00000000000,"145",obstacles - tower - 150 - 20,"Site Name: W041_Nyange
+SRTM_Hgt: 1873
+Tower_Hgt: 36
+","1873","36"
+"147",W043_Kanama,29.42344000000,-1.90900000000,Kamishunguro,Muyira,Manihira,Rutsiro,West,"36","2762","2798",120.00000000000,"146",obstacles - tower - 150 - 20,"Site Name: W043_Kanama
+SRTM_Hgt: 2762
+Tower_Hgt: 36
+","2762","36"
+"148",W049_Gisovu,29.38017000000,-2.29036000000,Bisharara,Nyarwungo,Nkomane,Nyamagabe,South,"36","2496","2532",120.00000000000,"147",obstacles - tower - 150 - 20,"Site Name: W049_Gisovu
+SRTM_Hgt: 2496
+Tower_Hgt: 36
+","2496","36"
+"149",W050_Rubengera,29.40712000000,-2.05450000000,Ndengwa,Kibirizi,Rubengera,Karongi,West,"36","1666","1702",120.00000000000,"148",obstacles - tower - 150 - 20,"Site Name: W050_Rubengera
+SRTM_Hgt: 1666
+Tower_Hgt: 36
+","1666","36"
+"150",W051_Mukura,29.55910000000,-2.06720000000,Gitega,Mwendo,Mukura,Rutsiro,West,"36","2122","2158",120.00000000000,"149",obstacles - tower - 150 - 20,"Site Name: W051_Mukura
+SRTM_Hgt: 2122
+Tower_Hgt: 36
+","2122","36"
+"151",W052_Bwishyura,29.36320000000,-2.11641000000,Karongi,Nyarusazi,Bwishyura,Karongi,West,"36","2234","2270",120.00000000000,"150",obstacles - tower - 150 - 20,"Site Name: W052_Bwishyura
+SRTM_Hgt: 2234
+Tower_Hgt: 36
+","2234","36"
+"152",W053_Kibuye Switch,29.35089000000,-2.05461000000,Gacumba,Kibuye,Bwishyura,Karongi,West,"36","1534","1570",120.00000000000,"151",obstacles - tower - 150 - 20,"Site Name: W053_Kibuye Switch
+SRTM_Hgt: 1534
+Tower_Hgt: 36
+","1534","36"
+"153",W070_Rugabano,29.49260000000,-2.09680000000,Rugabano,Gisiza,Rugabano,Karongi,West,"36","2073","2109",120.00000000000,"152",obstacles - tower - 150 - 20,"Site Name: W070_Rugabano
+SRTM_Hgt: 2073
+Tower_Hgt: 36
+","2073","36"
+"154",W075_Rugabano II,29.47453000000,-2.03697000000,Kiriba,Kagano,Mukura,Rutsiro,West,"36","2410","2446",120.00000000000,"153",obstacles - tower - 150 - 20,"Site Name: W075_Rugabano II
+SRTM_Hgt: 2410
+Tower_Hgt: 36
+","2410","36"
+"155",W082_Gaseke,29.62010000000,-2.07250000000,Giko,Gaseke,NYANGE,Ngororero,West,"36","1635","1671",120.00000000000,"154",obstacles - tower - 150 - 20,"Site Name: W082_Gaseke
+SRTM_Hgt: 1635
+Tower_Hgt: 36
+","1635","36"
+"156",W091_Mutuntu,29.41510000000,-2.24200000000,Mutuntu,Gasharu,Mutuntu,Karongi,West,"36","2023","2059",120.00000000000,"155",obstacles - tower - 150 - 20,"Site Name: W091_Mutuntu
+SRTM_Hgt: 2023
+Tower_Hgt: 36
+","2023","36"
+"157",W092_Gisunzu,29.42775000000,-2.18169000000,Mahembe,Nyakamira,Rwankuba,Karongi,West,"36","2262","2298",120.00000000000,"156",obstacles - tower - 150 - 20,"Site Name: W092_Gisunzu
+SRTM_Hgt: 2262
+Tower_Hgt: 36
+","2262","36"
+"158",W093_Kalulizo,29.31820000000,-2.12780000000,Rwamiko,Ryaruhanga,Mubuga,Karongi,West,"36","1720","1756",120.00000000000,"157",obstacles - tower - 150 - 20,"Site Name: W093_Kalulizo
+SRTM_Hgt: 1720
+Tower_Hgt: 36
+","1720","36"
+"159",W097_Ruhinga,29.43871000000,-2.11684000000,Ruhondo,Ruhinga,Gitesi,Karongi,West,"36","2098","2134",120.00000000000,"158",obstacles - tower - 150 - 20,"Site Name: W097_Ruhinga
+SRTM_Hgt: 2098
+Tower_Hgt: 36
+","2098","36"
+"160",W100_Kabona,29.45238000000,-1.93648000000,Munini,Kabona,Rusebeya,Rutsiro,West,"36","2558","2594",120.00000000000,"159",obstacles - tower - 150 - 20,"Site Name: W100_Kabona
+SRTM_Hgt: 2558
+Tower_Hgt: 36
+","2558","36"
+"161",W101_Mungoti,29.45564000000,-1.88598000000,Kabarirwa,Remera,Rusebeya,Rutsiro,West,"54","2728","2782",120.00000000000,"160",obstacles - tower - 150 - 20,"Site Name: W101_Mungoti
+SRTM_Hgt: 2728
+Tower_Hgt: 54
+","2728","54"
+"162",W102_Murunda,29.38314000000,-1.90980000000,Rukingu,Mburamazi,Murunda,Rutsiro,West,"36","1876","1912",120.00000000000,"161",obstacles - tower - 150 - 20,"Site Name: W102_Murunda
+SRTM_Hgt: 1876
+Tower_Hgt: 36
+","1876","36"
+"163",W116_Twumba,29.35274000000,-2.24601000000,Gakoko,Gakuta,Twumba,Karongi,West,"54","2357","2411",120.00000000000,"162",obstacles - tower - 150 - 20,"Site Name: W116_Twumba
+SRTM_Hgt: 2357
+Tower_Hgt: 54
+","2357","54"
+"164",W114_Kayabaraza,29.30665000000,-1.85909000000,Cyondo,Kaguriro,Mushonyi,Rutsiro,West,"36","1770","1806",120.00000000000,"163",obstacles - tower - 150 - 20,"Site Name: W114_Kayabaraza
+SRTM_Hgt: 1770
+Tower_Hgt: 36
+","1770","36"
+"165",W119_Kagano,29.55978000000,-1.97368000000,Rwamakara,Gashubi,BWIRA,Ngororero,West,"54","2375","2429",120.00000000000,"164",obstacles - tower - 150 - 20,"Site Name: W119_Kagano
+SRTM_Hgt: 2375
+Tower_Hgt: 54
+","2375","54"
+"166",W124_Gihango,29.37610000000,-1.96976000000,Nkwiro,Congo-nil,Gihango,Rutsiro,West,"36","1979","2015",120.00000000000,"165",obstacles - tower - 150 - 20,"Site Name: W124_Gihango
+SRTM_Hgt: 1979
+Tower_Hgt: 36
+","1979","36"
+"167",W058_Muramba,29.61330000000,-1.77630000000,Kagarama,Gatega,HINDIRO,Ngororero,West,"36","1969","2005",120.00000000000,"166",obstacles - tower - 150 - 20,"Site Name: W058_Muramba
+SRTM_Hgt: 1969
+Tower_Hgt: 36
+","1969","36"
+"169",W008_Karengera,29.07261000000,-2.41517000000,Nyanza,Nyarusange,Bushekeri,Nyamasheke,West,"54","1677","1731",120.00000000000,"167",obstacles - tower - 150 - 20,"Site Name: W008_Karengera
+SRTM_Hgt: 1677
+Tower_Hgt: 54
+","1677","54"
+"170",W011_Mwezi,29.03347000000,-2.51956000000,Nyarusange,Mwezi,Karengera,Nyamasheke,West,"55","1633","1688",120.00000000000,"168",obstacles - tower - 150 - 20,"Site Name: W011_Mwezi
+SRTM_Hgt: 1633
+Tower_Hgt: 55
+","1633","55"
+"171",W012_Rwabidege TX,29.03300000000,-2.48631000000,Mpinga,Wimana,Ruharambuga,Nyamasheke,West,"55","1654","1709",120.00000000000,"169",obstacles - tower - 150 - 20,"Site Name: W012_Rwabidege TX
+SRTM_Hgt: 1654
+Tower_Hgt: 55
+","1654","55"
+"172",W015_Kibogora,29.13294000000,-2.32494000000,Gataba,Kibogora,Kanjongo,Nyamasheke,West,"54","1573","1627",120.00000000000,"170",obstacles - tower - 150 - 20,"Site Name: W015_Kibogora
+SRTM_Hgt: 1573
+Tower_Hgt: 54
+","1573","54"
+"173",W016_Nshungwe,29.18384000000,-2.31267000000,Nyagahinga,Vugangoma,Macuba,Nyamasheke,West,"36","1838","1874",120.00000000000,"171",obstacles - tower - 150 - 20,"Site Name: W016_Nshungwe
+SRTM_Hgt: 1838
+Tower_Hgt: 36
+","1838","36"
+"174",W018_Bugarama,29.06600000000,-2.57769000000,Kareba,Gatereri,Butare,Rusizi,West,"36","1808","1844",120.00000000000,"172",obstacles - tower - 150 - 20,"Site Name: W018_Bugarama
+SRTM_Hgt: 1808
+Tower_Hgt: 36
+","1808","36"
+"176",W021_Gatare,29.21600000000,-2.33719000000,Gaseke,Kabuga,Karambi,Nyamasheke,West,"36","2087","2123",120.00000000000,"173",obstacles - tower - 150 - 20,"Site Name: W021_Gatare
+SRTM_Hgt: 2087
+Tower_Hgt: 36
+","2087","36"
+"177",W025_Mugonero,29.26739000000,-2.19205000000,Nyarunyinya,Kibingo,Gihombo,Nyamasheke,West,"54","1676","1730",120.00000000000,"174",obstacles - tower - 150 - 20,"Site Name: W025_Mugonero
+SRTM_Hgt: 1676
+Tower_Hgt: 54
+","1676","54"
+"181",W034_Shangi,29.01172000000,-2.41827000000,Nyamateke,Nyamugari,Shangi,Nyamasheke,West,"36","1771","1807",120.00000000000,"175",obstacles - tower - 150 - 20,"Site Name: W034_Shangi
+SRTM_Hgt: 1771
+Tower_Hgt: 36
+","1771","36"
+"182",W035_Mugera,29.04861000000,-2.37372000000,Karuhatana,Mugera,Shangi,Nyamasheke,West,"36","1840","1876",120.00000000000,"176",obstacles - tower - 150 - 20,"Site Name: W035_Mugera
+SRTM_Hgt: 1840
+Tower_Hgt: 36
+","1840","36"
+"183",W036_Gisakura,29.09150000000,-2.44281000000,Mujabagiro,Buvungira,Bushekeri,Nyamasheke,West,"36","1954","1990",120.00000000000,"177",obstacles - tower - 150 - 20,"Site Name: W036_Gisakura
+SRTM_Hgt: 1954
+Tower_Hgt: 36
+","1954","36"
+"184",W038_Bweyeye,29.19803000000,-2.60336000000,Mutara,Kiyabo,Bweyeye,Rusizi,West,"36","2113","2149",120.00000000000,"178",obstacles - tower - 150 - 20,"Site Name: W038_Bweyeye
+SRTM_Hgt: 2113
+Tower_Hgt: 36
+","2113","36"
+"186",W040_Bugarama Cite,29.00950000000,-2.69747000000,Kabeza,Nyange,Bugarama,Rusizi,West,"36","960","996",120.00000000000,"179",obstacles - tower - 150 - 20,"Site Name: W040_Bugarama Cite
+SRTM_Hgt: 960
+Tower_Hgt: 36
+","960","36"
+"187",W042_Rwamatamu,29.23228000000,-2.23597000000,Bigabiro,Jarama,Gihombo,Nyamasheke,West,"36","1878","1914",120.00000000000,"180",obstacles - tower - 150 - 20,"Site Name: W042_Rwamatamu
+SRTM_Hgt: 1878
+Tower_Hgt: 36
+","1878","36"
+"189",W045_Ruhwa Boarder,29.03694000000,-2.73428000000,Gombaniro,Ryankana,Bugarama,Rusizi,West,"36","992","1028",120.00000000000,"181",obstacles - tower - 150 - 20,"Site Name: W045_Ruhwa Boarder
+SRTM_Hgt: 992
+Tower_Hgt: 36
+","992","36"
+"193",W064_Nyamasheke,29.08800000000,-2.35040000000,Kavune,Ninzi,Kagano,Nyamasheke,West,"36","1585","1621",120.00000000000,"182",obstacles - tower - 150 - 20,"Site Name: W064_Nyamasheke
+SRTM_Hgt: 1585
+Tower_Hgt: 36
+","1585","36"
+"194",W069_Nyabitekeri,29.02703000000,-2.35120000000,Kibanda,Kinunga,Nyabitekeri,Nyamasheke,West,"36","1676","1712",120.00000000000,"183",obstacles - tower - 150 - 20,"Site Name: W069_Nyabitekeri
+SRTM_Hgt: 1676
+Tower_Hgt: 36
+","1676","36"
+"196",W085_Rangiro,29.15489000000,-2.39242000000,Kaneke,Jurwe,Rangiro,Nyamasheke,West,"36","1887","1923",120.00000000000,"184",obstacles - tower - 150 - 20,"Site Name: W085_Rangiro
+SRTM_Hgt: 1887
+Tower_Hgt: 36
+","1887","36"
+"197",W086_Cyamatako,29.19741000000,-2.37100000000,Kamonyi,Murambi,Cyato,Nyamasheke,West,"36","2192","2228",120.00000000000,"185",obstacles - tower - 150 - 20,"Site Name: W086_Cyamatako
+SRTM_Hgt: 2192
+Tower_Hgt: 36
+","2192","36"
+"199",W099_Gitsimbwe,29.20070000000,-2.23999000000,Gitsimbwe,Nyarusange,Kirimbi,Nyamasheke,West,"36","1724","1760",120.00000000000,"186",obstacles - tower - 150 - 20,"Site Name: W099_Gitsimbwe
+SRTM_Hgt: 1724
+Tower_Hgt: 36
+","1724","36"
+"201",W105_Gitambi,29.15577000000,-2.29561000000,Nkero,Kigoya,Kanjongo,Nyamasheke,West,"22","1487","1509",120.00000000000,"187",obstacles - tower - 150 - 20,"Site Name: W105_Gitambi
+SRTM_Hgt: 1487
+Tower_Hgt: 22
+","1487","22"
+"203",W117_Kibatsi,29.24321000000,-2.18965000000,Nyakabungo,Butare,Gihombo,Nyamasheke,West,"36","1712","1748",120.00000000000,"188",obstacles - tower - 150 - 20,"Site Name: W117_Kibatsi
+SRTM_Hgt: 1712
+Tower_Hgt: 36
+","1712","36"
+"205",W122_Gikundamvura,29.04373000000,-2.62425000000,Mpuzamahanga,Mpinga,Gikundamvura,Rusizi,West,"54","1195","1249",120.00000000000,"189",obstacles - tower - 150 - 20,"Site Name: W122_Gikundamvura
+SRTM_Hgt: 1195
+Tower_Hgt: 54
+","1195","54"
+"209",E006_Nyamata,30.08767000000,-2.18419000000,Musagara,Kanazi,Nyamata,Bugesera,East,"30","1562","1592",120.00000000000,"190",obstacles - tower - 150 - 20,"Site Name: E006_Nyamata
+SRTM_Hgt: 1562
+Tower_Hgt: 30
+","1562","30"
+"210",E011_Bicumbi,30.34006000000,-2.02611000000,Kiyovu,Akanzu,Nzige,Rwamagana,East,"54","1654","1708",120.00000000000,"191",obstacles - tower - 150 - 20,"Site Name: E011_Bicumbi
+SRTM_Hgt: 1654
+Tower_Hgt: 54
+","1654","54"
+"211",E012_Gako,30.18283000000,-2.23550000000,Rwimikoni I,Mbyo,Mayange,Bugesera,East,"54","1429","1483",120.00000000000,"192",obstacles - tower - 150 - 20,"Site Name: E012_Gako
+SRTM_Hgt: 1429
+Tower_Hgt: 54
+","1429","54"
+"212",E021_Maranyundo,30.11297000000,-2.15847000000,Gahembe,Maranyundo,Nyamata,Bugesera,East,"36","1607","1643",120.00000000000,"193",obstacles - tower - 150 - 20,"Site Name: E021_Maranyundo
+SRTM_Hgt: 1607
+Tower_Hgt: 36
+","1607","36"
+"213",E022_Ruhuha,30.02089000000,-2.29286000000,Nsoro,Rugando,Nyarugenge,Bugesera,East,"36","1550","1586",120.00000000000,"194",obstacles - tower - 150 - 20,"Site Name: E022_Ruhuha
+SRTM_Hgt: 1550
+Tower_Hgt: 36
+","1550","36"
+"214",E029_Nyagasambu,30.27078000000,-1.87430000000,Cyarutabana,Nyamirama,Fumbwe,Rwamagana,East,"55","1812","1867",120.00000000000,"195",obstacles - tower - 150 - 20,"Site Name: E029_Nyagasambu
+SRTM_Hgt: 1812
+Tower_Hgt: 55
+","1812","55"
+"215",E032_Juru,30.21708000000,-2.09797000000,Rugarama,Juru,Juru,Bugesera,East,"36","1651","1687",120.00000000000,"196",obstacles - tower - 150 - 20,"Site Name: E032_Juru
+SRTM_Hgt: 1651
+Tower_Hgt: 36
+","1651","36"
+"216",E033_Karenge,30.27372000000,-2.06642000000,Kimicanga,Rwimbogo,Nyakaliro,Rwamagana,East,"36","1689","1725",120.00000000000,"197",obstacles - tower - 150 - 20,"Site Name: E033_Karenge
+SRTM_Hgt: 1689
+Tower_Hgt: 36
+","1689","36"
+"217",E035_Rwankuba II,30.34226000000,-1.94724000000,Kadasumbwa,Musha,Musha,Rwamagana,East,"36","1708","1744",120.00000000000,"198",obstacles - tower - 150 - 20,"Site Name: E035_Rwankuba II
+SRTM_Hgt: 1708
+Tower_Hgt: 36
+","1708","36"
+"218",E041_Nemba boarder,30.22872000000,-2.33456000000,Muyoboro,Nemba,Rweru,Bugesera,East,"36","1580","1616",120.00000000000,"199",obstacles - tower - 150 - 20,"Site Name: E041_Nemba boarder
+SRTM_Hgt: 1580
+Tower_Hgt: 36
+","1580","36"
+"219",E042_Rilima,30.21133000000,-2.18333000000,Kamabuye,Nyabagendwa,Rilima,Bugesera,East,"36","1403","1439",120.00000000000,"200",obstacles - tower - 150 - 20,"Site Name: E042_Rilima
+SRTM_Hgt: 1403
+Tower_Hgt: 36
+","1403","36"
+"220",E046_Nyamata II,30.08781000000,-2.14344000000,Nyabivumu,Nyamata y' Umujyi,Nyamata,Bugesera,East,"22","1413","1435",120.00000000000,"201",obstacles - tower - 150 - 20,"Site Name: E046_Nyamata II
+SRTM_Hgt: 1413
+Tower_Hgt: 22
+","1413","22"
+"221",E049_Nyamata road,30.08256000000,-2.08367000000,Cyeru,Kanzenze,Ntarama,Bugesera,East,"36","1516","1552",120.00000000000,"202",obstacles - tower - 150 - 20,"Site Name: E049_Nyamata road
+SRTM_Hgt: 1516
+Tower_Hgt: 36
+","1516","36"
+"222",E050_Gashora,30.24172000000,-2.20658000000,Bidudu,Biryogo,Gashora,Bugesera,East,"36","1371","1407",120.00000000000,"203",obstacles - tower - 150 - 20,"Site Name: E050_Gashora
+SRTM_Hgt: 1371
+Tower_Hgt: 36
+","1371","36"
+"223",E054_Mwulire,30.39603000000,-1.96272000000,Rebero,Bushenyi,Mwulire,Rwamagana,East,"36","1659","1695",120.00000000000,"204",obstacles - tower - 150 - 20,"Site Name: E054_Mwulire
+SRTM_Hgt: 1659
+Tower_Hgt: 36
+","1659","36"
+"224",E058_Nyabagendwa,30.19980000000,-2.19150000000,Murambi,Nyabagendwa,Rilima,Bugesera,East,"36","1430","1466",120.00000000000,"205",obstacles - tower - 150 - 20,"Site Name: E058_Nyabagendwa
+SRTM_Hgt: 1430
+Tower_Hgt: 36
+","1430","36"
+"225",E061_Mayange,30.14252000000,-2.20481000000,Karama,Kagenge,Mayange,Bugesera,East,"36","1456","1492",120.00000000000,"206",obstacles - tower - 150 - 20,"Site Name: E061_Mayange
+SRTM_Hgt: 1456
+Tower_Hgt: 36
+","1456","36"
+"226",E062_Rubona,30.40516000000,-2.04378000000,Kibabara,Kabatasi,Rubona,Rwamagana,East,"36","1540","1576",120.00000000000,"207",obstacles - tower - 150 - 20,"Site Name: E062_Rubona
+SRTM_Hgt: 1540
+Tower_Hgt: 36
+","1540","36"
+"227",E063_Bicumbi II,30.36414000000,-1.99197000000,Sabusaro,Bicumbi,Mwulire,Rwamagana,East,"36","1665","1701",120.00000000000,"208",obstacles - tower - 150 - 20,"Site Name: E063_Bicumbi II
+SRTM_Hgt: 1665
+Tower_Hgt: 36
+","1665","36"
+"228",E064_Munyiginya,30.39392000000,-1.92420000000,Kabeza,Binunga,Munyiginya,Rwamagana,East,"36","1587","1623",120.00000000000,"209",obstacles - tower - 150 - 20,"Site Name: E064_Munyiginya
+SRTM_Hgt: 1587
+Tower_Hgt: 36
+","1587","36"
+"229",E073_Ntunga,30.34960000000,-1.96300000000,Kadasumbwa,Ntunga,Mwulire,Rwamagana,East,"36","1658","1694",120.00000000000,"210",obstacles - tower - 150 - 20,"Site Name: E073_Ntunga
+SRTM_Hgt: 1658
+Tower_Hgt: 36
+","1658","36"
+"230",E094_Kamabuye,30.13391000000,-2.37730000000,Kampeka,Kampeka,Kamabuye,Bugesera,East,"36","1436","1472",120.00000000000,"211",obstacles - tower - 150 - 20,"Site Name: E094_Kamabuye
+SRTM_Hgt: 1436
+Tower_Hgt: 36
+","1436","36"
+"231",E095_Nyagasambu II,30.28090000000,-1.89940000000,Akamasasa,Runyinya,Gahengeri,Rwamagana,East,"25","1510","1535",120.00000000000,"212",obstacles - tower - 150 - 20,"Site Name: E095_Nyagasambu II
+SRTM_Hgt: 1510
+Tower_Hgt: 25
+","1510","25"
+"232",E102_Ruhuha II,30.06760000000,-2.31750000000,Ruramba,Kindama,Ruhuha,Bugesera,East,"36","1511","1547",120.00000000000,"213",obstacles - tower - 150 - 20,"Site Name: E102_Ruhuha II
+SRTM_Hgt: 1511
+Tower_Hgt: 36
+","1511","36"
+"233",E103_Batima,30.26780000000,-2.30030000000,Gasororo,Batima,Rweru,Bugesera,East,"36","1434","1470",120.00000000000,"214",obstacles - tower - 150 - 20,"Site Name: E103_Batima
+SRTM_Hgt: 1434
+Tower_Hgt: 36
+","1434","36"
+"234",E108_Nyamata III,30.08267000000,-2.13124000000,Nyagatovu,Kayumba,Nyamata,Bugesera,East,"36","1525","1561",120.00000000000,"215",obstacles - tower - 150 - 20,"Site Name: E108_Nyamata III
+SRTM_Hgt: 1525
+Tower_Hgt: 36
+","1525","36"
+"235",E124_Gicaca,30.00196000000,-2.19829000000,Kidudu,Gicaca,Musenyi,Bugesera,East,"36","1491","1527",120.00000000000,"216",obstacles - tower - 150 - 20,"Site Name: E124_Gicaca
+SRTM_Hgt: 1491
+Tower_Hgt: 36
+","1491","36"
+"236",E125_Ngeruka,30.10379000000,-2.32441000000,Kibungo,Nyakayenzi,Ngeruka,Bugesera,East,"54","1516","1570",120.00000000000,"217",obstacles - tower - 150 - 20,"Site Name: E125_Ngeruka
+SRTM_Hgt: 1516
+Tower_Hgt: 54
+","1516","54"
+"237",K070_Muyumbu,30.25725000000,-1.96792000000,Ryabaheshwa,Akinyambo,Muyumbu,Rwamagana,East,"36","1598","1634",120.00000000000,"218",obstacles - tower - 150 - 20,"Site Name: K070_Muyumbu
+SRTM_Hgt: 1598
+Tower_Hgt: 36
+","1598","36"
+"238",K096_Ruyenzi,29.96486000000,-1.95147000000,Rubona,Muganza,Runda,Kamonyi,South,"36","1683","1719",120.00000000000,"219",obstacles - tower - 150 - 20,"Site Name: K096_Ruyenzi
+SRTM_Hgt: 1683
+Tower_Hgt: 36
+","1683","36"
+"239",N033_Shyorongi,29.96686000000,-1.85905000000,Gatwa,Bugaragara,SHYORONGI,Rulindo,North,"36","2003","2039",120.00000000000,"220",obstacles - tower - 150 - 20,"Site Name: N033_Shyorongi
+SRTM_Hgt: 2003
+Tower_Hgt: 36
+","2003","36"
+"240",N045_Kinini,29.93500000000,-1.76540000000,Kinini Ya Mbogo,Bukoro,MBOGO,Rulindo,North,"36","1849","1885",120.00000000000,"221",obstacles - tower - 150 - 20,"Site Name: N045_Kinini
+SRTM_Hgt: 1849
+Tower_Hgt: 36
+","1849","36"
+"241",N050_forongo,30.00210000000,-1.78790000000,Riryi,Mugote,NGOMA,Rulindo,North,"36","2154","2190",120.00000000000,"222",obstacles - tower - 150 - 20,"Site Name: N050_forongo
+SRTM_Hgt: 2154
+Tower_Hgt: 36
+","2154","36"
+"242",N052_Rusiga,29.93910000000,-1.81260000000,Kabunigu,Gako,RUSIGA,Rulindo,North,"36","2167","2203",120.00000000000,"223",obstacles - tower - 150 - 20,"Site Name: N052_Rusiga
+SRTM_Hgt: 2167
+Tower_Hgt: 36
+","2167","36"
+"243",S073_Kigese,29.97866000000,-1.99161000000,Kirega,Kigese,Rugarika,Kamonyi,South,"36","1479","1515",120.00000000000,"224",obstacles - tower - 150 - 20,"Site Name: S073_Kigese
+SRTM_Hgt: 1479
+Tower_Hgt: 36
+","1479","36"
+"244",S074_Runda,29.97592000000,-2.01389000000,Bikamba,Kigese,Rugarika,Kamonyi,South,"36","1555","1591",120.00000000000,"225",obstacles - tower - 150 - 20,"Site Name: S074_Runda
+SRTM_Hgt: 1555
+Tower_Hgt: 36
+","1555","36"
+"245",S085_Rugarika,29.93370000000,-1.99036000000,Karehe,Sheli,Rugarika,Kamonyi,South,"36","1598","1634",120.00000000000,"226",obstacles - tower - 150 - 20,"Site Name: S085_Rugarika
+SRTM_Hgt: 1598
+Tower_Hgt: 36
+","1598","36"
+"246",E002_Nyagatare,30.32884000000,-1.30816000000,Nyagatare Iii,Nyagatare,NYAGATARE,Nyagatare,East,"36","1405","1441",120.00000000000,"227",obstacles - tower - 150 - 20,"Site Name: E002_Nyagatare
+SRTM_Hgt: 1405
+Tower_Hgt: 36
+","1405","36"
+"247",E016_Kiramuruzi,30.40995000000,-1.79742000000,Kiramuruzi,Akabuga,Kiramuruzi,Gatsibo,East,"55","1558","1613",120.00000000000,"228",obstacles - tower - 150 - 20,"Site Name: E016_Kiramuruzi
+SRTM_Hgt: 1558
+Tower_Hgt: 55
+","1558","55"
+"248",E005_Kagitumba,30.43517000000,-1.08039000000,Byimana,Cyembogo,MATIMBA,Nyagatare,East,"27","1541","1568",120.00000000000,"229",obstacles - tower - 150 - 20,"Site Name: E005_Kagitumba
+SRTM_Hgt: 1541
+Tower_Hgt: 27
+","1541","27"
+"249",E007_Gahini,30.48175000000,-1.84256000000,Akabeza,Urugarama,Gahini,Kayonza,East,"36","1541","1577",120.00000000000,"230",obstacles - tower - 150 - 20,"Site Name: E007_Gahini
+SRTM_Hgt: 1541
+Tower_Hgt: 36
+","1541","36"
+"250",E008_Nyarupfubire,30.40089000000,-1.27078000000,Nyakagando Ii,Nyarupfubire,RWIMIYAGA,Nyagatare,East,"36","1632","1668",120.00000000000,"231",obstacles - tower - 150 - 20,"Site Name: E008_Nyarupfubire
+SRTM_Hgt: 1632
+Tower_Hgt: 36
+","1632","36"
+"251",E009_Mukarange_Kayonza,30.50040000000,-1.89620000000,Abisunganye,Bwiza,Mukarange,Kayonza,East,"36","1614","1650",120.00000000000,"232",obstacles - tower - 150 - 20,"Site Name: E009_Mukarange_Kayonza
+SRTM_Hgt: 1614
+Tower_Hgt: 36
+","1614","36"
+"252",E010_Gabiro,30.41372000000,-1.52302000000,Nyabikiri,Nyabikiri,Kabarore,Gatsibo,East,"36","1504","1540",120.00000000000,"233",obstacles - tower - 150 - 20,"Site Name: E010_Gabiro
+SRTM_Hgt: 1504
+Tower_Hgt: 36
+","1504","36"
+"253",E013_Kabarondo,30.55786000000,-2.01195000000,Rutagara,Cyabajwa,Kabarondo,Kayonza,East,"36","1666","1702",120.00000000000,"234",obstacles - tower - 150 - 20,"Site Name: E013_Kabarondo
+SRTM_Hgt: 1666
+Tower_Hgt: 36
+","1666","36"
+"254",E014_Nyakarambi,30.71498000000,-2.27802000000,Rwanteru Ii,Rwanteru,Kigina,Kirehe,East,"54","1723","1777",120.00000000000,"235",obstacles - tower - 150 - 20,"Site Name: E014_Nyakarambi
+SRTM_Hgt: 1723
+Tower_Hgt: 54
+","1723","54"
+"255",E015_Nasho,30.66147000000,-2.13264000000,Cyanjuna,Rugarama,Mushikiri,Kirehe,East,"31","1887","1918",120.00000000000,"236",obstacles - tower - 150 - 20,"Site Name: E015_Nasho
+SRTM_Hgt: 1887
+Tower_Hgt: 31
+","1887","31"
+"256",E017_Rukomo,30.23286000000,-1.38872000000,Muvumba,Kabeza,GATUNDA,Nyagatare,East,"54","1535","1589",120.00000000000,"237",obstacles - tower - 150 - 20,"Site Name: E017_Rukomo
+SRTM_Hgt: 1535
+Tower_Hgt: 54
+","1535","54"
+"257",E018_Gahengeri,30.31675000000,-1.95869000000,Rebero,Gihumuza,Gahengeri,Rwamagana,East,"55","1736","1791",120.00000000000,"238",obstacles - tower - 150 - 20,"Site Name: E018_Gahengeri
+SRTM_Hgt: 1736
+Tower_Hgt: 55
+","1736","55"
+"258",E019_Rwamagana II,30.43694000000,-1.95408000000,Kabeza,Cyanya,Kigabiro,Rwamagana,East,"54","1540","1594",120.00000000000,"239",obstacles - tower - 150 - 20,"Site Name: E019_Rwamagana II
+SRTM_Hgt: 1540
+Tower_Hgt: 54
+","1540","54"
+"259",E020_Muhura,30.30606000000,-1.68272000000,Kigabiro,Kigabiro,Remera,Gatsibo,East,"54","1838","1892",120.00000000000,"240",obstacles - tower - 150 - 20,"Site Name: E020_Muhura
+SRTM_Hgt: 1838
+Tower_Hgt: 54
+","1838","54"
+"260",E023_Sake,30.41731000000,-2.22228000000,Umucyo,Kibonde,Sake,Ngoma,East,"36","1555","1591",120.00000000000,"241",obstacles - tower - 150 - 20,"Site Name: E023_Sake
+SRTM_Hgt: 1555
+Tower_Hgt: 36
+","1555","36"
+"261",E024_Rusumo,30.78314000000,-2.37575000000,Matare,Kiyanzi,Nyamugari,Kirehe,East,"36","1495","1531",120.00000000000,"242",obstacles - tower - 150 - 20,"Site Name: E024_Rusumo
+SRTM_Hgt: 1495
+Tower_Hgt: 36
+","1495","36"
+"262",E025_Kibungo II,30.56003000000,-2.13582000000,Rubimba,Cyasemakamba,Kibungo,Ngoma,East,"54","1614","1668",120.00000000000,"243",obstacles - tower - 150 - 20,"Site Name: E025_Kibungo II
+SRTM_Hgt: 1614
+Tower_Hgt: 54
+","1614","54"
+"263",E026_Kabarore,30.41028000000,-1.64197000000,Mutarama,Karenge,Kabarore,Gatsibo,East,"36","1736","1772",120.00000000000,"244",obstacles - tower - 150 - 20,"Site Name: E026_Kabarore
+SRTM_Hgt: 1736
+Tower_Hgt: 36
+","1736","36"
+"264",E027_Karangazi,30.39484000000,-1.40045000000,Humure,Rwisirabo,KARANGAZI,Nyagatare,East,"36","1428","1464",120.00000000000,"245",obstacles - tower - 150 - 20,"Site Name: E027_Karangazi
+SRTM_Hgt: 1428
+Tower_Hgt: 36
+","1428","36"
+"265",E028_Ngarama,30.23503000000,-1.58792000000,Hanika,Gatsibo,Gatsibo,Gatsibo,East,"54","1835","1889",120.00000000000,"246",obstacles - tower - 150 - 20,"Site Name: E028_Ngarama
+SRTM_Hgt: 1835
+Tower_Hgt: 54
+","1835","54"
+"266",E030_Rwagitima,30.39597000000,-1.69713000000,Bujumo,Matare,Rugarama,Gatsibo,East,"54","1661","1715",120.00000000000,"247",obstacles - tower - 150 - 20,"Site Name: E030_Rwagitima
+SRTM_Hgt: 1661
+Tower_Hgt: 54
+","1661","54"
+"267",E031_Rwinkwavu,30.62736000000,-1.98172000000,Bwiza,Mukoyoyo,Rwinkwavu,Kayonza,East,"54","1722","1776",120.00000000000,"248",obstacles - tower - 150 - 20,"Site Name: E031_Rwinkwavu
+SRTM_Hgt: 1722
+Tower_Hgt: 54
+","1722","54"
+"268",E034_Cyarubare,30.66397000000,-2.02689000000,Gishyoza,Rubumba,Kabare,Kayonza,East,"36","1727","1763",120.00000000000,"249",obstacles - tower - 150 - 20,"Site Name: E034_Cyarubare
+SRTM_Hgt: 1727
+Tower_Hgt: 36
+","1727","36"
+"269",E036_Kayonza II,30.50980000000,-1.89960000000,Kayonza Centre,Kayonza,Mukarange,Kayonza,East,"36","1563","1599",120.00000000000,"250",obstacles - tower - 150 - 20,"Site Name: E036_Kayonza II
+SRTM_Hgt: 1563
+Tower_Hgt: 36
+","1563","36"
+"270",E037_Nasho II,30.79892000000,-2.05558000000,Kabuye I,Mpanga,Mpanga,Kirehe,East,"36","1289","1325",120.00000000000,"251",obstacles - tower - 150 - 20,"Site Name: E037_Nasho II
+SRTM_Hgt: 1289
+Tower_Hgt: 36
+","1289","36"
+"271",E038_Rukara,30.49675000000,-1.81025000000,Uruyenzi,Rukara,Rukara,Kayonza,East,"36","1635","1671",120.00000000000,"252",obstacles - tower - 150 - 20,"Site Name: E038_Rukara
+SRTM_Hgt: 1635
+Tower_Hgt: 36
+","1635","36"
+"272",E039_Buziba boarder,30.23288000000,-1.26969000000,Kagarama,Tabagwe,TABAGWE,Nyagatare,East,"36","1603","1639",120.00000000000,"253",obstacles - tower - 150 - 20,"Site Name: E039_Buziba boarder
+SRTM_Hgt: 1603
+Tower_Hgt: 36
+","1603","36"
+"273",E040_Ryabega,30.36267000000,-1.35100000000,Ryabega,Rutaraka,NYAGATARE,Nyagatare,East,"36","1500","1536",120.00000000000,"254",obstacles - tower - 150 - 20,"Site Name: E040_Ryabega
+SRTM_Hgt: 1500
+Tower_Hgt: 36
+","1500","36"
+"274",E043_Ruhunda,30.41472000000,-1.86792000000,Akabuga,Kavumu,Gishali,Rwamagana,East,"36","1522","1558",120.00000000000,"255",obstacles - tower - 150 - 20,"Site Name: E043_Ruhunda
+SRTM_Hgt: 1522
+Tower_Hgt: 36
+","1522","36"
+"275",E044_KabaroreII,30.38031000000,-1.61691000000,Kabaroreii,Kabarore,Kabarore,Gatsibo,East,"36","1500","1536",120.00000000000,"256",obstacles - tower - 150 - 20,"Site Name: E044_KabaroreII
+SRTM_Hgt: 1500
+Tower_Hgt: 36
+","1500","36"
+"276",E045_Nyagatare II,30.33063000000,-1.28489000000,Barija A,Barija,NYAGATARE,Nyagatare,East,"22","1351","1373",120.00000000000,"257",obstacles - tower - 150 - 20,"Site Name: E045_Nyagatare II
+SRTM_Hgt: 1351
+Tower_Hgt: 22
+","1351","22"
+"277",E047_Kiziguro,30.38422000000,-1.76731000000,Ishanti,Agakomeye,Kiziguro,Gatsibo,East,"36","1580","1616",120.00000000000,"258",obstacles - tower - 150 - 20,"Site Name: E047_Kiziguro
+SRTM_Hgt: 1580
+Tower_Hgt: 36
+","1580","36"
+"278",E048_Matimba,30.42511000000,-1.12567000000,Umudugudu Wa I,Matimba,MATIMBA,Nyagatare,East,"36","1427","1463",120.00000000000,"259",obstacles - tower - 150 - 20,"Site Name: E048_Matimba
+SRTM_Hgt: 1427
+Tower_Hgt: 36
+","1427","36"
+"279",E051_Igahara,30.51525000000,-2.35448000000,Rwamaranga Ii,Rubimba,Gahara,Kirehe,East,"36","1548","1584",120.00000000000,"260",obstacles - tower - 150 - 20,"Site Name: E051_Igahara
+SRTM_Hgt: 1548
+Tower_Hgt: 36
+","1548","36"
+"280",E052_Isakara,30.55578000000,-2.19518000000,Mvumba,Mvumba,Murama,Ngoma,East,"36","1637","1673",120.00000000000,"261",obstacles - tower - 150 - 20,"Site Name: E052_Isakara
+SRTM_Hgt: 1637
+Tower_Hgt: 36
+","1637","36"
+"281",E053_Rwempasha,30.31298000000,-1.22500000000,Rukorota,Rukorota,RWEMPASHA,Nyagatare,East,"36","1462","1498",120.00000000000,"262",obstacles - tower - 150 - 20,"Site Name: E053_Rwempasha
+SRTM_Hgt: 1462
+Tower_Hgt: 36
+","1462","36"
+"282",E055_Remera_Ngoma,30.55564000000,-2.07816000000,Kumukiza,Bugera,Remera,Ngoma,East,"36","1686","1722",120.00000000000,"263",obstacles - tower - 150 - 20,"Site Name: E055_Remera_Ngoma
+SRTM_Hgt: 1686
+Tower_Hgt: 36
+","1686","36"
+"283",E057_Ntsinda,30.44189000000,-1.91580000000,Kibare,Nsinda,Muhazi,Rwamagana,East,"36","1519","1555",120.00000000000,"264",obstacles - tower - 150 - 20,"Site Name: E057_Ntsinda
+SRTM_Hgt: 1519
+Tower_Hgt: 36
+","1519","36"
+"284",E059_Gatore,30.61241000000,-2.27272000000,Rebero,Muganza,Gatore,Kirehe,East,"36","1599","1635",120.00000000000,"265",obstacles - tower - 150 - 20,"Site Name: E059_Gatore
+SRTM_Hgt: 1599
+Tower_Hgt: 36
+","1599","36"
+"285",E060_KibungoNgoma,30.55339000000,-2.13967000000,Kiruhura,Cyasemakamba,Kibungo,Ngoma,East,"36","1640","1676",120.00000000000,"266",obstacles - tower - 150 - 20,"Site Name: E060_KibungoNgoma
+SRTM_Hgt: 1640
+Tower_Hgt: 36
+","1640","36"
+"286",E065_Mpanga East,30.82112000000,-2.16839000000,Kacyiru,Bwiyorere,Mpanga,Kirehe,East,"36","1724","1760",120.00000000000,"267",obstacles - tower - 150 - 20,"Site Name: E065_Mpanga East
+SRTM_Hgt: 1724
+Tower_Hgt: 36
+","1724","36"
+"287",E066_Gishari,30.42120000000,-1.93010000000,Mugusha,Bwinsanga,Gishali,Rwamagana,East,"36","1530","1566",120.00000000000,"268",obstacles - tower - 150 - 20,"Site Name: E066_Gishari
+SRTM_Hgt: 1530
+Tower_Hgt: 36
+","1530","36"
+"288",E067_Kirehe,30.64989000000,-2.26500000000,Kirehe,Kirehe,Kirehe,Kirehe,East,"36","1595","1631",120.00000000000,"269",obstacles - tower - 150 - 20,"Site Name: E067_Kirehe
+SRTM_Hgt: 1595
+Tower_Hgt: 36
+","1595","36"
+"289",E068_Kiyanzi,30.74933000000,-2.30828000000,Gasenyi,Nyamugari,Nyamugari,Kirehe,East,"36","1510","1546",120.00000000000,"270",obstacles - tower - 150 - 20,"Site Name: E068_Kiyanzi
+SRTM_Hgt: 1510
+Tower_Hgt: 36
+","1510","36"
+"290",E069_Mirama,30.75653000000,-2.34050000000,Karehe,Kiyanzi,Nyamugari,Kirehe,East,"36","1559","1595",120.00000000000,"271",obstacles - tower - 150 - 20,"Site Name: E069_Mirama
+SRTM_Hgt: 1559
+Tower_Hgt: 36
+","1559","36"
+"291",E070_Murama,30.56897000000,-2.23884000000,Ruvuzi,Rurenge,Murama,Ngoma,East,"36","1527","1563",120.00000000000,"272",obstacles - tower - 150 - 20,"Site Name: E070_Murama
+SRTM_Hgt: 1527
+Tower_Hgt: 36
+","1527","36"
+"292",E071_Rukira,30.58786000000,-2.20323000000,Kigabiro,Kigabiro,Murama,Ngoma,East,"36","1596","1632",120.00000000000,"273",obstacles - tower - 150 - 20,"Site Name: E071_Rukira
+SRTM_Hgt: 1596
+Tower_Hgt: 36
+","1596","36"
+"293",E072_Rwimiyaga,30.41528000000,-1.22194000000,Rebero,Rwimiyaga,RWIMIYAGA,Nyagatare,East,"36","1446","1482",120.00000000000,"274",obstacles - tower - 150 - 20,"Site Name: E072_Rwimiyaga
+SRTM_Hgt: 1446
+Tower_Hgt: 36
+","1446","36"
+"294",E074_Zaza,30.43590000000,-2.06300000000,Mataba,Nkungu,Munyaga,Rwamagana,East,"36","1339","1375",120.00000000000,"275",obstacles - tower - 150 - 20,"Site Name: E074_Zaza
+SRTM_Hgt: 1339
+Tower_Hgt: 36
+","1339","36"
+"295",E075_Ngarama II,30.24150000000,-1.54110000000,Ibare,Ngarama,Ngarama,Gatsibo,East,"36","1474","1510",120.00000000000,"276",obstacles - tower - 150 - 20,"Site Name: E075_Ngarama II
+SRTM_Hgt: 1474
+Tower_Hgt: 36
+","1474","36"
+"296",E076_Kabarondo II,30.55600000000,-1.98650000000,Rurama,Rusera,Kabarondo,Kayonza,East,"36","1683","1719",120.00000000000,"277",obstacles - tower - 150 - 20,"Site Name: E076_Kabarondo II
+SRTM_Hgt: 1683
+Tower_Hgt: 36
+","1683","36"
+"297",E077_Kazo,30.53290000000,-2.18730000000,Mpandu,Karama,Kazo,Ngoma,East,"36","1634","1670",120.00000000000,"278",obstacles - tower - 150 - 20,"Site Name: E077_Kazo
+SRTM_Hgt: 1634
+Tower_Hgt: 36
+","1634","36"
+"298",E078_Kansana,30.49610000000,-2.15610000000,Rwakavuna,Mutsindo,Gashanda,Ngoma,East,"36","1512","1548",120.00000000000,"279",obstacles - tower - 150 - 20,"Site Name: E078_Kansana
+SRTM_Hgt: 1512
+Tower_Hgt: 36
+","1512","36"
+"299",E079_Rwamagana replacement,30.42730000000,-1.94960000000,Ramba,Nyagasenyi,Kigabiro,Rwamagana,East,"36","1541","1577",120.00000000000,"280",obstacles - tower - 150 - 20,"Site Name: E079_Rwamagana replacement
+SRTM_Hgt: 1541
+Tower_Hgt: 36
+","1541","36"
+"300",E080_Rurenge,30.55230000000,-2.27120000000,Gasibya,Rurenge,Murama,Ngoma,East,"36","1434","1470",120.00000000000,"281",obstacles - tower - 150 - 20,"Site Name: E080_Rurenge
+SRTM_Hgt: 1434
+Tower_Hgt: 36
+","1434","36"
+"301",E081_Gahini II,30.52110000000,-1.84630000000,Videwo,Urugarama,Gahini,Kayonza,East,"36","1590","1626",120.00000000000,"282",obstacles - tower - 150 - 20,"Site Name: E081_Gahini II
+SRTM_Hgt: 1590
+Tower_Hgt: 36
+","1590","36"
+"302",E082_Kayonza Road,30.50000000000,-1.92690000000,Kiyanja,Gikaya,Nyamirama,Kayonza,East,"36","1570","1606",120.00000000000,"283",obstacles - tower - 150 - 20,"Site Name: E082_Kayonza Road
+SRTM_Hgt: 1570
+Tower_Hgt: 36
+","1570","36"
+"303",E083_Rurambi,30.52430000000,-1.95790000000,Kabuya I,Rurambi,Nyamirama,Kayonza,East,"36","1621","1657",120.00000000000,"284",obstacles - tower - 150 - 20,"Site Name: E083_Rurambi
+SRTM_Hgt: 1621
+Tower_Hgt: 36
+","1621","36"
+"304",E084_Munyaga,30.46270000000,-2.01710000000,Kigabiro,Kaduha,Munyaga,Rwamagana,East,"36","1622","1658",120.00000000000,"285",obstacles - tower - 150 - 20,"Site Name: E084_Munyaga
+SRTM_Hgt: 1622
+Tower_Hgt: 36
+","1622","36"
+"305",E085_Musaza,30.62960000000,-2.33120000000,Musaza,Musaza,Musaza,Kirehe,East,"36","1794","1830",120.00000000000,"286",obstacles - tower - 150 - 20,"Site Name: E085_Musaza
+SRTM_Hgt: 1794
+Tower_Hgt: 36
+","1794","36"
+"306",E086_Nganda,30.59140000000,-2.32340000000,Nganda Ville Ii,Nganda,Musaza,Kirehe,East,"36","1573","1609",120.00000000000,"287",obstacles - tower - 150 - 20,"Site Name: E086_Nganda
+SRTM_Hgt: 1573
+Tower_Hgt: 36
+","1573","36"
+"307",E087_Mimuri,30.25660000000,-1.44620000000,Isangano,Rugari,MIMURI,Nyagatare,East,"36","1427","1463",120.00000000000,"288",obstacles - tower - 150 - 20,"Site Name: E087_Mimuri
+SRTM_Hgt: 1427
+Tower_Hgt: 36
+","1427","36"
+"308",E088_Kamiramigezi,30.54540000000,-1.33460000000,Akayange,Ndama,KARANGAZI,Nyagatare,East,"36","1328","1364",120.00000000000,"289",obstacles - tower - 150 - 20,"Site Name: E088_Kamiramigezi
+SRTM_Hgt: 1328
+Tower_Hgt: 36
+","1328","36"
+"309",E089_Rwabiharamba,30.47280000000,-1.42660000000,Kayange I,Nyamirama,KARANGAZI,Nyagatare,East,"36","1438","1474",120.00000000000,"290",obstacles - tower - 150 - 20,"Site Name: E089_Rwabiharamba
+SRTM_Hgt: 1438
+Tower_Hgt: 36
+","1438","36"
+"310",E090_Mirundi,30.55210000000,-1.67040000000,Buhabwa,Buhabwa,Murundi,Kayonza,East,"36","1647","1683",120.00000000000,"291",obstacles - tower - 150 - 20,"Site Name: E090_Mirundi
+SRTM_Hgt: 1647
+Tower_Hgt: 36
+","1647","36"
+"311",E091_Nyankora,30.68708000000,-1.94445000000,Nyagakonji,Cyarubare,Kabare,Kayonza,East,"36","1629","1665",120.00000000000,"292",obstacles - tower - 150 - 20,"Site Name: E091_Nyankora
+SRTM_Hgt: 1629
+Tower_Hgt: 36
+","1629","36"
+"312",E092_Gahara Boarder,30.49930000000,-2.33660000000,Agatangaza,Rubimba,Gahara,Kirehe,East,"36","1534","1570",120.00000000000,"293",obstacles - tower - 150 - 20,"Site Name: E092_Gahara Boarder
+SRTM_Hgt: 1534
+Tower_Hgt: 36
+","1534","36"
+"313",E093_Mutenderi,30.48810000000,-2.27440000000,Cyanyunga,Mutenderi,Mutenderi,Ngoma,East,"36","1531","1567",120.00000000000,"294",obstacles - tower - 150 - 20,"Site Name: E093_Mutenderi
+SRTM_Hgt: 1531
+Tower_Hgt: 36
+","1531","36"
+"314",E096_Kawangire,30.44222000000,-1.83015000000,Butimba I,Kawangire,Rukara,Kayonza,East,"36","1515","1551",120.00000000000,"295",obstacles - tower - 150 - 20,"Site Name: E096_Kawangire
+SRTM_Hgt: 1515
+Tower_Hgt: 36
+","1515","36"
+"315",E097_Gasheshe,30.20290000000,-1.29980000000,Nyasine,Gishuro,TABAGWE,Nyagatare,East,"36","1613","1649",120.00000000000,"296",obstacles - tower - 150 - 20,"Site Name: E097_Gasheshe
+SRTM_Hgt: 1613
+Tower_Hgt: 36
+","1613","36"
+"316",E098_Nyamiyonga,30.36630000000,-1.08780000000,Nyamiyonga,Nyamiyonga,MUSHERI,Nyagatare,East,"36","1386","1422",120.00000000000,"297",obstacles - tower - 150 - 20,"Site Name: E098_Nyamiyonga
+SRTM_Hgt: 1386
+Tower_Hgt: 36
+","1386","36"
+"317",E099_Rwentanga,30.41806000000,-1.08202000000,Rwentanga,Rwentanga,MATIMBA,Nyagatare,East,"36","1476","1512",120.00000000000,"298",obstacles - tower - 150 - 20,"Site Name: E099_Rwentanga
+SRTM_Hgt: 1476
+Tower_Hgt: 36
+","1476","36"
+"318",E101_Kahi,30.58690000000,-1.80610000000,Nyamiyaga,Kahi,Gahini,Kayonza,East,"36","1718","1754",120.00000000000,"299",obstacles - tower - 150 - 20,"Site Name: E101_Kahi
+SRTM_Hgt: 1718
+Tower_Hgt: 36
+","1718","36"
+"319",E104_Ndama,30.48490000000,-1.62625000000,Ndama I,Rwikiniro,Rwimbogo,Gatsibo,East,"36","1455","1491",120.00000000000,"300",obstacles - tower - 150 - 20,"Site Name: E104_Ndama
+SRTM_Hgt: 1455
+Tower_Hgt: 36
+","1455","36"
+"320",E105_Mugesera,30.40100000000,-2.12246000000,Gishandaro,Nyamugari,Mugesera,Ngoma,East,"36","1427","1463",120.00000000000,"301",obstacles - tower - 150 - 20,"Site Name: E105_Mugesera
+SRTM_Hgt: 1427
+Tower_Hgt: 36
+","1427","36"
+"321",E106_Nyangara,30.15972000000,-1.43370000000,Rwimbogo,Nyangara,GATUNDA,Nyagatare,East,"36","1834","1870",120.00000000000,"302",obstacles - tower - 150 - 20,"Site Name: E106_Nyangara
+SRTM_Hgt: 1834
+Tower_Hgt: 36
+","1834","36"
+"322",E107_Nyakabote,30.29601000000,-1.59238000000,Rwintama,Rubira,Gitoki,Gatsibo,East,"36","1468","1504",120.00000000000,"303",obstacles - tower - 150 - 20,"Site Name: E107_Nyakabote
+SRTM_Hgt: 1468
+Tower_Hgt: 36
+","1468","36"
+"323",E109_Gihengeri,30.18576000000,-1.50508000000,Gatete I,Gatete,MUKAMA,Nyagatare,East,"36","1751","1787",120.00000000000,"304",obstacles - tower - 150 - 20,"Site Name: E109_Gihengeri
+SRTM_Hgt: 1751
+Tower_Hgt: 36
+","1751","36"
+"324",E110_Rumuri,30.29317000000,-1.74719000000,Nyange,Rumuli,Muhura,Gatsibo,East,"36","1864","1900",120.00000000000,"305",obstacles - tower - 150 - 20,"Site Name: E110_Rumuri
+SRTM_Hgt: 1864
+Tower_Hgt: 36
+","1864","36"
+"325",E111_Rukumbeli,30.32459000000,-2.17966000000,Maswa I,Rubona,Rukumberi,Ngoma,East,"36","1379","1415",120.00000000000,"306",obstacles - tower - 150 - 20,"Site Name: E111_Rukumbeli
+SRTM_Hgt: 1379
+Tower_Hgt: 36
+","1379","36"
+"326",E112_Nyakigando,30.32590000000,-1.41730000000,Urumuri,Kaduha,KATABAGEMU,Nyagatare,East,"36","1492","1528",120.00000000000,"307",obstacles - tower - 150 - 20,"Site Name: E112_Nyakigando
+SRTM_Hgt: 1492
+Tower_Hgt: 36
+","1492","36"
+"327",E113_Musheri,30.40130000000,-1.16910000000,Ntoma,Ntoma,MUSHERI,Nyagatare,East,"36","1546","1582",120.00000000000,"308",obstacles - tower - 150 - 20,"Site Name: E113_Musheri
+SRTM_Hgt: 1546
+Tower_Hgt: 36
+","1546","36"
+"328",E114_Nyarubuye,30.74370000000,-2.18970000000,Nyarubuye Ii,Nyarutunga,Nyarubuye,Kirehe,East,"36","1665","1701",120.00000000000,"309",obstacles - tower - 150 - 20,"Site Name: E114_Nyarubuye
+SRTM_Hgt: 1665
+Tower_Hgt: 36
+","1665","36"
+"329",E115_Nyabimuri,30.74190000000,-2.14930000000,Nyabimuri,Kagese,Nasho,Kirehe,East,"36","1837","1873",120.00000000000,"310",obstacles - tower - 150 - 20,"Site Name: E115_Nyabimuri
+SRTM_Hgt: 1837
+Tower_Hgt: 36
+","1837","36"
+"330",E116_Ibanda,30.85210000000,-2.06330000000,Busasamana Ii,Nasho,Mpanga,Kirehe,East,"36","1344","1380",120.00000000000,"311",obstacles - tower - 150 - 20,"Site Name: E116_Ibanda
+SRTM_Hgt: 1344
+Tower_Hgt: 36
+","1344","36"
+"331",E118_Cyanyirangegene,30.41845000000,-1.46333000000,Rebero,Rubagabaga,KARANGAZI,Nyagatare,East,"36","1486","1522",120.00000000000,"312",obstacles - tower - 150 - 20,"Site Name: E118_Cyanyirangegene
+SRTM_Hgt: 1486
+Tower_Hgt: 36
+","1486","36"
+"332",E119_Bugaragara,30.38945000000,-1.31062000000,Kamagiri,Nyarupfubire,RWIMIYAGA,Nyagatare,East,"36","1492","1528",120.00000000000,"313",obstacles - tower - 150 - 20,"Site Name: E119_Bugaragara
+SRTM_Hgt: 1492
+Tower_Hgt: 36
+","1492","36"
+"333",E120_Idagaza,30.51976000000,-2.35568000000,Murama Ii,Murehe,Gahara,Kirehe,East,"36","1549","1585",120.00000000000,"314",obstacles - tower - 150 - 20,"Site Name: E120_Idagaza
+SRTM_Hgt: 1549
+Tower_Hgt: 36
+","1549","36"
+"334",E121_Rwantonde,30.55641000000,-2.39030000000,Karembo,Rwantonde,Gatore,Kirehe,East,"36","1659","1695",120.00000000000,"315",obstacles - tower - 150 - 20,"Site Name: E121_Rwantonde
+SRTM_Hgt: 1659
+Tower_Hgt: 36
+","1659","36"
+"335",E122_Nyagisozi,30.26962000000,-1.66822000000,Nyagisozi,Nyagisozi,Kageyo,Gatsibo,East,"36","1854","1890",120.00000000000,"316",obstacles - tower - 150 - 20,"Site Name: E122_Nyagisozi
+SRTM_Hgt: 1854
+Tower_Hgt: 36
+","1854","36"
+"336",E123_Jarama,30.38709000000,-2.27159000000,Twizerane,Jarama,Jarama,Ngoma,East,"54","1457","1511",120.00000000000,"317",obstacles - tower - 150 - 20,"Site Name: E123_Jarama
+SRTM_Hgt: 1457
+Tower_Hgt: 54
+","1457","54"
+"337",E126_Nyagahanga,30.21388000000,-1.62949000000,Rugarama,Nyagahanga,Gatsibo,Gatsibo,East,"55","1732","1787",120.00000000000,"318",obstacles - tower - 150 - 20,"Site Name: E126_Nyagahanga
+SRTM_Hgt: 1732
+Tower_Hgt: 55
+","1732","55"
+"338",E127_Gakagati,30.48898000000,-1.22216000000,Gakagati Ii,Rutungu,RWIMIYAGA,Nyagatare,East,"70","1456","1526",120.00000000000,"319",obstacles - tower - 150 - 20,"Site Name: E127_Gakagati
+SRTM_Hgt: 1456
+Tower_Hgt: 70
+","1456","70"
+"339",E129_Nsonga_Hill,30.17845000000,-1.33384000000,Shonga,Shonga,TABAGWE,Nyagatare,East,"22","1563","1585",120.00000000000,"320",obstacles - tower - 150 - 20,"Site Name: E129_Nsonga_Hill
+SRTM_Hgt: 1563
+Tower_Hgt: 22
+","1563","22"
+"340",E130_Kabare,30.66020000000,-2.04605000000,Bwatampama,Rubumba,Kabare,Kayonza,East,"22","1592","1614",120.00000000000,"321",obstacles - tower - 150 - 20,"Site Name: E130_Kabare
+SRTM_Hgt: 1592
+Tower_Hgt: 22
+","1592","22"
+"341",N002_Ruhengeri,29.63247000000,-1.50828000000,Nyamagumba,Kigombe,Muhoza,Musanze,North,"36","1899","1935",120.00000000000,"322",obstacles - tower - 150 - 20,"Site Name: N002_Ruhengeri
+SRTM_Hgt: 1899
+Tower_Hgt: 36
+","1899","36"
+"342",N003_Ruhengeri II,29.65450000000,-1.48930000000,Rutemba,Buruba,Cyuve,Musanze,North,"36","1865","1901",120.00000000000,"323",obstacles - tower - 150 - 20,"Site Name: N003_Ruhengeri II
+SRTM_Hgt: 1865
+Tower_Hgt: 36
+","1865","36"
+"343",N006_ETO Tumba,29.92253000000,-1.69553000000,Rwanzu,Kayenzi,BUSHOKI,Rulindo,North,"54","2140","2194",120.00000000000,"324",obstacles - tower - 150 - 20,"Site Name: N006_ETO Tumba
+SRTM_Hgt: 2140
+Tower_Hgt: 54
+","2140","54"
+"344",N008_Mukungwa,29.65489000000,-1.51258000000,Kiryi,Kigombe,Muhoza,Musanze,North,"36","1762","1798",120.00000000000,"325",obstacles - tower - 150 - 20,"Site Name: N008_Mukungwa
+SRTM_Hgt: 1762
+Tower_Hgt: 36
+","1762","36"
+"345",N009_Gatuna,30.03628000000,-1.47714000000,Nyakabungo,Mulindi,Kaniga,Gicumbi,North,"54","1989","2043",120.00000000000,"326",obstacles - tower - 150 - 20,"Site Name: N009_Gatuna
+SRTM_Hgt: 1989
+Tower_Hgt: 54
+","1989","54"
+"346",N010_Cyanika,29.72686000000,-1.41928000000,Rutamba,Gafumba,Rugarama,Burera,North,"55","2051","2106",120.00000000000,"327",obstacles - tower - 150 - 20,"Site Name: N010_Cyanika
+SRTM_Hgt: 2051
+Tower_Hgt: 55
+","2051","55"
+"347",N011_Kinihira,29.98372000000,-1.66661000000,Bwishya,Karegamazi,KINIHIRA,Rulindo,North,"55","2025","2080",120.00000000000,"328",obstacles - tower - 150 - 20,"Site Name: N011_Kinihira
+SRTM_Hgt: 2025
+Tower_Hgt: 55
+","2025","55"
+"348",N012_Rushaki,30.10370000000,-1.45522000000,Nkamba,Kamutora,Rushaki,Gicumbi,North,"55","2166","2221",120.00000000000,"329",obstacles - tower - 150 - 20,"Site Name: N012_Rushaki
+SRTM_Hgt: 2166
+Tower_Hgt: 55
+","2166","55"
+"349",N013_Ruhengeri_Mrkt,29.64047000000,-1.51022000000,Nduruma,Kigombe,Muhoza,Musanze,North,"36","1810","1846",120.00000000000,"330",obstacles - tower - 150 - 20,"Site Name: N013_Ruhengeri_Mrkt
+SRTM_Hgt: 1810
+Tower_Hgt: 36
+","1810","36"
+"350",N014_Byumba_II,30.05992000000,-1.58328000000,Kinihira I,Gisuna,Byumba,Gicumbi,North,"36","2227","2263",120.00000000000,"331",obstacles - tower - 150 - 20,"Site Name: N014_Byumba_II
+SRTM_Hgt: 2227
+Tower_Hgt: 36
+","2227","36"
+"351",N015_Buranga,29.76409000000,-1.63995000000,Kamomo,Ruhinga,Kivuruga,Gakenke,North,"55","2245","2300",120.00000000000,"332",obstacles - tower - 150 - 20,"Site Name: N015_Buranga
+SRTM_Hgt: 2245
+Tower_Hgt: 55
+","2245","55"
+"352",N016_Bulera,29.85133000000,-1.48769000000,Kibuye,Gashoro,Rwerere,Burera,North,"36","2398","2434",120.00000000000,"333",obstacles - tower - 150 - 20,"Site Name: N016_Bulera
+SRTM_Hgt: 2398
+Tower_Hgt: 36
+","2398","36"
+"353",N017_Gakenke,29.79020000000,-1.64775000000,Umujyi Wa Gakenke,Rusagara,Gakenke,Gakenke,North,"54","1686","1740",120.00000000000,"334",obstacles - tower - 150 - 20,"Site Name: N017_Gakenke
+SRTM_Hgt: 1686
+Tower_Hgt: 54
+","1686","54"
+"354",N018_Kamuhoza,29.63359000000,-1.49913000000,Nyiraruhengeri,Rwebeya,Cyuve,Musanze,North,"36","1847","1883",120.00000000000,"335",obstacles - tower - 150 - 20,"Site Name: N018_Kamuhoza
+SRTM_Hgt: 1847
+Tower_Hgt: 36
+","1847","36"
+"355",N019_Rutongo,30.05847000000,-1.81861000000,Kabuga,Nyamyumba,MASORO,Rulindo,North,"55","1890","1945",120.00000000000,"336",obstacles - tower - 150 - 20,"Site Name: N019_Rutongo
+SRTM_Hgt: 1890
+Tower_Hgt: 55
+","1890","55"
+"356",N020_Bwisige,30.15164000000,-1.57914000000,Nyarubuye,Bwisige,Bwisige,Gicumbi,North,"54","2083","2137",120.00000000000,"337",obstacles - tower - 150 - 20,"Site Name: N020_Bwisige
+SRTM_Hgt: 2083
+Tower_Hgt: 54
+","2083","54"
+"357",N021_Kirenge,29.91642000000,-1.76534000000,Ntaruka,Kirenge,RUSIGA,Rulindo,North,"55","2223","2278",120.00000000000,"338",obstacles - tower - 150 - 20,"Site Name: N021_Kirenge
+SRTM_Hgt: 2223
+Tower_Hgt: 55
+","2223","55"
+"358",N022_Nyirangarama,29.89303000000,-1.65592000000,Mugenda I,Gitare,BASE,Rulindo,North,"54","2040","2094",120.00000000000,"339",obstacles - tower - 150 - 20,"Site Name: N022_Nyirangarama
+SRTM_Hgt: 2040
+Tower_Hgt: 54
+","2040","54"
+"359",N023_Vunga,29.64470000000,-1.68290000000,Biraro,Rwamambe,Mugunga,Gakenke,North,"36","1649","1685",120.00000000000,"340",obstacles - tower - 150 - 20,"Site Name: N023_Vunga
+SRTM_Hgt: 1649
+Tower_Hgt: 36
+","1649","36"
+"360",N025_Kinigi,29.58161000000,-1.43930000000,Butorwa I,Nyonirima,Kinigi,Musanze,North,"36","2279","2315",120.00000000000,"341",obstacles - tower - 150 - 20,"Site Name: N025_Kinigi
+SRTM_Hgt: 2279
+Tower_Hgt: 36
+","2279","36"
+"361",N026_Ruhengeri III,29.64175000000,-1.49609000000,Giramahoro,Mpenge,Muhoza,Musanze,North,"36","1845","1881",120.00000000000,"342",obstacles - tower - 150 - 20,"Site Name: N026_Ruhengeri III
+SRTM_Hgt: 1845
+Tower_Hgt: 36
+","1845","36"
+"362",N027_Busogo,29.55036000000,-1.55578000000,Gahanga,Gisesero,Busogo,Musanze,North,"36","2191","2227",120.00000000000,"343",obstacles - tower - 150 - 20,"Site Name: N027_Busogo
+SRTM_Hgt: 2191
+Tower_Hgt: 36
+","2191","36"
+"363",N028_Byumba III,30.04911000000,-1.59892000000,Rugarama,Nyarutarama,Byumba,Gicumbi,North,"36","2201","2237",120.00000000000,"344",obstacles - tower - 150 - 20,"Site Name: N028_Byumba III
+SRTM_Hgt: 2201
+Tower_Hgt: 36
+","2201","36"
+"364",N029_Nyinawimana,30.13250000000,-1.67086000000,Rwingwe,Kiziba,Nyamiyaga,Gicumbi,North,"36","2181","2217",120.00000000000,"345",obstacles - tower - 150 - 20,"Site Name: N029_Nyinawimana
+SRTM_Hgt: 2181
+Tower_Hgt: 36
+","2181","36"
+"365",N030_Cyanika boarder,29.75492000000,-1.37816000000,Kabana,Nyamabuye,Kagogo,Burera,North,"36","2110","2146",120.00000000000,"346",obstacles - tower - 150 - 20,"Site Name: N030_Cyanika boarder
+SRTM_Hgt: 2110
+Tower_Hgt: 36
+","2110","36"
+"366",N031_Zoko,30.10442000000,-1.75931000000,Nyagasozi,Kabeza,Mutete,Gicumbi,North,"36","1947","1983",120.00000000000,"347",obstacles - tower - 150 - 20,"Site Name: N031_Zoko
+SRTM_Hgt: 1947
+Tower_Hgt: 36
+","1947","36"
+"367",N032_Gaseke II,30.14220000000,-1.76080000000,Bwangamwanda,Nkoto,Rutare,Gicumbi,North,"36","1845","1881",120.00000000000,"348",obstacles - tower - 150 - 20,"Site Name: N032_Gaseke II
+SRTM_Hgt: 1845
+Tower_Hgt: 36
+","1845","36"
+"368",N034_Musanze II,29.61030000000,-1.50267000000,Gakoro,Rwambogo,Musanze,Musanze,North,"36","1880","1916",120.00000000000,"349",obstacles - tower - 150 - 20,"Site Name: N034_Musanze II
+SRTM_Hgt: 1880
+Tower_Hgt: 36
+","1880","36"
+"369",N035_Gatonde,29.66386000000,-1.66181000000,Gatonde,Rutabo,Mugunga,Gakenke,North,"36","1922","1958",120.00000000000,"350",obstacles - tower - 150 - 20,"Site Name: N035_Gatonde
+SRTM_Hgt: 1922
+Tower_Hgt: 36
+","1922","36"
+"370",N036_Kinyababa,29.68975000000,-1.46275000000,Mubuga,Cyanya,Cyuve,Musanze,North,"36","1882","1918",120.00000000000,"351",obstacles - tower - 150 - 20,"Site Name: N036_Kinyababa
+SRTM_Hgt: 1882
+Tower_Hgt: 36
+","1882","36"
+"371",N037_Rubaya,30.00856000000,-1.45311000000,Gashija,Nyakabungo,Cyumba,Gicumbi,North,"36","2125","2161",120.00000000000,"352",obstacles - tower - 150 - 20,"Site Name: N037_Rubaya
+SRTM_Hgt: 2125
+Tower_Hgt: 36
+","2125","36"
+"372",N038_Meshero,30.10540000000,-1.61780000000,Ryarubanza,Kinyami,Rukomo,Gicumbi,North,"36","2190","2226",120.00000000000,"353",obstacles - tower - 150 - 20,"Site Name: N038_Meshero
+SRTM_Hgt: 2190
+Tower_Hgt: 36
+","2190","36"
+"373",N039_Kirwa,30.12950000000,-1.73160000000,Kirwa,Munanira,Rutare,Gicumbi,North,"36","1805","1841",120.00000000000,"354",obstacles - tower - 150 - 20,"Site Name: N039_Kirwa
+SRTM_Hgt: 1805
+Tower_Hgt: 36
+","1805","36"
+"374",N040_Buyanga,29.81210000000,-1.40470000000,Kanyesogo,Rusumo,Butaro,Burera,North,"36","2356","2392",120.00000000000,"355",obstacles - tower - 150 - 20,"Site Name: N040_Buyanga
+SRTM_Hgt: 2356
+Tower_Hgt: 36
+","2356","36"
+"375",N041_Miyove,29.98264000000,-1.61255000000,Nyangezi,Rusasa,Nyankenke,Gicumbi,North,"36","2305","2341",120.00000000000,"356",obstacles - tower - 150 - 20,"Site Name: N041_Miyove
+SRTM_Hgt: 2305
+Tower_Hgt: 36
+","2305","36"
+"376",N043_Byumba_MTN,30.06683000000,-1.57514000000,Gisuna,Gisuna,Byumba,Gicumbi,North,"70","2246","2316",120.00000000000,"357",obstacles - tower - 150 - 20,"Site Name: N043_Byumba_MTN
+SRTM_Hgt: 2246
+Tower_Hgt: 70
+","2246","70"
+"377",N044_SOS Gicumbi,30.08661000000,-1.61128000000,Gatare,Nyamiyaga,Kageyo,Gicumbi,North,"36","2258","2294",120.00000000000,"358",obstacles - tower - 150 - 20,"Site Name: N044_SOS Gicumbi
+SRTM_Hgt: 2258
+Tower_Hgt: 36
+","2258","36"
+"378",N046_Buzinganjwiri,29.83190000000,-1.78330000000,Burengo,Mbirima,Coko,Gakenke,North,"36","2242","2278",120.00000000000,"359",obstacles - tower - 150 - 20,"Site Name: N046_Buzinganjwiri
+SRTM_Hgt: 2242
+Tower_Hgt: 36
+","2242","36"
+"379",N047_Nyakayogera,29.88110000000,-1.58980000000,Nyiraruhuha,Nyamugari,Nemba,Burera,North,"36","2151","2187",120.00000000000,"360",obstacles - tower - 150 - 20,"Site Name: N047_Nyakayogera
+SRTM_Hgt: 2151
+Tower_Hgt: 36
+","2151","36"
+"380",N048_Butaro,29.83920000000,-1.41150000000,Butaro,Rusumo,Butaro,Burera,North,"36","2123","2159",120.00000000000,"361",obstacles - tower - 150 - 20,"Site Name: N048_Butaro
+SRTM_Hgt: 2123
+Tower_Hgt: 36
+","2123","36"
+"381",N049_Byumba Road,30.10860000000,-1.67120000000,Majyambere,Gahumuliza,Nyamiyaga,Gicumbi,North,"36","1961","1997",120.00000000000,"362",obstacles - tower - 150 - 20,"Site Name: N049_Byumba Road
+SRTM_Hgt: 1961
+Tower_Hgt: 36
+","1961","36"
+"382",N051_Shangasha,30.06110000000,-1.52750000000,Ituze,Shangasha,Shangasha,Gicumbi,North,"36","2153","2189",120.00000000000,"363",obstacles - tower - 150 - 20,"Site Name: N051_Shangasha
+SRTM_Hgt: 2153
+Tower_Hgt: 36
+","2153","36"
+"383",N053_Gasongero,29.70525000000,-1.54839000000,Nyakibande,Gasongero,Remera,Musanze,North,"36","1991","2027",120.00000000000,"364",obstacles - tower - 150 - 20,"Site Name: N053_Gasongero
+SRTM_Hgt: 1991
+Tower_Hgt: 36
+","1991","36"
+"384",N054_Gashyushya,29.63272000000,-1.63411000000,Mubuga,Gakoro,Rugera,Nyabihu,West,"36","1469","1505",120.00000000000,"365",obstacles - tower - 150 - 20,"Site Name: N054_Gashyushya
+SRTM_Hgt: 1469
+Tower_Hgt: 36
+","1469","36"
+"385",N055_Cyabingo,29.68828000000,-1.57872000000,Rugaragara,Muramba,Cyabingo,Gakenke,North,"36","1954","1990",120.00000000000,"366",obstacles - tower - 150 - 20,"Site Name: N055_Cyabingo
+SRTM_Hgt: 1954
+Tower_Hgt: 36
+","1954","36"
+"386",N058_Nyakinama,29.63800000000,-1.56634000000,Barizo,Bikara,Nkotsi,Musanze,North,"36","1621","1657",120.00000000000,"367",obstacles - tower - 150 - 20,"Site Name: N058_Nyakinama
+SRTM_Hgt: 1621
+Tower_Hgt: 36
+","1621","36"
+"387",N060_Kivuruga,29.74333000000,-1.57811000000,Ngambi,Mbwe,Gashaki,Musanze,North,"36","1988","2024",120.00000000000,"368",obstacles - tower - 150 - 20,"Site Name: N060_Kivuruga
+SRTM_Hgt: 1988
+Tower_Hgt: 36
+","1988","36"
+"388",N061_Rurembo,29.56900000000,-1.53775000000,Rurembo,Nyagisozi,Busogo,Musanze,North,"36","2257","2293",120.00000000000,"369",obstacles - tower - 150 - 20,"Site Name: N061_Rurembo
+SRTM_Hgt: 2257
+Tower_Hgt: 36
+","2257","36"
+"389",N062_Bisate,29.52747000000,-1.45283000000,Impano,Kaguhu,Kinigi,Musanze,North,"36","2490","2526",120.00000000000,"370",obstacles - tower - 150 - 20,"Site Name: N062_Bisate
+SRTM_Hgt: 2490
+Tower_Hgt: 36
+","2490","36"
+"390",N063_Muko,29.63583000000,-1.53800000000,Sangano,Cyivugiza,Muko,Musanze,North,"36","1665","1701",120.00000000000,"371",obstacles - tower - 150 - 20,"Site Name: N063_Muko
+SRTM_Hgt: 1665
+Tower_Hgt: 36
+","1665","36"
+"391",N064_Ruli,29.82984000000,-1.83808000000,Kabingo,Gikingo,Ruli,Gakenke,North,"36","1801","1837",120.00000000000,"372",obstacles - tower - 150 - 20,"Site Name: N064_Ruli
+SRTM_Hgt: 1801
+Tower_Hgt: 36
+","1801","36"
+"392",N065_Muko II,30.22330000000,-1.68930000000,Kirwanirwa,Rebero,Muko,Gicumbi,North,"36","1982","2018",120.00000000000,"373",obstacles - tower - 150 - 20,"Site Name: N065_Muko II
+SRTM_Hgt: 1982
+Tower_Hgt: 36
+","1982","36"
+"393",N066_Giti,30.24272000000,-1.77363000000,Butare,Murehe,Giti,Gicumbi,North,"36","1869","1905",120.00000000000,"374",obstacles - tower - 150 - 20,"Site Name: N066_Giti
+SRTM_Hgt: 1869
+Tower_Hgt: 36
+","1869","36"
+"394",N067_Jamba,30.18163000000,-1.67925000000,Rugarama,Jamba,Nyamiyaga,Gicumbi,North,"36","2012","2048",120.00000000000,"375",obstacles - tower - 150 - 20,"Site Name: N067_Jamba
+SRTM_Hgt: 2012
+Tower_Hgt: 36
+","2012","36"
+"395",N068_Bungwe,29.96412000000,-1.52450000000,Mubuga,Tumba,Bungwe,Burera,North,"36","2417","2453",120.00000000000,"376",obstacles - tower - 150 - 20,"Site Name: N068_Bungwe
+SRTM_Hgt: 2417
+Tower_Hgt: 36
+","2417","36"
+"396",N069_Raba,29.81333000000,-1.70149000000,Mutara,Raba,Minazi,Gakenke,North,"36","1941","1977",120.00000000000,"377",obstacles - tower - 150 - 20,"Site Name: N069_Raba
+SRTM_Hgt: 1941
+Tower_Hgt: 36
+","1941","36"
+"397",N070_Upper kinigi,29.56534000000,-1.41892000000,Rebero,Nyabigoma,Kinigi,Musanze,North,"36","2464","2500",120.00000000000,"378",obstacles - tower - 150 - 20,"Site Name: N070_Upper kinigi
+SRTM_Hgt: 2464
+Tower_Hgt: 36
+","2464","36"
+"398",N071_Rutabo,29.83536000000,-1.74316000000,Bukamba,Kiruku,Coko,Gakenke,North,"36","2110","2146",120.00000000000,"379",obstacles - tower - 150 - 20,"Site Name: N071_Rutabo
+SRTM_Hgt: 2110
+Tower_Hgt: 36
+","2110","36"
+"399",N072_Gakeri,29.96211000000,-1.48269000000,Gakeri,Bungwe,Bungwe,Burera,North,"36","2374","2410",120.00000000000,"380",obstacles - tower - 150 - 20,"Site Name: N072_Gakeri
+SRTM_Hgt: 2374
+Tower_Hgt: 36
+","2374","36"
+"400",N073_RUTARE,30.17910000000,-1.73208000000,Kanaba,Gatwaro,Rutare,Gicumbi,North,"36","2087","2123",120.00000000000,"381",obstacles - tower - 150 - 20,"Site Name: N073_RUTARE
+SRTM_Hgt: 2087
+Tower_Hgt: 36
+","2087","36"
+"401",N074_Ruhunde,29.93948000000,-1.58514000000,Ngoma,Gitovu,Ruhunde,Burera,North,"36","2368","2404",120.00000000000,"382",obstacles - tower - 150 - 20,"Site Name: N074_Ruhunde
+SRTM_Hgt: 2368
+Tower_Hgt: 36
+","2368","36"
+"402",N075_Ndusu,29.70324000000,-1.71505000000,Curugusi,Kabatezi,Muzo,Gakenke,North,"36","2146","2182",120.00000000000,"383",obstacles - tower - 150 - 20,"Site Name: N075_Ndusu
+SRTM_Hgt: 2146
+Tower_Hgt: 36
+","2146","36"
+"403",N076_Kamubuga,29.80467000000,-1.57791000000,Kanshenge,Kamubuga,Kamubuga,Gakenke,North,"54","2351","2405",120.00000000000,"384",obstacles - tower - 150 - 20,"Site Name: N076_Kamubuga
+SRTM_Hgt: 2351
+Tower_Hgt: 54
+","2351","54"
+"404",N077_Manyagiro,30.00785000000,-1.55710000000,Rurembo,Nyiravugiza,Manyagiro,Gicumbi,North,"54","1928","1982",120.00000000000,"385",obstacles - tower - 150 - 20,"Site Name: N077_Manyagiro
+SRTM_Hgt: 1928
+Tower_Hgt: 54
+","1928","54"
+"405",N078_Burega,30.02224000000,-1.72864000000,Rusine,Taba,BUREGA,Rulindo,North,"54","2008","2062",120.00000000000,"386",obstacles - tower - 150 - 20,"Site Name: N078_Burega
+SRTM_Hgt: 2008
+Tower_Hgt: 54
+","2008","54"
+"406",N080_Rebero_NORTH,30.16205000000,-1.62193000000,Gatare,Rebero,Ruvune,Gicumbi,North,"22","1740","1762",120.00000000000,"387",obstacles - tower - 150 - 20,"Site Name: N080_Rebero_NORTH
+SRTM_Hgt: 1740
+Tower_Hgt: 22
+","1740","22"
+"407",N081_Kivuye,29.92509556000,-1.47996199000,Kanyenzugi,Nyirataba,Kivuye,Burera,North,"54","2426","2480",120.00000000000,"388",obstacles - tower - 150 - 20,"Site Name: N081_Kivuye
+SRTM_Hgt: 2426
+Tower_Hgt: 54
+","2426","54"
+"408",N082_Cyanika Boarder_II,29.73848903000,-1.34199652000,Majyambere,Kamanyana,Cyanika,Burera,North,"22","1969","1991",120.00000000000,"389",obstacles - tower - 150 - 20,"Site Name: N082_Cyanika Boarder_II
+SRTM_Hgt: 1969
+Tower_Hgt: 22
+","1969","22"
+"409",N085_Gitovu,29.78055000000,-1.52477000000,Kiraro,Runoga,Gitovu,Burera,North,"54","1972","2026",120.00000000000,"390",obstacles - tower - 150 - 20,"Site Name: N085_Gitovu
+SRTM_Hgt: 1972
+Tower_Hgt: 54
+","1972","54"
+"410",W120_Jomba,29.56471000000,-1.71537000000,Ntwaro,Nyamitanzi,Jomba,Nyabihu,West,"54","2454","2508",120.00000000000,"391",obstacles - tower - 150 - 20,"Site Name: W120_Jomba
+SRTM_Hgt: 2454
+Tower_Hgt: 54
+","2454","54"
+"411",N088_Gashenyi,29.84410000000,-1.64442000000,Kangomba,Taba,Gashenyi,Gakenke,North,"54","1982","2036",120.00000000000,"392",obstacles - tower - 150 - 20,"Site Name: N088_Gashenyi
+SRTM_Hgt: 1982
+Tower_Hgt: 54
+","1982","54"
+"412",N086_Gatuna II,30.02318000000,-1.44939000000,Ruhita,Mulindi,Kaniga,Gicumbi,North,"36","1801","1837",120.00000000000,"393",obstacles - tower - 150 - 20,"Site Name: N086_Gatuna II
+SRTM_Hgt: 1801
+Tower_Hgt: 36
+","1801","36"
+"413",N083_Tare,29.92195000000,-1.71169000000,Murambo,Kayenzi,BUSHOKI,Rulindo,North,"36","1930","1966",120.00000000000,"394",obstacles - tower - 150 - 20,"Site Name: N083_Tare
+SRTM_Hgt: 1930
+Tower_Hgt: 36
+","1930","36"
+"414",E135_Mahama,30.79895000000,-2.25806000000,Tetero,Kazizi,Nyamugari,Kirehe,East,"36","1370","1406",120.00000000000,"395",obstacles - tower - 150 - 20,"Site Name: E135_Mahama
+SRTM_Hgt: 1370
+Tower_Hgt: 36
+","1370","36"
+"415",N089_Murambi_Muko,30.02333300000,-1.79655000000,Rurama,Mvuzo,MURAMBI,Rulindo,North,"36","2126","2162",120.00000000000,"396",obstacles - tower - 150 - 20,"Site Name: N089_Murambi_Muko
+SRTM_Hgt: 2126
+Tower_Hgt: 36
+","2126","36"
+"416",2GAT-Rwagitima,30.40471000000,-1.67593000000,Gashenyi Ii,Gihuta,Rugarama,Gatsibo,East,"40","1392","1432",120.00000000000,"397",obstacles - tower - 150 - 20,"Site Name: 2GAT-Rwagitima
+SRTM_Hgt: 1392
+Tower_Hgt: 40
+","1392","40"
+"417",2NYB-KORA2,29.45283000000,-1.61302000000,Kageri,Bukinanyana,Jenda,Nyabihu,West,"40","2476","2516",120.00000000000,"398",obstacles - tower - 150 - 20,"Site Name: 2NYB-KORA2
+SRTM_Hgt: 2476
+Tower_Hgt: 40
+","2476","40"
+"418",Bare,30.49478000000,-2.25695000000,Tonero,Mutenderi,Mutenderi,Ngoma,East,"45","1549","1594",120.00000000000,"399",obstacles - tower - 150 - 20,"Site Name: Bare
+SRTM_Hgt: 1549
+Tower_Hgt: 45
+","1549","45"
+"419",Bicumbi,30.34003000000,-2.02653000000,Kiyovu,Akanzu,Nzige,Rwamagana,East,"36","1652","1688",120.00000000000,"400",obstacles - tower - 150 - 20,"Site Name: Bicumbi
+SRTM_Hgt: 1652
+Tower_Hgt: 36
+","1652","36"
+"420",Bigogwe/karisimbi,29.42072000000,-1.55373000000,Kamuhe,Batikoti,Kabatwa,Nyabihu,West,"24","2746","2770",120.00000000000,"401",obstacles - tower - 150 - 20,"Site Name: Bigogwe/karisimbi
+SRTM_Hgt: 2746
+Tower_Hgt: 24
+","2746","24"
+"421",Bralirwa,29.27683000000,-1.72732000000,Burima,Rubona,Nyamyumba,Rubavu,West,"24","1647","1671",120.00000000000,"402",obstacles - tower - 150 - 20,"Site Name: Bralirwa
+SRTM_Hgt: 1647
+Tower_Hgt: 24
+","1647","24"
+"422",Buranga,29.76774000000,-1.61545000000,Burego,Buranga,Nemba,Gakenke,North,"40","2197","2237",120.00000000000,"403",obstacles - tower - 150 - 20,"Site Name: Buranga
+SRTM_Hgt: 2197
+Tower_Hgt: 40
+","2197","40"
+"423",Buringa,29.70240000000,-2.00153000000,Kabadaha,Munazi,Mushishiro,Muhanga,South,"36","1905","1941",120.00000000000,"404",obstacles - tower - 150 - 20,"Site Name: Buringa
+SRTM_Hgt: 1905
+Tower_Hgt: 36
+","1905","36"
+"425",Butantsinda,29.77474000000,-2.28459000000,Kinyogoto,Gatagara,Mukingo,Nyanza,South,"36","1747","1783",120.00000000000,"405",obstacles - tower - 150 - 20,"Site Name: Butantsinda
+SRTM_Hgt: 1747
+Tower_Hgt: 36
+","1747","36"
+"426",Butare RWT Com.,29.74181000000,-2.59942000000,Karubanda,Butare,Ngoma,Huye,South,"30","1747","1777",120.00000000000,"406",obstacles - tower - 150 - 20,"Site Name: Butare RWT Com.
+SRTM_Hgt: 1747
+Tower_Hgt: 30
+","1747","30"
+"427",Butare RWT Tech,29.73605000000,-2.60873000000,Mamba,Butare,Ngoma,Huye,South,"18","1748","1766",120.00000000000,"407",obstacles - tower - 150 - 20,"Site Name: Butare RWT Tech
+SRTM_Hgt: 1748
+Tower_Hgt: 18
+","1748","18"
+"428",Buvumo,29.72470000000,-2.68545000000,Nyamirama,Nyamirama,Ngera,Nyaruguru,South,"54","1850","1904",120.00000000000,"408",obstacles - tower - 150 - 20,"Site Name: Buvumo
+SRTM_Hgt: 1850
+Tower_Hgt: 54
+","1850","54"
+"429",Buyoga,30.01520000000,-1.68533000000,Mataba,Mwumba,BUYOGA,Rulindo,North,"30","2120","2150",120.00000000000,"409",obstacles - tower - 150 - 20,"Site Name: Buyoga
+SRTM_Hgt: 2120
+Tower_Hgt: 30
+","2120","30"
+"430",Byumba,30.06845000000,-1.57824000000,Gacurabwenge,Gacurabwenge,Byumba,Gicumbi,North,"65","2266","2331",120.00000000000,"410",obstacles - tower - 150 - 20,"Site Name: Byumba
+SRTM_Hgt: 2266
+Tower_Hgt: 65
+","2266","65"
+"431",Byumba stade,30.04909000000,-1.59915000000,Rugarama,Nyarutarama,Byumba,Gicumbi,North,"30","2199","2229",120.00000000000,"411",obstacles - tower - 150 - 20,"Site Name: Byumba stade
+SRTM_Hgt: 2199
+Tower_Hgt: 30
+","2199","30"
+"432",Eto Tumba,29.91240000000,-1.68381000000,Buramira,Giko,BUSHOKI,Rulindo,North,"34","2135","2169",120.00000000000,"412",obstacles - tower - 150 - 20,"Site Name: Eto Tumba
+SRTM_Hgt: 2135
+Tower_Hgt: 34
+","2135","34"
+"433",Gabiro Military Camp,30.40523200000,-1.53811400000,Nyabikiri,Nyabikiri,Kabarore,Gatsibo,East,"30","1471","1501",120.00000000000,"413",obstacles - tower - 150 - 20,"Site Name: Gabiro Military Camp
+SRTM_Hgt: 1471
+Tower_Hgt: 30
+","1471","30"
+"434",Gahini,30.49441000000,-1.84953000000,Nyagitabire,Urugarama,Gahini,Kayonza,East,"54","1565","1619",120.00000000000,"414",obstacles - tower - 150 - 20,"Site Name: Gahini
+SRTM_Hgt: 1565
+Tower_Hgt: 54
+","1565","54"
+"435",Gahogo,29.75411000000,-2.08876000000,Nyarucyamu Iii,Gahogo,Nyamabuye,Muhanga,South,"24","1892","1916",120.00000000000,"415",obstacles - tower - 150 - 20,"Site Name: Gahogo
+SRTM_Hgt: 1892
+Tower_Hgt: 24
+","1892","24"
+"436",Gaseke,29.54770000000,-1.78273000000,Bukonde,Mwendo,KABAYA,Ngororero,West,"36","2434","2470",120.00000000000,"416",obstacles - tower - 150 - 20,"Site Name: Gaseke
+SRTM_Hgt: 2434
+Tower_Hgt: 36
+","2434","36"
+"437",Gatonde,29.66451000000,-1.65700000000,Gacemeri,Rutabo,Mugunga,Gakenke,North,"45","1898","1943",120.00000000000,"417",obstacles - tower - 150 - 20,"Site Name: Gatonde
+SRTM_Hgt: 1898
+Tower_Hgt: 45
+","1898","45"
+"439",Gikongoro,29.57376000000,-2.47100000000,Nyarusange,Nyamugari,Gasaka,Nyamagabe,South,"90","1819","1909",120.00000000000,"418",obstacles - tower - 150 - 20,"Site Name: Gikongoro
+SRTM_Hgt: 1819
+Tower_Hgt: 90
+","1819","90"
+"440",Gikonko,29.86283000000,-2.48536000000,Runyinya,Gikonko,Gikonko,Gisagara,South,"36","1573","1609",120.00000000000,"419",obstacles - tower - 150 - 20,"Site Name: Gikonko
+SRTM_Hgt: 1573
+Tower_Hgt: 36
+","1573","36"
+"441",Gisakura,29.09253100000,-2.44340000000,Mujabagiro,Buvungira,Bushekeri,Nyamasheke,West,"36","1955","1991",120.00000000000,"420",obstacles - tower - 150 - 20,"Site Name: Gisakura
+SRTM_Hgt: 1955
+Tower_Hgt: 36
+","1955","36"
+"442",Gisenyi,29.25673000000,-1.69865000000,Nyaburanga,Nengo,Gisenyi,Rubavu,West,"60","1468","1528",120.00000000000,"421",obstacles - tower - 150 - 20,"Site Name: Gisenyi
+SRTM_Hgt: 1468
+Tower_Hgt: 60
+","1468","60"
+"443",Gitarama,29.75662000000,-2.07745000000,Gatika,Gitarama,Nyamabuye,Muhanga,South,"100","1885","1985",120.00000000000,"422",obstacles - tower - 150 - 20,"Site Name: Gitarama
+SRTM_Hgt: 1885
+Tower_Hgt: 100
+","1885","100"
+"444",Hanika,29.17258000000,-2.30613000000,Bitega,Vugangoma,Macuba,Nyamasheke,West,"30","1812","1842",120.00000000000,"423",obstacles - tower - 150 - 20,"Site Name: Hanika
+SRTM_Hgt: 1812
+Tower_Hgt: 30
+","1812","30"
+"445",ISAR Karama,30.21287000000,-2.27062000000,Kagasa Ii,Ramiro,Gashora,Bugesera,East,"30","1456","1486",120.00000000000,"424",obstacles - tower - 150 - 20,"Site Name: ISAR Karama
+SRTM_Hgt: 1456
+Tower_Hgt: 30
+","1456","30"
+"446",ISAR Rubona,29.76207000000,-2.44678000000,Karubona,Buhimba,Rusatira,Huye,South,"36","1735","1771",120.00000000000,"425",obstacles - tower - 150 - 20,"Site Name: ISAR Rubona
+SRTM_Hgt: 1735
+Tower_Hgt: 36
+","1735","36"
+"447",ISAR Rwerere,29.87261000000,-1.51157000000,Rwerere,Gashoro,Rwerere,Burera,North,"36","2363","2399",120.00000000000,"426",obstacles - tower - 150 - 20,"Site Name: ISAR Rwerere
+SRTM_Hgt: 2363
+Tower_Hgt: 36
+","2363","36"
+"448",Kabarondo,30.55627000000,-1.98694000000,Rurama,Rusera,Kabarondo,Kayonza,East,"40","1681","1721",120.00000000000,"427",obstacles - tower - 150 - 20,"Site Name: Kabarondo
+SRTM_Hgt: 1681
+Tower_Hgt: 40
+","1681","40"
+"449",Kabarore,30.38053000000,-1.61748000000,Kabaroreii,Kabarore,Kabarore,Gatsibo,East,"45","1502","1547",120.00000000000,"428",obstacles - tower - 150 - 20,"Site Name: Kabarore
+SRTM_Hgt: 1502
+Tower_Hgt: 45
+","1502","45"
+"450",Kamabuye,30.16666000000,-2.37705000000,Byimana,Kampeka,Kamabuye,Bugesera,East,"36","1401","1437",120.00000000000,"429",obstacles - tower - 150 - 20,"Site Name: Kamabuye
+SRTM_Hgt: 1401
+Tower_Hgt: 36
+","1401","36"
+"451",Kamonyi,29.90458000000,-2.01086000000,Kamonyi,Nkingo,Gacurabwenge,Kamonyi,South,"45","1770","1815",120.00000000000,"430",obstacles - tower - 150 - 20,"Site Name: Kamonyi
+SRTM_Hgt: 1770
+Tower_Hgt: 45
+","1770","45"
+"452",Kanama,29.34830000000,-1.70070000000,Bikuka,Mahoko,Kanama,Rubavu,West,"30","1879","1909",120.00000000000,"431",obstacles - tower - 150 - 20,"Site Name: Kanama
+SRTM_Hgt: 1879
+Tower_Hgt: 30
+","1879","30"
+"453",Karangazi,30.39469000000,-1.40061000000,Humure,Rwisirabo,KARANGAZI,Nyagatare,East,"30","1428","1458",120.00000000000,"432",obstacles - tower - 150 - 20,"Site Name: Karangazi
+SRTM_Hgt: 1428
+Tower_Hgt: 30
+","1428","30"
+"454",Kayenzi,29.84670000000,-1.90977000000,Remera,Bugarama,Kayenzi,Kamonyi,South,"30","1806","1836",120.00000000000,"433",obstacles - tower - 150 - 20,"Site Name: Kayenzi
+SRTM_Hgt: 1806
+Tower_Hgt: 30
+","1806","30"
+"455",Kayove,29.35037000000,-1.88921000000,Kayove,Nyakarera,Ruhango,Rutsiro,West,"54","2028","2082",120.00000000000,"434",obstacles - tower - 150 - 20,"Site Name: Kayove
+SRTM_Hgt: 2028
+Tower_Hgt: 54
+","2028","54"
+"456",Kibungo,30.54124000000,-2.16361000000,Amahoro,Karenge,Kibungo,Ngoma,East,"109","1626","1735",120.00000000000,"435",obstacles - tower - 150 - 20,"Site Name: Kibungo
+SRTM_Hgt: 1626
+Tower_Hgt: 109
+","1626","109"
+"457",Kibuye (Gatwaro),29.34969000000,-2.06702000000,Gatwaro,Kibuye,Bwishyura,Karongi,West,"40","1560","1600",120.00000000000,"436",obstacles - tower - 150 - 20,"Site Name: Kibuye (Gatwaro)
+SRTM_Hgt: 1560
+Tower_Hgt: 40
+","1560","40"
+"458",Kidaho,29.74560000000,-1.37909000000,Kidaho,Kagitega,Cyanika,Burera,North,"45","1978","2023",120.00000000000,"437",obstacles - tower - 150 - 20,"Site Name: Kidaho
+SRTM_Hgt: 1978
+Tower_Hgt: 45
+","1978","45"
+"459",Kinigi,29.58731000000,-1.44669000000,Muhe,Kampanga,Kinigi,Musanze,North,"36","2211","2247",120.00000000000,"438",obstacles - tower - 150 - 20,"Site Name: Kinigi
+SRTM_Hgt: 2211
+Tower_Hgt: 36
+","2211","36"
+"460",Kiziguro,30.38503000000,-1.77001000000,Ishanti,Agakomeye,Kiziguro,Gatsibo,East,"30","1582","1612",120.00000000000,"439",obstacles - tower - 150 - 20,"Site Name: Kiziguro
+SRTM_Hgt: 1582
+Tower_Hgt: 30
+","1582","30"
+"461",Kora,29.46393000000,-1.59195000000,Rubare,Rega,Jenda,Nyabihu,West,"65","2628","2693",120.00000000000,"440",obstacles - tower - 150 - 20,"Site Name: Kora
+SRTM_Hgt: 2628
+Tower_Hgt: 65
+","2628","65"
+"462",Manji,29.38880000000,-2.27874000000,Manji,Kanyege,Mutuntu,Karongi,West,"30","2473","2503",120.00000000000,"441",obstacles - tower - 150 - 20,"Site Name: Manji
+SRTM_Hgt: 2473
+Tower_Hgt: 30
+","2473","30"
+"463",Maranyundo hill,30.11272000000,-2.15895000000,Gahembe,Maranyundo,Nyamata,Bugesera,East,"36","1609","1645",120.00000000000,"442",obstacles - tower - 150 - 20,"Site Name: Maranyundo hill
+SRTM_Hgt: 1609
+Tower_Hgt: 36
+","1609","36"
+"464",Mudasomwa,29.48209000000,-2.51424000000,Kagarama,Gasarenda,Tare,Nyamagabe,South,"54","2180","2234",120.00000000000,"443",obstacles - tower - 150 - 20,"Site Name: Mudasomwa
+SRTM_Hgt: 2180
+Tower_Hgt: 54
+","2180","54"
+"465",Muganza,29.85288000000,-2.65074000000,Taba,Remera,Muganza,Gisagara,South,"36","1796","1832",120.00000000000,"444",obstacles - tower - 150 - 20,"Site Name: Muganza
+SRTM_Hgt: 1796
+Tower_Hgt: 36
+","1796","36"
+"466",Mugera,29.04859000000,-2.37391000000,Karuhatana,Mugera,Shangi,Nyamasheke,West,"24","1836","1860",120.00000000000,"445",obstacles - tower - 150 - 20,"Site Name: Mugera
+SRTM_Hgt: 1836
+Tower_Hgt: 24
+","1836","24"
+"467",Mugogo,29.56559000000,-1.58630000000,Kamanga,Rukondo,Kintobo,Nyabihu,West,"18","2574","2592",120.00000000000,"446",obstacles - tower - 150 - 20,"Site Name: Mugogo
+SRTM_Hgt: 2574
+Tower_Hgt: 18
+","2574","18"
+"468",Muhura,30.23790000000,-1.69890000000,Ryagashaka,Rebero,Muko,Gicumbi,North,"30","2038","2068",120.00000000000,"447",obstacles - tower - 150 - 20,"Site Name: Muhura
+SRTM_Hgt: 2038
+Tower_Hgt: 30
+","2038","30"
+"469",Mukamira,29.50658000000,-1.61265000000,Rwanyirangeni,Jaba,Mukamira,Nyabihu,West,"30","2324","2354",120.00000000000,"448",obstacles - tower - 150 - 20,"Site Name: Mukamira
+SRTM_Hgt: 2324
+Tower_Hgt: 30
+","2324","30"
+"470",Mulindi,30.03608000000,-1.47740000000,Nyakabungo,Mulindi,Kaniga,Gicumbi,North,"45","1991","2036",120.00000000000,"449",obstacles - tower - 150 - 20,"Site Name: Mulindi
+SRTM_Hgt: 1991
+Tower_Hgt: 45
+","1991","45"
+"471",Munini (Ndago),29.57306000000,-2.70177000000,Ndago,Ngeri,Munini,Nyaruguru,South,"36","1930","1966",120.00000000000,"450",obstacles - tower - 150 - 20,"Site Name: Munini (Ndago)
+SRTM_Hgt: 1930
+Tower_Hgt: 36
+","1930","36"
+"472",Murama,29.70418000000,-2.26432000000,Gisuma,Nkomero,Mukingo,Nyanza,South,"24","1834","1858",120.00000000000,"451",obstacles - tower - 150 - 20,"Site Name: Murama
+SRTM_Hgt: 1834
+Tower_Hgt: 24
+","1834","24"
+"473",Musambira,29.84266000000,-2.05800000000,Ruvumura,Cyambwe,Musambira,Kamonyi,South,"24","1763","1787",120.00000000000,"452",obstacles - tower - 150 - 20,"Site Name: Musambira
+SRTM_Hgt: 1763
+Tower_Hgt: 24
+","1763","24"
+"475",Muvumba,30.23269000000,-1.38844000000,Muvumba,Kabeza,GATUNDA,Nyagatare,East,"45","1536","1581",120.00000000000,"453",obstacles - tower - 150 - 20,"Site Name: Muvumba
+SRTM_Hgt: 1536
+Tower_Hgt: 45
+","1536","45"
+"476",Muyira,29.86856000000,-2.34541000000,Mugari,Nyundo,Muyira,Nyanza,South,"30","1630","1660",120.00000000000,"454",obstacles - tower - 150 - 20,"Site Name: Muyira
+SRTM_Hgt: 1630
+Tower_Hgt: 30
+","1630","30"
+"477",Nasho,30.66141000000,-2.13289000000,Cyanjuna,Rugarama,Mushikiri,Kirehe,East,"36","1887","1923",120.00000000000,"455",obstacles - tower - 150 - 20,"Site Name: Nasho
+SRTM_Hgt: 1887
+Tower_Hgt: 36
+","1887","36"
+"478",Ndiza,29.71670000000,-1.88447000000,Kagahina,Remera,Kiyumba,Muhanga,South,"45","2282","2327",120.00000000000,"456",obstacles - tower - 150 - 20,"Site Name: Ndiza
+SRTM_Hgt: 2282
+Tower_Hgt: 45
+","2282","45"
+"479",Neke (gatsibo),30.21950000000,-1.56623000000,Neke,Mayange,Nyagihanga,Gatsibo,East,"40","1812","1852",120.00000000000,"457",obstacles - tower - 150 - 20,"Site Name: Neke (gatsibo)
+SRTM_Hgt: 1812
+Tower_Hgt: 40
+","1812","40"
+"480",Ngenda,30.02082000000,-2.29182000000,Nsoro,Rugando,Nyarugenge,Bugesera,East,"40","1549","1589",120.00000000000,"458",obstacles - tower - 150 - 20,"Site Name: Ngenda
+SRTM_Hgt: 1549
+Tower_Hgt: 40
+","1549","40"
+"481",Ngoma-kibingo,29.26125000000,-2.19797000000,Kigarama,Kibingo,Gihombo,Nyamasheke,West,"24","1712","1736",120.00000000000,"459",obstacles - tower - 150 - 20,"Site Name: Ngoma-kibingo
+SRTM_Hgt: 1712
+Tower_Hgt: 24
+","1712","24"
+"482",Nkumba,29.73470000000,-1.43071000000,Kigugu,Nkenke,Kinoni,Burera,North,"36","2046","2082",120.00000000000,"460",obstacles - tower - 150 - 20,"Site Name: Nkumba
+SRTM_Hgt: 2046
+Tower_Hgt: 36
+","2046","36"
+"483",Nshili,29.43688000000,-2.73279000000,Mishungero,Mishungero,Nyabimata,Nyaruguru,South,"30","2444","2474",120.00000000000,"461",obstacles - tower - 150 - 20,"Site Name: Nshili
+SRTM_Hgt: 2444
+Tower_Hgt: 30
+","2444","30"
+"484",Nyabitimbo,29.06615000000,-2.57792000000,Kareba,Gatereri,Butare,Rusizi,West,"36","1808","1844",120.00000000000,"462",obstacles - tower - 150 - 20,"Site Name: Nyabitimbo
+SRTM_Hgt: 1808
+Tower_Hgt: 36
+","1808","36"
+"485",Nyagatare,30.32211000000,-1.30207000000,Nyagatare Ii,Nyagatare,NYAGATARE,Nyagatare,East,"36","1378","1414",120.00000000000,"463",obstacles - tower - 150 - 20,"Site Name: Nyagatare
+SRTM_Hgt: 1378
+Tower_Hgt: 36
+","1378","36"
+"486",Nyakarambi,30.71519000000,-2.27809000000,Rwanteru Ii,Rwanteru,Kigina,Kirehe,East,"36","1723","1759",120.00000000000,"464",obstacles - tower - 150 - 20,"Site Name: Nyakarambi
+SRTM_Hgt: 1723
+Tower_Hgt: 36
+","1723","36"
+"488",Nyamasheke (Kibogora),29.13645000000,-2.32729000000,Kivugiza,Kibogora,Kanjongo,Nyamasheke,West,"36","1599","1635",120.00000000000,"465",obstacles - tower - 150 - 20,"Site Name: Nyamasheke (Kibogora)
+SRTM_Hgt: 1599
+Tower_Hgt: 36
+","1599","36"
+"489",Nyamyijima,29.56600000000,-1.71808000000,Nyarusongati,Guriro,Jomba,Nyabihu,West,"24","2518","2542",120.00000000000,"466",obstacles - tower - 150 - 20,"Site Name: Nyamyijima
+SRTM_Hgt: 2518
+Tower_Hgt: 24
+","2518","24"
+"490",Nyarupfubire,30.40076000000,-1.26999000000,Nyakagando Ii,Nyarupfubire,RWIMIYAGA,Nyagatare,East,"30","1636","1666",120.00000000000,"467",obstacles - tower - 150 - 20,"Site Name: Nyarupfubire
+SRTM_Hgt: 1636
+Tower_Hgt: 30
+","1636","30"
+"492",Nzaratsi,29.55529000000,-2.12944000000,Nyamabuye,Nzaratsi,Murundi,Karongi,West,"30","2192","2222",120.00000000000,"468",obstacles - tower - 150 - 20,"Site Name: Nzaratsi
+SRTM_Hgt: 2192
+Tower_Hgt: 30
+","2192","30"
+"493",Rambura,29.51610000000,-1.69527000000,Karambi,Kibisabo,Rambura,Nyabihu,West,"24","2446","2470",120.00000000000,"469",obstacles - tower - 150 - 20,"Site Name: Rambura
+SRTM_Hgt: 2446
+Tower_Hgt: 24
+","2446","24"
+"494",Rubavu,29.27532000000,-1.67504000000,Kiroji,Murara,Rubavu,Rubavu,West,"36","1916","1952",120.00000000000,"470",obstacles - tower - 150 - 20,"Site Name: Rubavu
+SRTM_Hgt: 1916
+Tower_Hgt: 36
+","1916","36"
+"495",Rubengera,29.39714000000,-2.01722000000,Kunini,Cyarusera,Mushubati,Rutsiro,West,"24","1712","1736",120.00000000000,"471",obstacles - tower - 150 - 20,"Site Name: Rubengera
+SRTM_Hgt: 1712
+Tower_Hgt: 24
+","1712","24"
+"496",Ruhango,29.79192000000,-2.23915000000,Mujyejuru I,Nyamagana,Ruhango,Ruhango,South,"31","1736","1767",120.00000000000,"472",obstacles - tower - 150 - 20,"Site Name: Ruhango
+SRTM_Hgt: 1736
+Tower_Hgt: 31
+","1736","31"
+"497",Ruhengeri Porte,29.64878000000,-1.50937000000,Bwuzuri,Cyabararika,Muhoza,Musanze,North,"30","1839","1869",120.00000000000,"473",obstacles - tower - 150 - 20,"Site Name: Ruhengeri Porte
+SRTM_Hgt: 1839
+Tower_Hgt: 30
+","1839","30"
+"498",Ruhengeri sunrise,29.65509000000,-1.48809000000,Rutemba,Buruba,Cyuve,Musanze,North,"30","1872","1902",120.00000000000,"474",obstacles - tower - 150 - 20,"Site Name: Ruhengeri sunrise
+SRTM_Hgt: 1872
+Tower_Hgt: 30
+","1872","30"
+"499",Ruhengeri/ Nyamagumba,29.63250000000,-1.50812000000,Nyamagumba,Kigombe,Muhoza,Musanze,North,"36","1896","1932",120.00000000000,"475",obstacles - tower - 150 - 20,"Site Name: Ruhengeri/ Nyamagumba
+SRTM_Hgt: 1896
+Tower_Hgt: 36
+","1896","36"
+"500",Ruramba,29.52871000000,-2.57409000000,Uruyange,Nyarugano,Ruramba,Nyaruguru,South,"30","2091","2121",120.00000000000,"476",obstacles - tower - 150 - 20,"Site Name: Ruramba
+SRTM_Hgt: 2091
+Tower_Hgt: 30
+","2091","30"
+"501",Rushaki,30.10380000000,-1.45636000000,Nkamba,Kamutora,Rushaki,Gicumbi,North,"30","2170","2200",120.00000000000,"477",obstacles - tower - 150 - 20,"Site Name: Rushaki
+SRTM_Hgt: 2170
+Tower_Hgt: 30
+","2170","30"
+"502",Rusumo RWTEL,30.78275000000,-2.37609000000,Matare,Kiyanzi,Nyamugari,Kirehe,East,"24","1487","1511",120.00000000000,"478",obstacles - tower - 150 - 20,"Site Name: Rusumo RWTEL
+SRTM_Hgt: 1487
+Tower_Hgt: 24
+","1487","24"
+"503",Ruyenzi,29.98788000000,-1.97131000000,Rubumba,Ruyenzi,Runda,Kamonyi,South,"30","1469","1499",120.00000000000,"479",obstacles - tower - 150 - 20,"Site Name: Ruyenzi
+SRTM_Hgt: 1469
+Tower_Hgt: 30
+","1469","30"
+"504",Rwamagana,30.43466000000,-1.95126000000,Rurembo,Cyanya,Kigabiro,Rwamagana,East,"45","1530","1575",120.00000000000,"480",obstacles - tower - 150 - 20,"Site Name: Rwamagana
+SRTM_Hgt: 1530
+Tower_Hgt: 45
+","1530","45"
+"505",Rwankuba,30.34232000000,-1.94882000000,Kadasumbwa,Musha,Musha,Rwamagana,East,"65","1716","1781",120.00000000000,"481",obstacles - tower - 150 - 20,"Site Name: Rwankuba
+SRTM_Hgt: 1716
+Tower_Hgt: 65
+","1716","65"
+"506",Sake,30.41624000000,-2.22146000000,Umucyo,Kibonde,Sake,Ngoma,East,"54","1546","1600",120.00000000000,"482",obstacles - tower - 150 - 20,"Site Name: Sake
+SRTM_Hgt: 1546
+Tower_Hgt: 54
+","1546","54"
+"507",Save 1,29.77256100000,-2.55630000000,Nyarigina,Gatoki,Save,Gisagara,South,"36","1753","1789",120.00000000000,"483",obstacles - tower - 150 - 20,"Site Name: Save 1
+SRTM_Hgt: 1753
+Tower_Hgt: 36
+","1753","36"
+"508",Suti,29.52985000000,-2.27859000000,Gasiza,Suti,Mugano,Nyamagabe,South,"24","1826","1850",120.00000000000,"484",obstacles - tower - 150 - 20,"Site Name: Suti
+SRTM_Hgt: 1826
+Tower_Hgt: 24
+","1826","24"
+"509",Tonga,29.72259000000,-2.59141000000,Gafurwe,Matyazo,Ngoma,Huye,South,"30","1799","1829",120.00000000000,"485",obstacles - tower - 150 - 20,"Site Name: Tonga
+SRTM_Hgt: 1799
+Tower_Hgt: 30
+","1799","30"
+"510",Tumba-butare,29.73902000000,-2.62880000000,Rebero,Gitwa,Tumba,Huye,South,"65","1762","1827",120.00000000000,"486",obstacles - tower - 150 - 20,"Site Name: Tumba-butare
+SRTM_Hgt: 1762
+Tower_Hgt: 65
+","1762","65"
+"511",Zoko,30.10518000000,-1.75953000000,Nyagasozi,Kabeza,Mutete,Gicumbi,North,"36","1946","1982",120.00000000000,"487",obstacles - tower - 150 - 20,"Site Name: Zoko
+SRTM_Hgt: 1946
+Tower_Hgt: 36
+","1946","36"
+"512",E136_Musha,30.32845000000,-1.92301000000,Nyakiriba,Musha,Musha,Rwamagana,East,"36","1680","1716",120.00000000000,"488",obstacles - tower - 150 - 20,"Site Name: E136_Musha
+SRTM_Hgt: 1680
+Tower_Hgt: 36
+","1680","36"
+"513",2S-KAM-GIHARA,29.96441000000,-1.93976000000,Bimba,Gihara,Runda,Kamonyi,South,"35","1704","1739",120.00000000000,"489",obstacles - tower - 150 - 20,"Site Name: 2S-KAM-GIHARA
+SRTM_Hgt: 1704
+Tower_Hgt: 35
+","1704","35"
+"514",Rukozo,29.95493000000,-1.63978000000,Mwana,Bwimo,RUKOZO,Rulindo,North,"36","2135","2171",120.00000000000,"490",obstacles - tower - 150 - 20,"Site Name: Rukozo
+SRTM_Hgt: 2135
+Tower_Hgt: 36
+","2135","36"
+"515",E139_Murehe,30.27644000000,-2.01374900000,Miyove,Murehe,Muyumbu,Rwamagana,East,"40","1631","1671",120.00000000000,"491",obstacles - tower - 150 - 20,"Site Name: E139_Murehe
+SRTM_Hgt: 1631
+Tower_Hgt: 40
+","1631","40"
+"516",W131_Kagera,29.28737000000,-1.75760000000,Kiguri,Busoro,Nyamyumba,Rubavu,West,"36","1714","1750",120.00000000000,"492",obstacles - tower - 150 - 20,"Site Name: W131_Kagera
+SRTM_Hgt: 1714
+Tower_Hgt: 36
+","1714","36"
+"517",N090_Muyongwe,29.88036300000,-1.72972700000,Kabingo,Gisiza,Muyongwe,Gakenke,North,"45","1721","1766",120.00000000000,"493",obstacles - tower - 150 - 20,"Site Name: N090_Muyongwe
+SRTM_Hgt: 1721
+Tower_Hgt: 45
+","1721","45"
+"518",E137Nyakarambi II,30.67388000000,-2.27742000000,Bwiza,Nyabikokora,Kirehe,Kirehe,East,"40","1621","1661",120.00000000000,"494",obstacles - tower - 150 - 20,"Site Name: E137Nyakarambi II
+SRTM_Hgt: 1621
+Tower_Hgt: 40
+","1621","40"
+"519",E138_Kagitumba II,30.45526000000,-1.05774500000,Munini,Kagitumba,MATIMBA,Nyagatare,East,"36","1283","1319",120.00000000000,"495",obstacles - tower - 150 - 20,"Site Name: E138_Kagitumba II
+SRTM_Hgt: 1283
+Tower_Hgt: 36
+","1283","36"
+"520",W133-Kabumba,29.39114000000,-1.58625000000,Bivumu,Bihungwe,Mudende,Rubavu,West,"45","2375","2420",120.00000000000,"496",obstacles - tower - 150 - 20,"Site Name: W133-Kabumba
+SRTM_Hgt: 2375
+Tower_Hgt: 45
+","2375","45"
+"521",W130_Kivu Watt,29.31918800000,-2.07025200000,Ruganda,Gasura,Bwishyura,Karongi,West,"45","1500","1545",120.00000000000,"497",obstacles - tower - 150 - 20,"Site Name: W130_Kivu Watt
+SRTM_Hgt: 1500
+Tower_Hgt: 45
+","1500","45"
+"522",N093_Kanyirarebe,29.67827300000,-1.43338600000,Remera,Nyangwe,Gahunga,Burera,North,"45","2137","2182",120.00000000000,"498",obstacles - tower - 150 - 20,"Site Name: N093_Kanyirarebe
+SRTM_Hgt: 2137
+Tower_Hgt: 45
+","2137","45"
+"523",Kagina,29.28200000000,-1.65540900000,Rebero,Gikombe,Rubavu,Rubavu,West,"45","1629","1674",120.00000000000,"499",obstacles - tower - 150 - 20,"Site Name: Kagina
+SRTM_Hgt: 1629
+Tower_Hgt: 45
+","1629","45"
+"524",N092_Nyamicucu Â Â Â ,29.86915400000,-1.38676900000,Rwemikore,Nyamicucu,Butaro,Burera,North,"36","2380","2416",120.00000000000,"500",obstacles - tower - 150 - 20,"0","2380","36"
+"525",E140_Musaza II,30.62955400000,-2.37291900000,Nyakiriba,Gasarabwayi,Musaza,Kirehe,East,"36","1378","1414",120.00000000000,"501",obstacles - tower - 150 - 20,"0","1378","36"
+"526",E141_Rurenge II,30.26489200000,-1.36012800000,Nyabwunyu,Rurenge,RUKOMO,Nyagatare,East,"36","1481","1517",120.00000000000,"502",obstacles - tower - 150 - 20,"0","1481","36"
+"527",E143_Mahama II,30.83740800000,-2.30560800000,Nyenyeri,Munini,Mahama,Kirehe,East,"54","1355","1409",120.00000000000,"503",obstacles - tower - 150 - 20,"0","1355","54"
+"528",S120_Kabilizi,29.64571400000,-2.61469100000,Umuyange,Gahororo,Karama,Huye,South,"40","1803","1843",120.00000000000,"504",obstacles - tower - 150 - 20,"0","1803","40"
+"529",E145_Kayumba_Nyamata Rd,30.07011400000,-2.10681400000,Kabaha,Kanzenze,Ntarama,Bugesera,East,"40","1409","1449",120.00000000000,"505",obstacles - tower - 150 - 20,"0","1409","40"
+"530",N095_Gicumbi,30.07937600000,-1.55217600000,Rukiniro,Nyabishambi,Shangasha,Gicumbi,North,"54","2174","2228",120.00000000000,"506",obstacles - tower - 150 - 20,"0","2174","54"
+"531",W135_Boneza,29.29567600000,-1.90529700000,Gaseke,Bushaka,Boneza,Rutsiro,West,"54","1715","1769",120.00000000000,"507",obstacles - tower - 150 - 20,"0","1715","54"
+"532",E144_Kamabuye2,30.14063400000,-2.41801100000,Nyarurama,Biharagu,Kamabuye,Bugesera,East,"54","1412","1466",120.00000000000,"508",obstacles - tower - 150 - 20,"0","1412","54"
+"533",Kibuye III â€“ Gahunduguru,29.49754600000,-2.21758400000,Nyagisozi,Kabingo,Ruganda,Karongi,West,"54","1891","1945",120.00000000000,"509",obstacles - tower - 150 - 20,"0","1891","54"
+"535",E146_Ngeruka2,30.12332500000,-2.25362700000,Shitwe,Gihembe,Ngeruka,Bugesera,East,"45","1396","1441",120.00000000000,"510",obstacles - tower - 150 - 20,"0","1396","45"
+"536",E100_Gatsibo 1,30.42109500000,-1.58911900000,Nyabikiri,Nyabikiri,Kabarore,Gatsibo,East,"45","1577","1622",120.00000000000,"511",obstacles - tower - 150 - 20,"0","1577","45"
+"537",E147_Gatsibo 2,30.35776600000,-1.55827600000,Simbwa,Simbwa,Kabarore,Gatsibo,East,"54","1421","1475",120.00000000000,"512",obstacles - tower - 150 - 20,"0","1421","54"
+"539",Gitesi,29.35542800000,-2.07790300000,Maryohe,Kiniha,Bwishyura,Karongi,West,"36","1588","1624",120.00000000000,"513",obstacles - tower - 150 - 20,"0","1588","36"
+"540",Gisenyi Mbugangari,29.25499400000,-1.66964400000,Rebero,Mbugangari,Gisenyi,Rubavu,West,"36","1556","1592",120.00000000000,"514",obstacles - tower - 150 - 20,"0","1556","36"
+"541",Volcanoes,29.55485300000,-1.43865700000,Musingi,Kaguhu,Kinigi,Musanze,North,"54","2377","2431",120.00000000000,"515",obstacles - tower - 150 - 20,"0","2377","54"
+"542",Gisagara Peat,29.95328000000,-2.47859000000,Gahararo,Kabumbwe,Mamba,Gisagara,South,"40","1482","1522",120.00000000000,"516",obstacles - tower - 150 - 20,"0","1482","40"
+"543",Karukungu_Janja,30.71040900000,-1.66092900000,Mucucu,Buhabwa,Murundi,Kayonza,East,"40","1277","1317",120.00000000000,"517",obstacles - tower - 150 - 20,"0","1277","40"
+"544",Nyange_Musanze,29.61992000000,-1.46258500000,Ntamiziro,Kabeza,Nyange,Musanze,North,"40","2022","2062",120.00000000000,"518",obstacles - tower - 150 - 20,"0","2022","40"
+"545",Manyagiro_2,30.00202700000,-1.52062400000,Gatsyata,Ryaruyumba,Manyagiro,Gicumbi,North,"38","2259","2297",120.00000000000,"519",obstacles - tower - 150 - 20,"0","2259","38"
+"546",Nyamugali 2,29.84398100000,-1.55653200000,Mugomero,Rushara,Nemba,Burera,North,"40","2236","2276",120.00000000000,"520",obstacles - tower - 150 - 20,"0","2236","40"
+"548",Kigeyo2,29.34976600000,-1.83565100000,Rwambeho,Rukaragata,Kigeyo,Rutsiro,West,"40","2239","2279",120.00000000000,"521",obstacles - tower - 150 - 20,"0","2239","40"
+"549",Ndiza 2,29.70328500000,-1.77469200000,Kondo,Ruhango,Rongi,Muhanga,South,"40","2274","2314",120.00000000000,"522",obstacles - tower - 150 - 20,"0","2274","40"
+"550",2E-BUG-NYAMATA,30.08583000000,-2.14349000000,Nyabivumu,Nyamata y' Umujyi,Nyamata,Bugesera,East,"45","1411","1456",120.00000000000,"523",obstacles - tower - 150 - 20,"0","1411","45"
+"551",2E-BUG-MAYANGE,30.14141000000,-2.20238000000,Gitaramuka,Kagenge,Mayange,Bugesera,East,"35","1468","1503",120.00000000000,"524",obstacles - tower - 150 - 20,"0","1468","35"
+"552",2E-BUG-RUHUHA,30.04149000000,-2.29813000000,Mubano,Ruhuha,Ruhuha,Bugesera,East,"45","1489","1534",120.00000000000,"525",obstacles - tower - 150 - 20,"0","1489","45"
+"553",2E-BUG-RAMIRO,30.21307000000,-2.27181000000,Kagasa Ii,Ramiro,Gashora,Bugesera,East,"45","1460","1505",120.00000000000,"526",obstacles - tower - 150 - 20,"0","1460","45"
+"554",2E-BUG-BYIMANA,30.22365000000,-2.15778000000,Byimana,Kimaranzara,Rilima,Bugesera,East,"42","1398","1440",120.00000000000,"527",obstacles - tower - 150 - 20,"0","1398","42"
+"555",2E-BUG-Kanazi,30.10172000000,-2.18264000000,Musagara,Kanazi,Nyamata,Bugesera,East,"35","1517","1552",120.00000000000,"528",obstacles - tower - 150 - 20,"0","1517","35"
+"556",2E-BUG-Kabukuba,30.18535000000,-2.09973000000,Kabukuba,Kabukuba,Juru,Bugesera,East,"36","1487","1523",120.00000000000,"529",obstacles - tower - 150 - 20,"0","1487","36"
+"557",2E-GAT-NGARAMA,30.24884000000,-1.55022000000,Kabeho,Ngarama,Ngarama,Gatsibo,East,"45","1540","1585",120.00000000000,"530",obstacles - tower - 150 - 20,"0","1540","45"
+"558",2E-GAT-MURAMBI,30.33398000000,-1.80847000000,Kagenge,Nyamiyaga,Murambi,Gatsibo,East,"38","1757","1795",120.00000000000,"531",obstacles - tower - 150 - 20,"0","1757","38"
+"559",2E-GAT-Rwimbogo,30.42180000000,-1.66275000000,Rugando,Kiburara,Rwimbogo,Gatsibo,East,"36","1516","1552",120.00000000000,"532",obstacles - tower - 150 - 20,"0","1516","36"
+"560",2N-GIC-BYUMBA,30.06823000000,-1.58022000000,Gacurabwenge,Gacurabwenge,Byumba,Gicumbi,North,"45","2263","2308",120.00000000000,"533",obstacles - tower - 150 - 20,"0","2263","45"
+"561",2N-GIC-GISUNA,30.06059000000,-1.57543000000,Bereshi,Gisuna,Byumba,Gicumbi,North,"32","2224","2256",120.00000000000,"534",obstacles - tower - 150 - 20,"0","2224","32"
+"562",2N-GIC-BYUMBA STADIUM,30.04912000000,-1.59896000000,Rugarama,Nyarutarama,Byumba,Gicumbi,North,"45","2201","2246",120.00000000000,"535",obstacles - tower - 150 - 20,"0","2201","45"
+"563",2N-GIC-NYAMIYAGA,30.08705000000,-1.61210000000,Gatare,Nyamiyaga,Kageyo,Gicumbi,North,"38","2252","2290",120.00000000000,"536",obstacles - tower - 150 - 20,"0","2252","38"
+"564",2N-GIC-HOREZO,30.09808000000,-1.62887000000,Musetsa,Horezo,Kageyo,Gicumbi,North,"45","2181","2226",120.00000000000,"537",obstacles - tower - 150 - 20,"0","2181","45"
+"565",2N-GIC-KAGEYO,30.08778000000,-1.62720000000,Musetsa,Horezo,Kageyo,Gicumbi,North,"42","2156","2198",120.00000000000,"538",obstacles - tower - 150 - 20,"0","2156","42"
+"566",2N-GIC-BWISIGE,30.15248000000,-1.57993000000,Nyarubuye,Bwisige,Bwisige,Gicumbi,North,"60","2084","2144",120.00000000000,"539",obstacles - tower - 150 - 20,"0","2084","60"
+"567",2N-GIC-Mutete,30.10407000000,-1.75635000000,Nyagasozi,Kabeza,Mutete,Gicumbi,North,"60","1947","2007",120.00000000000,"540",obstacles - tower - 150 - 20,"0","1947","60"
+"568",2N-GIC-Rutare II,30.17954000000,-1.73190000000,Kanaba,Gatwaro,Rutare,Gicumbi,North,"35","2087","2122",120.00000000000,"541",obstacles - tower - 150 - 20,"0","2087","35"
+"569",2N-GAK-BURANGA,29.76777000000,-1.61531000000,Burego,Buranga,Nemba,Gakenke,North,"60","2196","2256",120.00000000000,"542",obstacles - tower - 150 - 20,"0","2196","60"
+"570",2S-GIS-GIKONKO,29.86278000000,-2.48532000000,Runyinya,Gikonko,Gikonko,Gisagara,South,"45","1573","1618",120.00000000000,"543",obstacles - tower - 150 - 20,"0","1573","45"
+"571",2S-GIS-BITABIRE,29.76654000000,-2.58555000000,Bitabire,Rwanza,Save,Gisagara,South,"45","1723","1768",120.00000000000,"544",obstacles - tower - 150 - 20,"0","1723","45"
+"572",2S-HUY-TUMBA,29.73957000000,-2.62953000000,Nyarurembo,Gitwa,Tumba,Huye,South,"42","1764","1806",120.00000000000,"545",obstacles - tower - 150 - 20,"0","1764","42"
+"573",2S-HUY-BUTARE,29.73605000000,-2.60954000000,Mamba,Butare,Ngoma,Huye,South,"35","1745","1780",120.00000000000,"546",obstacles - tower - 150 - 20,"0","1745","35"
+"574",2S-HUY-KATOKE,29.76909000000,-2.53883000000,Gasambu,Gatoki,Save,Gisagara,South,"60","1756","1816",120.00000000000,"547",obstacles - tower - 150 - 20,"0","1756","60"
+"575",2S-HUY-KINKANGA,29.76211000000,-2.44694000000,Karubona,Buhimba,Rusatira,Huye,South,"45","1734","1779",120.00000000000,"548",obstacles - tower - 150 - 20,"0","1734","45"
+"576",2S-HUY-TABA,29.74568000000,-2.59672000000,Buye,Butare,Ngoma,Huye,South,"45","1735","1780",120.00000000000,"549",obstacles - tower - 150 - 20,"0","1735","45"
+"577",2S-HUY-HUYE HILL,29.68463000000,-2.56468000000,Karambi,Shyembe,Maraba,Huye,South,"85","2243","2328",120.00000000000,"550",obstacles - tower - 150 - 20,"0","2243","85"
+"578",2S-KAM-MUGINA,29.94837000000,-2.15013000000,Mataba Sud,Kabugondo,Mugina,Kamonyi,South,"60","1547","1607",120.00000000000,"551",obstacles - tower - 150 - 20,"0","1547","60"
+"579",2S-KAM-MUSAMBIRA,29.84265000000,-2.05987000000,Ruvumura,Cyambwe,Musambira,Kamonyi,South,"35","1773","1808",120.00000000000,"552",obstacles - tower - 150 - 20,"0","1773","35"
+"580",2S-KAM-MBATI,29.95752000000,-2.11425000000,Kigorora,Mbati,Mugina,Kamonyi,South,"35","1540","1575",120.00000000000,"553",obstacles - tower - 150 - 20,"0","1540","35"
+"581",2S-KAM-RUNDA,29.93835000000,-1.97283000000,Rugogwe,Kabagesera,Runda,Kamonyi,South,"45","1647","1692",120.00000000000,"554",obstacles - tower - 150 - 20,"0","1647","45"
+"582",2W-KAR-KIBUYE,29.34965000000,-2.06706000000,Gatwaro,Kibuye,Bwishyura,Karongi,West,"45","1560","1605",120.00000000000,"555",obstacles - tower - 150 - 20,"0","1560","45"
+"583",2W-KAR-KARONGI,29.37525000000,-2.14858000000,Bucyurabuhoro,Rubazo,Rwankuba,Karongi,West,"60","2559","2619",120.00000000000,"556",obstacles - tower - 150 - 20,"0","2559","60"
+"584",2W-KAR-MANJI,29.38889000000,-2.27867000000,Manji,Kanyege,Mutuntu,Karongi,West,"35","2473","2508",120.00000000000,"557",obstacles - tower - 150 - 20,"0","2473","35"
+"585",2W-KAR-GISHYITA,29.29263000000,-2.15544000000,Gatare,Cyanya,Gishyita,Karongi,West,"35","1686","1721",120.00000000000,"558",obstacles - tower - 150 - 20,"0","1686","35"
+"586",2W-KAR-BIRAMBO,29.50801000000,-2.15039000000,Kabirizi,Birambo,Gashari,Karongi,West,"48","1792","1840",120.00000000000,"559",obstacles - tower - 150 - 20,"0","1792","48"
+"587",2W-KAR-RUBENGERA,29.44359000000,-2.05148000000,Rukaragata,Nyarugenge,Rubengera,Karongi,West,"45","1975","2020",120.00000000000,"560",obstacles - tower - 150 - 20,"0","1975","45"
+"588",2W-KAR-RUBENGERATOWN,29.40857000000,-2.05361000000,Cyimana,Kibirizi,Rubengera,Karongi,West,"45","1657","1702",120.00000000000,"561",obstacles - tower - 150 - 20,"0","1657","45"
+"589",2W-KAR-MURUNDI,29.55210000000,-2.12911100000,Nyamabuye,Nzaratsi,Murundi,Karongi,West,"60","2057","2117",120.00000000000,"562",obstacles - tower - 150 - 20,"0","2057","60"
+"590",2E-KAY-MUKARANGE,30.50145000000,-1.89940000000,Abisunganye,Bwiza,Mukarange,Kayonza,East,"45","1594","1639",120.00000000000,"563",obstacles - tower - 150 - 20,"0","1594","45"
+"591",2E-KAY-KABARONDO,30.55771000000,-2.01181000000,Rutagara,Cyabajwa,Kabarondo,Kayonza,East,"35","1666","1701",120.00000000000,"564",obstacles - tower - 150 - 20,"0","1666","35"
+"592",2S-MUH-GITARAMA,29.75220000000,-2.08868000000,Rutenga,Gahogo,Nyamabuye,Muhanga,South,"35","1879","1914",120.00000000000,"565",obstacles - tower - 150 - 20,"0","1879","35"
+"593",2S-MUH-MUSHISHIRO,29.70018000000,-2.00228000000,Kabadaha,Munazi,Mushishiro,Muhanga,South,"45","1900","1945",120.00000000000,"566",obstacles - tower - 150 - 20,"0","1900","45"
+"594",2S-MUH-CYUMBA,29.71653000000,-1.88461000000,Kagahina,Remera,Kiyumba,Muhanga,South,"42","2282","2324",120.00000000000,"567",obstacles - tower - 150 - 20,"0","2282","42"
+"595",2S-MUH-SHOGWE,29.79165000000,-2.06977000000,Munyinya,Ruli,Shyogwe,Muhanga,South,"42","1924","1966",120.00000000000,"568",obstacles - tower - 150 - 20,"0","1924","42"
+"596",2S-MUH-MATA,29.74611000000,-2.04106000000,Gasaka,Tyazo,Muhanga,Muhanga,South,"45","1936","1981",120.00000000000,"569",obstacles - tower - 150 - 20,"0","1936","45"
+"597",2S-MUH-NYARUSANGE,29.69248000000,-2.06345000000,Gisasa,Mbiriri,Nyarusange,Muhanga,South,"45","1854","1899",120.00000000000,"570",obstacles - tower - 150 - 20,"0","1854","45"
+"598",2N-MUS-BYIMANA,29.62905000000,-1.49940000000,Byimana,Ruhengeri,Muhoza,Musanze,North,"42","1851","1893",120.00000000000,"571",obstacles - tower - 150 - 20,"0","1851","42"
+"599",2N-MUS-RUKORO,29.64454000000,-1.50324000000,Rukoro,Mpenge,Muhoza,Musanze,North,"31","1831","1862",120.00000000000,"572",obstacles - tower - 150 - 20,"0","1831","31"
+"600",2N-MUS-MARHIMA,29.64563000000,-1.49384000000,Marantima,Rwebeya,Cyuve,Musanze,North,"45","1837","1882",120.00000000000,"573",obstacles - tower - 150 - 20,"0","1837","45"
+"601",2N-MUS-KINIGI,29.58702000000,-1.44686000000,Muhe,Kampanga,Kinigi,Musanze,North,"31","2209","2240",120.00000000000,"574",obstacles - tower - 150 - 20,"0","2209","31"
+"602",2N-MUS-NYARUBUYE,29.56863000000,-1.48683000000,Murenzi,Nyarubuye,Musanze,Musanze,North,"45","2148","2193",120.00000000000,"575",obstacles - tower - 150 - 20,"0","2148","45"
+"603",2N-MUS-Nyakinama,29.62604000000,-1.54056000000,Kamaheke,Songa,Muko,Musanze,North,"36","1754","1790",120.00000000000,"576",obstacles - tower - 150 - 20,"0","1754","36"
+"604",2E-NGM-KIBUNGO,30.55999000000,-2.13777000000,Rubimba,Cyasemakamba,Kibungo,Ngoma,East,"45","1619","1664",120.00000000000,"577",obstacles - tower - 150 - 20,"0","1619","45"
+"605",2E-NGM-KARENGE,30.54465000000,-2.15862000000,Amahoro,Karenge,Kibungo,Ngoma,East,"35","1612","1647",120.00000000000,"578",obstacles - tower - 150 - 20,"0","1612","35"
+"606",2E-NGM-MUTENDELI,30.48971000000,-2.27142000000,Cyanyunga,Mutenderi,Mutenderi,Ngoma,East,"60","1527","1587",120.00000000000,"579",obstacles - tower - 150 - 20,"0","1527","60"
+"607",2E-NGM-GAFUNZO,30.39546000000,-2.22914000000,Rwanyabiranga,Gafunzo,Sake,Ngoma,East,"45","1408","1453",120.00000000000,"580",obstacles - tower - 150 - 20,"0","1408","45"
+"608",2E-NGM-REMERA,30.55593000000,-2.07852000000,Kumukiza,Bugera,Remera,Ngoma,East,"35","1685","1720",120.00000000000,"581",obstacles - tower - 150 - 20,"0","1685","35"
+"609",2E-NGM-ZAZA,30.43108000000,-2.15435000000,Kacyiru,Ruhembe,Zaza,Ngoma,East,"45","1483","1528",120.00000000000,"582",obstacles - tower - 150 - 20,"0","1483","45"
+"610",2E-NGM-MURAMA,30.55569000000,-2.19528000000,Mvumba,Mvumba,Murama,Ngoma,East,"35","1639","1674",120.00000000000,"583",obstacles - tower - 150 - 20,"0","1639","35"
+"611",2E-NYT-NYAGATARE 1,30.32846000000,-1.29296000000,Nyagatare I,Nyagatare,NYAGATARE,Nyagatare,East,"60","1359","1419",120.00000000000,"584",obstacles - tower - 150 - 20,"0","1359","60"
+"612",2E-NYT-MIMURI,30.25714000000,-1.44714000000,Isangano,Rugari,MIMURI,Nyagatare,East,"36","1430","1466",120.00000000000,"585",obstacles - tower - 150 - 20,"0","1430","36"
+"613",2E-NYT-AKAGARI,30.36265000000,-1.35077000000,Ryabega,Rutaraka,NYAGATARE,Nyagatare,East,"45","1504","1549",120.00000000000,"586",obstacles - tower - 150 - 20,"0","1504","45"
+"614",2E-NYT-GATUNDA,30.23284000000,-1.38884000000,Muvumba,Kabeza,GATUNDA,Nyagatare,East,"45","1536","1581",120.00000000000,"587",obstacles - tower - 150 - 20,"0","1536","45"
+"615",2E-NYT-NYARUPUBIRE,30.40071000000,-1.27015000000,Nyakagando Ii,Nyarupfubire,RWIMIYAGA,Nyagatare,East,"45","1635","1680",120.00000000000,"588",obstacles - tower - 150 - 20,"0","1635","45"
+"616",2E-NYT-KAGITUMBA,30.43513000000,-1.08007000000,Byimana,Cyembogo,MATIMBA,Nyagatare,East,"60","1544","1604",120.00000000000,"589",obstacles - tower - 150 - 20,"0","1544","60"
+"617",2E-NYT-GAKIRAGE,30.29239000000,-1.39376000000,Gakirage,Gakirage,NYAGATARE,Nyagatare,East,"60","1408","1468",120.00000000000,"590",obstacles - tower - 150 - 20,"0","1408","60"
+"618",2E-NYT-MATIMBA,30.42514000000,-1.12572000000,Umudugudu Wa I,Matimba,MATIMBA,Nyagatare,East,"60","1425","1485",120.00000000000,"591",obstacles - tower - 150 - 20,"0","1425","60"
+"619",2E-NYT-RWIMIYAGA,30.41621000000,-1.22478000000,Rebero,Rwimiyaga,RWIMIYAGA,Nyagatare,East,"60","1453","1513",120.00000000000,"592",obstacles - tower - 150 - 20,"0","1453","60"
+"620",2E-NYT-RUBAGABAGA,30.40293000000,-1.47499000000,Nkuna,Rubagabaga,KARANGAZI,Nyagatare,East,"60","1491","1551",120.00000000000,"593",obstacles - tower - 150 - 20,"0","1491","60"
+"621",2E-NYT-KATABAGEMU,30.32343000000,-1.44061000000,Ryaruganzu,Rutoma,KATABAGEMU,Nyagatare,East,"45","1500","1545",120.00000000000,"594",obstacles - tower - 150 - 20,"0","1500","45"
+"622",2S-NRU-RURAMBA,29.52925000000,-2.57330000000,Uruyange,Nyarugano,Ruramba,Nyaruguru,South,"42","2093","2135",120.00000000000,"595",obstacles - tower - 150 - 20,"0","2093","42"
+"623",2S-NYA-NYAMAGABE,29.58708000000,-2.47237000000,Sumba,Ngiryi,Gasaka,Nyamagabe,South,"60","1938","1998",120.00000000000,"596",obstacles - tower - 150 - 20,"0","1938","60"
+"624",2S-NYA-TARE,29.49070000000,-2.50778000000,Muse,Gasarenda,Tare,Nyamagabe,South,"60","2203","2263",120.00000000000,"597",obstacles - tower - 150 - 20,"0","2203","60"
+"625",2S-NYA-KITABI,29.43266000000,-2.51570000000,Uwarwubatsi,Kagano,Kitabi,Nyamagabe,South,"60","2377","2437",120.00000000000,"598",obstacles - tower - 150 - 20,"0","2377","60"
+"626",2S-NYA-GASAKA,29.53044000000,-2.48600000000,Munombe,Kigeme,Gasaka,Nyamagabe,South,"42","2125","2167",120.00000000000,"599",obstacles - tower - 150 - 20,"0","2125","42"
+"627",2S-NYA-SHANIKA,29.60665000000,-2.44320000000,Nyanza,Karama,Cyanika,Nyamagabe,South,"60","1972","2032",120.00000000000,"600",obstacles - tower - 150 - 20,"0","1972","60"
+"628",2S-NYA-NGAMBI,29.59990000000,-2.38890000000,Maheresho,Ngambi,Mbazi,Nyamagabe,South,"42","2015","2057",120.00000000000,"601",obstacles - tower - 150 - 20,"0","2015","42"
+"629",2S-NYA-KADUHA,29.53095000000,-2.33164000000,Bamba,Kavumu,Kaduha,Nyamagabe,South,"44","1923","1967",120.00000000000,"602",obstacles - tower - 150 - 20,"0","1923","44"
+"630",2S-NYA-KAMEGERI,29.57580000000,-2.51393000000,Kamiro,Bwama,Kamegeri,Nyamagabe,South,"45","1898","1943",120.00000000000,"603",obstacles - tower - 150 - 20,"0","1898","45"
+"631",2S-NYA-BURUHIKIRO,29.44377000000,-2.42328000000,Gatovu,Gatovu,Musebeya,Nyamagabe,South,"45","2270","2315",120.00000000000,"604",obstacles - tower - 150 - 20,"0","2270","45"
+"632",2S-NYZ-MUYINYA,29.86684000000,-2.34496000000,Mugari,Nyundo,Muyira,Nyanza,South,"60","1616","1676",120.00000000000,"605",obstacles - tower - 150 - 20,"0","1616","60"
+"633",2S-NYZ-MUKINGO,29.70429000000,-2.26410000000,Gisuma,Nkomero,Mukingo,Nyanza,South,"35","1838","1873",120.00000000000,"606",obstacles - tower - 150 - 20,"0","1838","35"
+"634",2S-NYZ-Busoro,29.93143000000,-2.28956000000,Bweramana,Masangano,Busoro,Nyanza,South,"36","1459","1495",120.00000000000,"607",obstacles - tower - 150 - 20,"0","1459","36"
+"635",2S-RUH-GITISI,29.74326000000,-2.23405000000,Ruvugizo,Gitisi,Bweramana,Ruhango,South,"35","1717","1752",120.00000000000,"608",obstacles - tower - 150 - 20,"0","1717","35"
+"636",2S-RUH-Kinazi Kassava Plant,29.97335000000,-2.21851000000,Gitwa,Rutabo,Kinazi,Ruhango,South,"36","1441","1477",120.00000000000,"609",obstacles - tower - 150 - 20,"0","1441","36"
+"637",2N-RUL-BUYOGA,30.01490000000,-1.68438000000,Mataba,Mwumba,BUYOGA,Rulindo,North,"60","2114","2174",120.00000000000,"610",obstacles - tower - 150 - 20,"0","2114","60"
+"638",2W-RUS-NYAMITIMBO,29.06526000000,-2.57416000000,Nyambeho,Gatereri,Butare,Rusizi,West,"45","1764","1809",120.00000000000,"611",obstacles - tower - 150 - 20,"0","1764","45"
+"640",2W-RUS-NYAKABUYE,29.02879000000,-2.56566000000,Kiyovu,Kamanu,Nyakabuye,Rusizi,West,"35","1226","1261",120.00000000000,"612",obstacles - tower - 150 - 20,"0","1226","35"
+"641",2W-RUS-SHARA,29.01529000000,-2.60858000000,Kabarore,Shara,Muganza,Rusizi,West,"35","1120","1155",120.00000000000,"613",obstacles - tower - 150 - 20,"0","1120","35"
+"642",2W-RUS-BUGARAMA,29.00763000000,-2.69756000000,Nyange,Nyange,Bugarama,Rusizi,West,"35","959","994",120.00000000000,"614",obstacles - tower - 150 - 20,"0","959","35"
+"643",2W-RUS-MUGANZA,29.01288000000,-2.64078000000,Kiyovu,Gakoni,Muganza,Rusizi,West,"35","1034","1069",120.00000000000,"615",obstacles - tower - 150 - 20,"0","1034","35"
+"652",2W-KAR-KAYOVE,29.33159000000,-1.88906000000,Nkomero,Magaba,Mushonyi,Rutsiro,West,"45","2120","2165",120.00000000000,"616",obstacles - tower - 150 - 20,"0","2120","45"
+"653",2W-RUT-MUSHABATI,29.39687000000,-2.01709000000,Kunini,Cyarusera,Mushubati,Rutsiro,West,"35","1711","1746",120.00000000000,"617",obstacles - tower - 150 - 20,"0","1711","35"
+"654",2W-RUT-RUHANGO,29.36199000000,-1.85683000000,Ngunguru,Rurara,Mushonyi,Rutsiro,West,"35","2179","2214",120.00000000000,"618",obstacles - tower - 150 - 20,"0","2179","35"
+"655",2W-RUV-GISENYI,29.25342000000,-1.67677000000,Uburezi,Mbugangari,Gisenyi,Rubavu,West,"35","1539","1574",120.00000000000,"619",obstacles - tower - 150 - 20,"0","1539","35"
+"656",2W-RUV-RUGERERO,29.28988000000,-1.68385000000,Shwemu,Gisa,Rugerero,Rubavu,West,"35","1687","1722",120.00000000000,"620",obstacles - tower - 150 - 20,"0","1687","35"
+"657",2W-RUV-DUFATANYE,29.26764000000,-1.65919000000,Dufatanye,Buhaza,Rubavu,Rubavu,West,"35","1608","1643",120.00000000000,"621",obstacles - tower - 150 - 20,"0","1608","35"
+"658",2W-RUV-KANAMA,29.34812000000,-1.70077000000,Bikuka,Mahoko,Kanama,Rubavu,West,"45","1880","1925",120.00000000000,"622",obstacles - tower - 150 - 20,"0","1880","45"
+"659",2W-RUV-LWAZA,29.26875000000,-1.69969000000,Rwaza,Rwaza,Rugerero,Rubavu,West,"35","1642","1677",120.00000000000,"623",obstacles - tower - 150 - 20,"0","1642","35"
+"660",2W-RUV-NYAMYUMBA,29.26518000000,-1.72415000000,Butotori,Rubona,Nyamyumba,Rubavu,West,"42","1648","1690",120.00000000000,"624",obstacles - tower - 150 - 20,"0","1648","42"
+"661",2W-RUV-RUSASAMANA,29.32670000000,-1.61292000000,Kanyamagare,Ryabizige,Cyanzarwe,Rubavu,West,"45","1999","2044",120.00000000000,"625",obstacles - tower - 150 - 20,"0","1999","45"
+"662",2E-RWG-RWAMAGANATOWN,30.43607000000,-1.94801000000,Plage,Nyarusange,Muhazi,Rwamagana,East,"35","1525","1560",120.00000000000,"626",obstacles - tower - 150 - 20,"0","1525","35"
+"663",2E-RWG-MUHAZI,30.45284000000,-1.89110000000,Umunini,Kabare,Muhazi,Rwamagana,East,"36","1522","1558",120.00000000000,"627",obstacles - tower - 150 - 20,"0","1522","36"
+"664",2E-RWG-BIHEMBE,30.27370000000,-2.06642000000,Kimicanga,Rwimbogo,Nyakaliro,Rwamagana,East,"60","1689","1749",120.00000000000,"628",obstacles - tower - 150 - 20,"0","1689","60"
+"665",2E-RWG-RUNYINYA,30.29230000000,-1.91318000000,Gacunshu,Runyinya,Gahengeri,Rwamagana,East,"32","1649","1681",120.00000000000,"629",obstacles - tower - 150 - 20,"0","1649","32"
+"666",2E-RWG-Karenge,30.30343000000,-2.08647000000,Rebero,Karenge,Karenge,Rwamagana,East,"36","1524","1560",120.00000000000,"630",obstacles - tower - 150 - 20,"0","1524","36"
+"667",2KAR_KARONGI,29.37483000000,-2.14827000000,Bucyurabuhoro,Rubazo,Rwankuba,Karongi,West,"45","2569","2614",120.00000000000,"631",obstacles - tower - 150 - 20,"0","2569","45"
+"668",2NYZ_NYANZA,29.75002454000,-2.35789323000,Kivumu,Nyanza,Busasamana,Nyanza,South,"100","1800","1900",120.00000000000,"632",obstacles - tower - 150 - 20,"0","1800","100"
+"669",2HUY_HUYE,29.68461000000,-2.56469000000,Karambi,Shyembe,Maraba,Huye,South,"54","2243","2297",120.00000000000,"633",obstacles - tower - 150 - 20,"0","2243","54"
+"670",Huye,29.68453200000,-2.56460800000,Ngobagoba,Sovu,Huye,Huye,South,"54","2240","2294",120.00000000000,"634",obstacles - tower - 150 - 20,"0","2240","54"
+"671",MUGOGO,29.56572000000,-1.58636600000,Kankima,Rukondo,Kintobo,Nyabihu,West,"45","2572","2617",120.00000000000,"635",obstacles - tower - 150 - 20,"0","2572","45"
